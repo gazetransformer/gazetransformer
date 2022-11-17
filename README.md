@@ -13,7 +13,7 @@ manner. In addition, it can infer more atomic-level behaviours that cannot be ha
 We achieve state-of-the-art performance on both atomic- and event-level prediction on the VACATION+ dataset.
 ## Dataset (VACATION+) ##
 
-The VACATION+ folder contains the annotations of the modified VACATION dataset.
+The [VACATION+ folder](datasets/VACATION+) contains the annotations of the modified VACATION dataset.
 
 Please [contact the authors of the original VACATION dataset](https://github.com/LifengFan/Human-Gaze-Communication) to access the corresponding video.
 
@@ -26,7 +26,7 @@ You will need to fill out a Google form to request access.
 ## Demo ##
 We aim to simultaneously predict head and object locations and infer their corresponding gaze relationships in an end-to-end manner.
 
-Unlike previous end-to-end models that can only infer attended targets or handle Mutual gaze relationships, our GazeTransformer can predict Single, Share and Mutual atomic-level behaviours (see below).
+Unlike previous end-to-end models that can only infer attended targets or handle Mutual gaze relationships, our GazeTransformer can predict Single, Share and Mutual atomic-level behaviours (see below - it might take a while to load the file, so please wait).
 
 ![Alt Text](sample_output/64.gif)
 
