@@ -7,7 +7,7 @@ We address the problem of temporal understanding of gaze
 communication in social videos in two stages. First, we develop GazeTransformer, an end-to-end module that predicts
 atomic-level behaviours in a frame. Second, we develop
 a temporal module that predicts event-level behaviours in
-a video using the inferred atomic-level behaviours. Comared to existing methods, GazeTransformer does not 
+a video using the inferred atomic-level behaviours. Compared to existing methods, GazeTransformer does not 
 require human head and object locations as input. Instead, it identifies these locations in a parallel and end-to-end
 manner. In addition, it can infer more atomic-level behaviours that cannot be handled by previous approaches.
 We achieve state-of-the-art performance on both atomic- and event-level prediction on the VACATION+ dataset.
@@ -26,7 +26,9 @@ You will need to fill out a Google form to request access.
 ## Demo ##
 We aim to simultaneously predict head and object locations and infer their corresponding gaze relationships in an end-to-end manner.
 
-Unlike previous end-to-end models that can only infer attended targets or handle Mutual gaze relationships, our GazeTransformer can predict Single, Share and Mutual atomic-level behaviours (see below - it might take a while to load the file, so please wait).
+Unlike previous end-to-end models that can only infer attended targets or handle Mutual gaze relationships, our GazeTransformer can predict Single, Share and Mutual atomic-level behaviours.
+
+See an example output below. **NOTE: that it might take a while to load the file, so please wait.**
 
 ![Alt Text](sample_output/64.gif)
 
