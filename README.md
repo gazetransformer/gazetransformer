@@ -20,9 +20,11 @@ Unlike previous end-to-end models that can only infer attended targets or handle
 
 ![Alt Text](sample_output/64.gif)
 
-Sample results of our model can be found in the 'sample_output' folder.
+Sample results of our model can be found in the [sample_output'](sample_output) folder.
 
 The dotted rectangles represent ground truth human and object locations, while solid rectangles represent model predictions.
+
+Correctly classified atomic-level labels are in green, while incorrectly classified labels are in red and above their corresponding ground truth labels.
 
 <!--
 **gazetransformer/gazetransformer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
