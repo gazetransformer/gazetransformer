@@ -1,0 +1,2002 @@
+ 0 101   3 377 294   0 0 0 0 Person1 MutualGaze mutual  P2
+ 1 375   3 609 285   0 0 0 0 Person2 MutualGaze mutual  P1
+ 0 101   3 377 294   1 0 0 1 Person1 MutualGaze mutual  P2
+ 1 375   3 609 285   1 0 0 1 Person2 MutualGaze mutual  P1
+ 0 101   3 377 294   2 0 0 1 Person1 MutualGaze mutual  P2
+ 1 376   3 610 285   2 0 0 1 Person2 MutualGaze mutual  P1
+ 0 102   3 378 294   3 0 0 1 Person1 MutualGaze mutual  P2
+ 1 376   3 610 285   3 0 0 1 Person2 MutualGaze mutual  P1
+ 0 102   4 378 295   4 0 0 1 Person1 MutualGaze mutual  P2
+ 1 377   3 611 285   4 0 0 1 Person2 MutualGaze mutual  P1
+ 0 103   4 379 295   5 0 0 1 Person1 MutualGaze mutual  P2
+ 1 377   3 611 285   5 0 0 1 Person2 MutualGaze mutual  P1
+ 0 103   4 379 295   6 0 0 1 Person1 MutualGaze mutual  P2
+ 1 378   3 612 285   6 0 0 1 Person2 MutualGaze mutual  P1
+ 0 103   5 379 296   7 0 0 1 Person1 MutualGaze mutual  P2
+ 1 378   4 612 286   7 0 0 1 Person2 MutualGaze mutual  P1
+ 0 104   5 380 296   8 0 0 1 Person1 MutualGaze mutual  P2
+ 1 379   4 613 286   8 0 0 1 Person2 MutualGaze mutual  P1
+ 0 104   5 380 296   9 0 0 1 Person1 MutualGaze mutual  P2
+ 1 379   4 613 286   9 0 0 1 Person2 MutualGaze mutual  P1
+ 0 105   6 381 297  10 0 0 1 Person1 MutualGaze mutual  P2
+ 1 380   4 614 286  10 0 0 1 Person2 MutualGaze mutual  P1
+ 0 105   6 381 297  11 0 0 1 Person1 MutualGaze mutual  P2
+ 1 380   4 614 286  11 0 0 1 Person2 MutualGaze mutual  P1
+ 0 106   6 382 297  12 0 0 1 Person1 MutualGaze mutual  P2
+ 1 381   4 615 286  12 0 0 1 Person2 MutualGaze mutual  P1
+ 0 106   7 382 298  13 0 0 1 Person1 MutualGaze mutual  P2
+ 1 381   5 615 287  13 0 0 1 Person2 MutualGaze mutual  P1
+ 0 106   7 382 298  14 0 0 1 Person1 MutualGaze mutual  P2
+ 1 382   5 616 287  14 0 0 1 Person2 MutualGaze mutual  P1
+ 0 107   7 383 298  15 0 0 1 Person1 MutualGaze mutual  P2
+ 1 382   5 616 287  15 0 0 1 Person2 MutualGaze mutual  P1
+ 0 107   8 383 299  16 0 0 1 Person1 MutualGaze mutual  P2
+ 1 383   5 617 287  16 0 0 1 Person2 MutualGaze mutual  P1
+ 0 108   8 384 299  17 0 0 1 Person1 MutualGaze mutual  P2
+ 1 383   5 617 287  17 0 0 1 Person2 MutualGaze mutual  P1
+ 0 108   8 384 299  18 0 0 1 Person1 MutualGaze mutual  P2
+ 1 384   5 618 287  18 0 0 1 Person2 MutualGaze mutual  P1
+ 0 109   9 385 300  19 0 0 0 Person1 MutualGaze mutual  P2
+ 1 385   6 619 288  19 0 0 1 Person2 MutualGaze mutual  P1
+ 0 109   9 385 300  20 0 0 1 Person1 MutualGaze mutual  P2
+ 1 385   6 619 288  20 0 0 1 Person2 MutualGaze mutual  P1
+ 0 109   9 385 300  21 0 0 1 Person1 MutualGaze mutual  P2
+ 1 386   6 620 288  21 0 0 1 Person2 MutualGaze mutual  P1
+ 0 110   9 386 300  22 0 0 1 Person1 MutualGaze mutual  P2
+ 1 386   6 620 288  22 0 0 1 Person2 MutualGaze mutual  P1
+ 0 110   9 386 300  23 0 0 1 Person1 MutualGaze mutual  P2
+ 1 387   6 621 288  23 0 0 1 Person2 MutualGaze mutual  P1
+ 0 110   9 386 300  24 0 0 1 Person1 MutualGaze mutual  P2
+ 1 387   6 621 288  24 0 0 1 Person2 MutualGaze mutual  P1
+ 0 111   9 387 300  25 0 0 1 Person1 MutualGaze mutual  P2
+ 1 388   6 622 288  25 0 0 1 Person2 MutualGaze mutual  P1
+ 0 111   9 387 300  26 0 0 1 Person1 MutualGaze mutual  P2
+ 1 388   7 622 289  26 0 0 1 Person2 MutualGaze mutual  P1
+ 0 112   9 388 300  27 0 0 1 Person1 MutualGaze mutual  P2
+ 1 389   7 623 289  27 0 0 1 Person2 MutualGaze mutual  P1
+ 0 112   9 388 300  28 0 0 1 Person1 MutualGaze mutual  P2
+ 1 389   7 623 289  28 0 0 1 Person2 MutualGaze mutual  P1
+ 0 112   9 388 300  29 0 0 1 Person1 MutualGaze mutual  P2
+ 1 390   7 624 289  29 0 0 1 Person2 MutualGaze mutual  P1
+ 0 113  10 389 301  30 0 0 1 Person1 MutualGaze mutual  P2
+ 1 390   7 624 289  30 0 0 1 Person2 MutualGaze mutual  P1
+ 0 113  10 389 301  31 0 0 1 Person1 MutualGaze mutual  P2
+ 1 391   7 625 289  31 0 0 1 Person2 MutualGaze mutual  P1
+ 0 113  10 389 301  32 0 0 1 Person1 MutualGaze mutual  P2
+ 1 391   8 625 290  32 0 0 1 Person2 MutualGaze mutual  P1
+ 0 114  10 390 301  33 0 0 1 Person1 MutualGaze mutual  P2
+ 1 392   8 626 290  33 0 0 1 Person2 MutualGaze mutual  P1
+ 0 114  10 390 301  34 0 0 1 Person1 MutualGaze mutual  P2
+ 1 392   8 626 290  34 0 0 1 Person2 MutualGaze mutual  P1
+ 0 115  10 391 301  35 0 0 1 Person1 MutualGaze mutual  P2
+ 1 393   8 627 290  35 0 0 1 Person2 MutualGaze mutual  P1
+ 0 115  10 391 301  36 0 0 1 Person1 MutualGaze mutual  P2
+ 1 393   8 627 290  36 0 0 1 Person2 MutualGaze mutual  P1
+ 0 115  10 391 301  37 0 0 1 Person1 MutualGaze mutual  P2
+ 1 394   8 628 290  37 0 0 1 Person2 MutualGaze mutual  P1
+ 0 116  10 392 301  38 0 0 1 Person1 MutualGaze mutual  P2
+ 1 395   9 629 291  38 0 0 0 Person2 MutualGaze mutual  P1
+ 0 116  10 392 301  39 0 0 1 Person1 MutualGaze mutual  P2
+ 1 395   9 629 291  39 0 0 1 Person2 MutualGaze mutual  P1
+ 0 117  11 393 302  40 0 0 0 Person1 MutualGaze mutual  P2
+ 1 395   9 629 291  40 0 0 1 Person2 MutualGaze mutual  P1
+ 0 117  11 393 302  41 0 0 1 Person1 MutualGaze mutual  P2
+ 1 395   9 629 291  41 0 0 1 Person2 MutualGaze mutual  P1
+ 0 117  11 393 302  42 0 0 1 Person1 MutualGaze mutual  P2
+ 1 395   9 629 291  42 0 0 1 Person2 MutualGaze mutual  P1
+ 0 117  11 393 302  43 0 0 1 Person1 MutualGaze mutual  P2
+ 1 395   9 629 291  43 0 0 1 Person2 MutualGaze mutual  P1
+ 0 117  11 393 302  44 0 0 1 Person1 MutualGaze mutual  P2
+ 1 395   9 629 291  44 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  46 0 0 0 Object1        NaN    NaN NaN
+ 2 259  21 460 261  46 0 0 0 Person1 MutualGaze mutual  P2
+ 3 474   7 634 277  46 0 0 0 Person2 MutualGaze mutual  P1
+18  84 233 386 354  47 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  47 0 0 1 Person1 MutualGaze mutual  P2
+ 3 474   7 634 277  47 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  48 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  48 0 0 1 Person1 MutualGaze mutual  P2
+ 3 475   7 634 277  48 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  49 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  49 0 0 1 Person1 MutualGaze mutual  P2
+ 3 475   7 634 277  49 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  50 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  50 0 0 1 Person1 MutualGaze mutual  P2
+ 3 476   7 634 277  50 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  51 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  51 0 0 1 Person1 MutualGaze mutual  P2
+ 3 476   7 634 277  51 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  52 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  52 0 0 1 Person1 MutualGaze mutual  P2
+ 3 477   7 634 277  52 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  53 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  53 0 0 1 Person1 MutualGaze mutual  P2
+ 3 477   7 634 277  53 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  54 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  54 0 0 1 Person1 MutualGaze mutual  P2
+ 3 478   7 634 277  54 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  55 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  55 0 0 1 Person1 MutualGaze mutual  P2
+ 3 478   7 634 277  55 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  56 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  56 0 0 1 Person1 MutualGaze mutual  P2
+ 3 479   7 634 277  56 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  57 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  57 0 0 1 Person1 MutualGaze mutual  P2
+ 3 479   7 634 277  57 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  58 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  58 0 0 1 Person1 MutualGaze mutual  P2
+ 3 480   7 634 277  58 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  59 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  59 0 0 1 Person1 MutualGaze mutual  P2
+ 3 480   7 634 277  59 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  60 0 0 1 Object1        NaN    NaN NaN
+ 2 258  20 459 260  60 0 0 1 Person1 MutualGaze mutual  P2
+ 3 481   7 634 277  60 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  61 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  61 0 0 1 Person1 MutualGaze mutual  P2
+ 3 481   7 634 277  61 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  62 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  62 0 0 1 Person1 MutualGaze mutual  P2
+ 3 482   7 634 277  62 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  63 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  63 0 0 1 Person1 MutualGaze mutual  P2
+ 3 482   7 634 277  63 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  64 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  64 0 0 1 Person1 MutualGaze mutual  P2
+ 3 483   7 634 277  64 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  65 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  65 0 0 1 Person1 MutualGaze mutual  P2
+ 3 483   7 634 277  65 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  66 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  66 0 0 1 Person1 MutualGaze mutual  P2
+ 3 484   7 634 277  66 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  67 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  67 0 0 1 Person1 MutualGaze mutual  P2
+ 3 484   7 634 277  67 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  68 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  68 0 0 1 Person1 MutualGaze mutual  P2
+ 3 485   7 634 277  68 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  69 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  69 0 0 1 Person1 MutualGaze mutual  P2
+ 3 485   7 634 277  69 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  70 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  70 0 0 1 Person1 MutualGaze mutual  P2
+ 3 486   7 634 277  70 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  71 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  71 0 0 1 Person1 MutualGaze mutual  P2
+ 3 486   7 634 277  71 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  72 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  72 0 0 1 Person1 MutualGaze mutual  P2
+ 3 487   7 634 277  72 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  73 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  73 0 0 1 Person1 MutualGaze mutual  P2
+ 3 487   7 634 277  73 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  74 0 0 1 Object1        NaN    NaN NaN
+ 2 257  20 458 260  74 0 0 1 Person1 MutualGaze mutual  P2
+ 3 488   7 634 277  74 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  75 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  75 0 0 1 Person1 MutualGaze mutual  P2
+ 3 488   7 634 277  75 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  76 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  76 0 0 1 Person1 MutualGaze mutual  P2
+ 3 489   7 634 277  76 0 0 0 Person2 MutualGaze mutual  P1
+18  84 233 386 354  77 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  77 0 0 1 Person1 MutualGaze mutual  P2
+ 3 493   7 634 277  77 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  78 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  78 0 0 1 Person1 MutualGaze mutual  P2
+ 3 497   7 634 277  78 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  79 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  79 0 0 1 Person1 MutualGaze mutual  P2
+ 3 501   7 634 277  79 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  80 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  80 0 0 1 Person1 MutualGaze mutual  P2
+ 3 505   7 634 277  80 0 0 0 Person2 MutualGaze mutual  P1
+18  84 233 386 354  81 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  81 0 0 1 Person1 MutualGaze mutual  P2
+ 3 509   7 634 277  81 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  82 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  82 0 0 1 Person1 MutualGaze mutual  P2
+ 3 513   7 634 277  82 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  83 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  83 0 0 1 Person1 MutualGaze mutual  P2
+ 3 518   7 634 277  83 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  84 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  84 0 0 1 Person1 MutualGaze mutual  P2
+ 3 522   7 634 277  84 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  85 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  85 0 0 1 Person1 MutualGaze mutual  P2
+ 3 527   7 634 277  85 0 0 0 Person2 MutualGaze mutual  P1
+18  84 233 386 354  86 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  86 0 0 1 Person1 MutualGaze mutual  P2
+ 3 531   7 634 277  86 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  87 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  87 0 0 1 Person1 MutualGaze mutual  P2
+ 3 535   7 634 277  87 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  88 0 0 1 Object1        NaN    NaN NaN
+ 2 256  20 457 260  88 0 0 1 Person1 MutualGaze mutual  P2
+ 3 540   7 634 277  88 0 0 0 Person2 MutualGaze mutual  P1
+18  84 233 386 354  89 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  89 0 0 1 Person1 MutualGaze mutual  P2
+ 3 539   7 634 277  89 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  90 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  90 0 0 1 Person1 MutualGaze mutual  P2
+ 3 538   7 634 277  90 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  91 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  91 0 0 1 Person1 MutualGaze mutual  P2
+ 3 538   7 634 277  91 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  92 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  92 0 0 1 Person1 MutualGaze mutual  P2
+ 3 537   7 634 277  92 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  93 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  93 0 0 1 Person1 MutualGaze mutual  P2
+ 3 537   7 634 277  93 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  94 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  94 0 0 1 Person1 MutualGaze mutual  P2
+ 3 536   7 634 277  94 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  95 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  95 0 0 1 Person1 MutualGaze mutual  P2
+ 3 536   7 634 277  95 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  96 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  96 0 0 1 Person1 MutualGaze mutual  P2
+ 3 535   7 634 277  96 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  97 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  97 0 0 1 Person1 MutualGaze mutual  P2
+ 3 535   7 634 277  97 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  98 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  98 0 0 1 Person1 MutualGaze mutual  P2
+ 3 534   7 634 277  98 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354  99 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259  99 0 0 1 Person1 MutualGaze mutual  P2
+ 3 534   7 634 277  99 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354 100 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259 100 0 0 1 Person1 MutualGaze mutual  P2
+ 3 533   7 634 277 100 0 0 1 Person2 MutualGaze mutual  P1
+18  84 233 386 354 101 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259 101 0 0 1 Person1   JointAtt single NaN
+ 3 533   7 634 277 101 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 102 0 0 1 Object1        NaN    NaN NaN
+ 2 255  19 456 259 102 0 0 1 Person1   JointAtt single NaN
+ 3 532   7 634 277 102 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 103 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 103 0 0 1 Person1   JointAtt single NaN
+ 3 532   7 634 277 103 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 104 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 104 0 0 1 Person1   JointAtt single NaN
+ 3 531   7 634 277 104 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 105 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 105 0 0 1 Person1   JointAtt single NaN
+ 3 530   7 634 277 105 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 106 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 106 0 0 1 Person1   JointAtt single NaN
+ 3 530   7 634 277 106 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 107 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 107 0 0 1 Person1   JointAtt single NaN
+ 3 529   7 634 277 107 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 108 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 108 0 0 1 Person1   JointAtt single NaN
+ 3 529   7 634 277 108 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 109 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 109 0 0 1 Person1   JointAtt single  O1
+ 3 528   7 634 277 109 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 110 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 110 0 0 1 Person1   JointAtt single  O1
+ 3 528   7 634 277 110 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 111 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 111 0 0 1 Person1   JointAtt single  O1
+ 3 527   7 634 277 111 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 112 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 112 0 0 1 Person1   JointAtt single  O1
+ 3 527   7 634 277 112 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 113 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 113 0 0 1 Person1   JointAtt single  O1
+ 3 526   7 634 277 113 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 114 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 114 0 0 1 Person1   JointAtt single  O1
+ 3 526   7 634 277 114 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 115 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 115 0 0 1 Person1   JointAtt single  O1
+ 3 525   7 634 277 115 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 116 0 0 1 Object1        NaN    NaN NaN
+ 2 254  19 455 259 116 0 0 1 Person1   JointAtt single  O1
+ 3 525   7 634 277 116 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 117 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 117 0 0 1 Person1   JointAtt single  O1
+ 3 524   7 634 277 117 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 118 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 118 0 0 1 Person1   JointAtt single  O1
+ 3 524   7 634 277 118 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 119 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 119 0 0 1 Person1   JointAtt single  O1
+ 3 523   7 634 277 119 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 120 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 120 0 0 1 Person1   JointAtt single  O1
+ 3 522   7 634 277 120 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 121 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 121 0 0 1 Person1   JointAtt single  O1
+ 3 522   7 634 277 121 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 122 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 122 0 0 1 Person1   JointAtt single  O1
+ 3 521   7 634 277 122 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 123 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 123 0 0 1 Person1   JointAtt single  O1
+ 3 521   7 634 277 123 0 0 1 Person2   JointAtt single  P1
+18  84 233 386 354 124 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 124 0 0 1 Person1   JointAtt single  O1
+ 3 520   7 634 277 124 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 125 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 125 0 0 1 Person1   JointAtt single  O1
+ 3 520   7 634 277 125 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 126 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 126 0 0 1 Person1   JointAtt single  O1
+ 3 519   7 634 277 126 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 127 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 127 0 0 1 Person1   JointAtt single  O1
+ 3 519   7 634 277 127 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 128 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 128 0 0 1 Person1   JointAtt single  O1
+ 3 518   7 634 277 128 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 129 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 129 0 0 1 Person1   JointAtt single  O1
+ 3 518   7 634 277 129 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 130 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 130 0 0 1 Person1   JointAtt single  O1
+ 3 517   7 634 277 130 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 131 0 0 1 Object1        NaN    NaN NaN
+ 2 253  19 454 259 131 0 0 0 Person1   JointAtt single  O1
+ 3 517   7 634 277 131 0 0 1 Person2   JointAtt single NaN
+18  84 233 386 354 132 0 0 1 Object1        NaN    NaN NaN
+ 2 252  20 453 260 132 0 0 1 Person1   JointAtt  share  O1
+ 3 516   7 634 277 132 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 133 0 0 1 Object1        NaN    NaN NaN
+ 2 251  21 452 261 133 0 0 1 Person1   JointAtt  share  O1
+ 3 516   7 634 277 133 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 134 0 0 1 Object1        NaN    NaN NaN
+ 2 250  22 451 262 134 0 0 1 Person1   JointAtt  share  O1
+ 3 515   7 634 277 134 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 135 0 0 1 Object1        NaN    NaN NaN
+ 2 249  23 450 263 135 0 0 1 Person1   JointAtt  share  O1
+ 3 515   7 634 277 135 0 0 0 Person2   JointAtt  share  O1
+18  84 233 386 354 136 0 0 1 Object1        NaN    NaN NaN
+ 2 248  24 449 264 136 0 0 1 Person1   JointAtt  share  O1
+ 3 518   7 634 277 136 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 137 0 0 1 Object1        NaN    NaN NaN
+ 2 247  25 448 265 137 0 0 1 Person1   JointAtt  share  O1
+ 3 522   7 634 277 137 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 138 0 0 1 Object1        NaN    NaN NaN
+ 2 246  26 447 266 138 0 0 1 Person1   JointAtt  share  O1
+ 3 526   7 634 277 138 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 139 0 0 1 Object1        NaN    NaN NaN
+ 2 245  27 446 267 139 0 0 1 Person1   JointAtt  share  O1
+ 3 530   7 634 277 139 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 140 0 0 1 Object1        NaN    NaN NaN
+ 2 245  28 446 268 140 0 0 1 Person1   JointAtt  share  O1
+ 3 534   7 634 277 140 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 141 0 0 1 Object1        NaN    NaN NaN
+ 2 244  29 445 269 141 0 0 1 Person1   JointAtt  share  O1
+ 3 538   7 634 277 141 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 142 0 0 1 Object1        NaN    NaN NaN
+ 2 243  30 444 270 142 0 0 1 Person1   JointAtt  share  O1
+ 3 542   7 634 277 142 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 143 0 0 1 Object1        NaN    NaN NaN
+ 2 242  31 443 271 143 0 0 1 Person1   JointAtt  share  O1
+ 3 546   7 634 277 143 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 144 0 0 1 Object1        NaN    NaN NaN
+ 2 241  32 442 272 144 0 0 1 Person1   JointAtt  share  O1
+ 3 550   7 634 277 144 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 145 0 0 1 Object1        NaN    NaN NaN
+ 2 240  33 441 273 145 0 0 1 Person1   JointAtt  share  O1
+ 3 554   7 634 277 145 0 0 0 Person2   JointAtt  share  O1
+18  84 233 386 354 146 0 0 1 Object1        NaN    NaN NaN
+ 2 239  34 440 274 146 0 0 1 Person1   JointAtt  share  O1
+ 3 552   7 634 277 146 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 147 0 0 1 Object1        NaN    NaN NaN
+ 2 238  35 439 275 147 0 0 1 Person1   JointAtt  share  O1
+ 3 550   7 634 277 147 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 148 0 0 1 Object1        NaN    NaN NaN
+ 2 237  36 438 276 148 0 0 1 Person1   JointAtt  share  O1
+ 3 548   7 634 277 148 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 149 0 0 1 Object1        NaN    NaN NaN
+ 2 237  37 438 277 149 0 0 0 Person1   JointAtt  share  O1
+ 3 546   7 634 277 149 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 150 0 0 1 Object1        NaN    NaN NaN
+ 2 236  36 437 276 150 0 0 1 Person1   JointAtt  share  O1
+ 3 544   7 634 277 150 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 151 0 0 1 Object1        NaN    NaN NaN
+ 2 235  36 436 276 151 0 0 1 Person1   JointAtt  share  O1
+ 3 542   7 634 277 151 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 152 0 0 1 Object1        NaN    NaN NaN
+ 2 234  36 435 276 152 0 0 1 Person1   JointAtt  share  O1
+ 3 540   7 634 277 152 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 153 0 0 1 Object1        NaN    NaN NaN
+ 2 233  36 434 276 153 0 0 1 Person1   JointAtt  share  O1
+ 3 538   7 634 277 153 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 154 0 0 1 Object1        NaN    NaN NaN
+ 2 232  36 433 276 154 0 0 1 Person1   JointAtt  share  O1
+ 3 536   7 634 277 154 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 155 0 0 1 Object1        NaN    NaN NaN
+ 2 231  35 432 275 155 0 0 1 Person1   JointAtt  share  O1
+ 3 534   7 634 277 155 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 156 0 0 1 Object1        NaN    NaN NaN
+ 2 230  35 431 275 156 0 0 1 Person1   JointAtt  share  O1
+ 3 532   7 634 277 156 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 157 0 0 1 Object1        NaN    NaN NaN
+ 2 229  35 430 275 157 0 0 1 Person1   JointAtt  share  O1
+ 3 530   7 634 277 157 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 158 0 0 1 Object1        NaN    NaN NaN
+ 2 228  35 429 275 158 0 0 1 Person1   JointAtt  share  O1
+ 3 528   7 634 277 158 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 159 0 0 1 Object1        NaN    NaN NaN
+ 2 227  35 428 275 159 0 0 0 Person1   JointAtt  share  O1
+ 3 526   7 634 277 159 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 160 0 0 1 Object1        NaN    NaN NaN
+ 2 227  35 428 275 160 0 0 1 Person1   JointAtt  share  O1
+ 3 524   7 634 277 160 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 161 0 0 1 Object1        NaN    NaN NaN
+ 2 227  35 428 275 161 0 0 1 Person1   JointAtt  share  O1
+ 3 522   7 634 277 161 0 0 1 Person2   JointAtt  share  O1
+18  84 233 386 354 162 0 0 1 Object1        NaN    NaN NaN
+ 2 227  35 428 275 162 0 0 1 Person1   JointAtt  share  O1
+ 3 520   7 634 277 162 0 0 1 Person2   JointAtt  share  O1
+ 4 118   7 397 322 164 0 0 0 Person1   JointAtt single NaN
+ 5 390  15 608 323 164 0 0 0 Person2   JointAtt single NaN
+ 4 120   7 399 322 165 0 0 1 Person1   JointAtt single NaN
+ 5 394  14 609 322 165 0 0 1 Person2   JointAtt single NaN
+ 4 123   7 402 322 166 0 0 1 Person1   JointAtt single NaN
+ 5 398  14 611 322 166 0 0 1 Person2   JointAtt single NaN
+ 4 126   8 405 323 167 0 0 1 Person1   JointAtt single NaN
+ 5 402  13 613 321 167 0 0 1 Person2   JointAtt single NaN
+ 4 128   8 407 323 168 0 0 1 Person1   JointAtt single NaN
+ 5 406  13 615 321 168 0 0 1 Person2   JointAtt single NaN
+ 4 131   9 410 324 169 0 0 1 Person1   JointAtt single NaN
+ 5 410  13 616 321 169 0 0 1 Person2   JointAtt single NaN
+ 4 134   9 413 324 170 0 0 1 Person1   JointAtt single NaN
+ 5 414  12 618 320 170 0 0 1 Person2   JointAtt single NaN
+ 4 136  10 415 325 171 0 0 1 Person1   JointAtt single NaN
+ 5 418  12 620 320 171 0 0 1 Person2   JointAtt single NaN
+ 4 139  10 418 325 172 0 0 1 Person1   JointAtt single NaN
+ 5 422  12 622 320 172 0 0 0 Person2   JointAtt single NaN
+ 4 142  11 421 326 173 0 0 1 Person1   JointAtt single NaN
+ 5 424  11 623 319 173 0 0 1 Person2   JointAtt single NaN
+ 4 144  11 423 326 174 0 0 1 Person1   JointAtt single NaN
+ 5 426  11 625 319 174 0 0 1 Person2   JointAtt single NaN
+ 4 147  12 426 327 175 0 0 1 Person1   JointAtt single NaN
+ 5 428  10 626 318 175 0 0 1 Person2   JointAtt single NaN
+ 4 150  12 429 327 176 0 0 1 Person1   JointAtt single NaN
+ 5 430  10 628 318 176 0 0 1 Person2   JointAtt single NaN
+ 4 152  13 431 328 177 0 0 1 Person1   JointAtt single NaN
+ 5 433  10 630 318 177 0 0 0 Person2   JointAtt single NaN
+ 4 155  13 434 328 178 0 0 1 Person1   JointAtt single NaN
+ 5 436   9 632 317 178 0 0 1 Person2   JointAtt single NaN
+ 4 158  14 437 329 179 0 0 0 Person1   JointAtt single NaN
+ 5 439   8 635 316 179 0 0 1 Person2   JointAtt single NaN
+ 4 158  14 437 329 180 0 0 1 Person1   JointAtt single NaN
+ 5 443   7 638 315 180 0 0 0 Person2   JointAtt single NaN
+ 4 159  14 438 329 181 0 0 1 Person1   JointAtt single NaN
+ 5 443   6 638 314 181 0 0 1 Person2   JointAtt single NaN
+ 4 160  14 439 329 182 0 0 1 Person1   JointAtt single NaN
+ 5 443   6 638 314 182 0 0 1 Person2   JointAtt single NaN
+ 4 160  14 439 329 183 0 0 1 Person1   JointAtt single NaN
+ 5 443   6 638 314 183 0 0 1 Person2   JointAtt single NaN
+ 4 161  14 440 329 184 0 0 1 Person1   JointAtt single NaN
+ 5 443   6 638 314 184 0 0 1 Person2   JointAtt single NaN
+ 4 162  14 441 329 185 0 0 1 Person1   JointAtt single NaN
+ 5 443   6 638 314 185 0 0 1 Person2   JointAtt single NaN
+ 4 162  14 441 329 186 0 0 1 Person1   JointAtt single NaN
+ 5 443   6 638 314 186 0 0 1 Person2   JointAtt single NaN
+ 4 163  14 442 329 187 0 0 1 Person1   JointAtt single NaN
+ 5 443   5 638 313 187 0 0 1 Person2   JointAtt single NaN
+ 4 164  14 443 329 188 0 0 1 Person1   JointAtt single NaN
+ 5 443   5 638 313 188 0 0 1 Person2   JointAtt single NaN
+ 4 164  14 443 329 189 0 0 1 Person1   JointAtt single NaN
+ 5 443   5 638 313 189 0 0 1 Person2   JointAtt single NaN
+ 4 165  14 444 329 190 0 0 1 Person1   JointAtt single NaN
+ 5 443   5 638 313 190 0 0 1 Person2   JointAtt single NaN
+ 4 166  14 445 329 191 0 0 1 Person1 SingleGaze single NaN
+ 5 443   5 638 313 191 0 0 1 Person2 SingleGaze single  P1
+ 4 166  14 445 329 192 0 0 1 Person1 SingleGaze single NaN
+ 5 443   5 638 313 192 0 0 0 Person2 SingleGaze single  P1
+ 4 167  14 446 329 193 0 0 1 Person1 SingleGaze single NaN
+ 5 440   5 638 313 193 0 0 1 Person2 SingleGaze single  P1
+ 4 168  14 447 329 194 0 0 1 Person1 SingleGaze single NaN
+ 5 438   6 638 314 194 0 0 1 Person2 SingleGaze single  P1
+19  76 253 324 356 196 0 0 0 Object1        NaN    NaN NaN
+ 6 222  21 432 295 196 0 0 0 Person1 MutualGaze single  O1
+ 7 443   7 634 287 196 0 0 0 Person2 MutualGaze single  P1
+19  76 253 325 356 197 0 0 1 Object1        NaN    NaN NaN
+ 6 223  20 432 292 197 0 0 1 Person1 MutualGaze single  O1
+ 7 444   6 634 285 197 0 0 1 Person2 MutualGaze single  P1
+19  76 253 327 356 198 0 0 1 Object1        NaN    NaN NaN
+ 6 225  20 432 290 198 0 0 1 Person1 MutualGaze single  O1
+ 7 445   6 634 284 198 0 0 1 Person2 MutualGaze single  P1
+19  76 253 329 356 199 0 0 1 Object1        NaN    NaN NaN
+ 6 227  20 433 287 199 0 0 1 Person1 MutualGaze single  O1
+ 7 446   6 634 282 199 0 0 1 Person2 MutualGaze single  P1
+19  76 253 331 356 200 0 0 1 Object1        NaN    NaN NaN
+ 6 229  19 433 285 200 0 0 1 Person1 MutualGaze single  O1
+ 7 447   5 634 281 200 0 0 1 Person2 MutualGaze single  P1
+19  76 253 333 356 201 0 0 1 Object1        NaN    NaN NaN
+ 6 231  19 433 283 201 0 0 1 Person1 MutualGaze single NaN
+ 7 448   5 635 279 201 0 0 1 Person2 MutualGaze single  P1
+19  76 253 335 356 202 0 0 1 Object1        NaN    NaN NaN
+ 6 233  19 434 280 202 0 0 1 Person1 MutualGaze single NaN
+ 7 449   5 635 278 202 0 0 1 Person2 MutualGaze single  P1
+19  76 253 337 356 203 0 0 1 Object1        NaN    NaN NaN
+ 6 235  19 434 278 203 0 0 1 Person1 MutualGaze mutual  P2
+ 7 450   4 635 277 203 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 339 356 204 0 0 1 Object1        NaN    NaN NaN
+ 6 237  18 434 276 204 0 0 1 Person1 MutualGaze mutual  P2
+ 7 451   4 635 275 204 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 340 356 205 0 0 1 Object1        NaN    NaN NaN
+ 6 239  18 435 273 205 0 0 1 Person1 MutualGaze mutual  P2
+ 7 453   4 636 274 205 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 342 356 206 0 0 1 Object1        NaN    NaN NaN
+ 6 241  18 435 271 206 0 0 1 Person1 MutualGaze mutual  P2
+ 7 454   4 636 272 206 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 344 356 207 0 0 1 Object1        NaN    NaN NaN
+ 6 243  18 436 269 207 0 0 1 Person1 MutualGaze mutual  P2
+ 7 455   3 636 271 207 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 346 356 208 0 0 1 Object1        NaN    NaN NaN
+ 6 244  17 436 266 208 0 0 1 Person1 MutualGaze mutual  P2
+ 7 456   3 636 270 208 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 348 356 209 0 0 1 Object1        NaN    NaN NaN
+ 6 246  17 436 264 209 0 0 1 Person1 MutualGaze mutual  P2
+ 7 457   3 637 268 209 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 350 356 210 0 0 1 Object1        NaN    NaN NaN
+ 6 248  17 437 261 210 0 0 1 Person1 MutualGaze mutual  P2
+ 7 458   2 637 267 210 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 352 356 211 0 0 1 Object1        NaN    NaN NaN
+ 6 250  16 437 259 211 0 0 1 Person1 MutualGaze mutual  P2
+ 7 459   2 637 265 211 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 354 356 212 0 0 1 Object1        NaN    NaN NaN
+ 6 252  16 437 257 212 0 0 1 Person1 MutualGaze mutual  P2
+ 7 460   2 637 264 212 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 355 356 213 0 0 1 Object1        NaN    NaN NaN
+ 6 254  16 438 254 213 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 213 0 0 0 Person2 MutualGaze mutual  P1
+19  76 253 357 356 214 0 0 1 Object1        NaN    NaN NaN
+ 6 256  16 438 252 214 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 214 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 359 356 215 0 0 1 Object1        NaN    NaN NaN
+ 6 258  15 438 250 215 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 215 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 361 356 216 0 0 1 Object1        NaN    NaN NaN
+ 6 260  15 439 247 216 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 216 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 363 356 217 0 0 1 Object1        NaN    NaN NaN
+ 6 262  15 439 245 217 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 217 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 365 356 218 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 218 0 0 0 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 218 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 367 356 219 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 219 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 219 0 0 1 Person2 MutualGaze mutual  P1
+19  76 253 369 356 220 0 0 0 Object1        NaN    NaN NaN
+ 6 264  15 440 243 220 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 220 0 0 1 Person2 MutualGaze mutual  P1
+19  76 252 369 356 221 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 221 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 221 0 0 1 Person2 MutualGaze mutual  P1
+19  76 252 369 356 222 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 222 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 222 0 0 1 Person2 MutualGaze mutual  P1
+19  76 252 369 356 223 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 223 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 223 0 0 1 Person2 MutualGaze mutual  P1
+19  76 251 369 356 224 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 224 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 224 0 0 1 Person2 MutualGaze mutual  P1
+19  76 251 369 356 225 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 225 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 225 0 0 1 Person2 MutualGaze mutual  P1
+19  76 251 369 356 226 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 226 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 226 0 0 1 Person2 MutualGaze mutual  P1
+19  76 251 369 356 227 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 227 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 227 0 0 1 Person2 MutualGaze mutual  P1
+19  76 250 369 356 228 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 228 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 228 0 0 1 Person2 MutualGaze mutual  P1
+19  76 250 369 356 229 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 229 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 229 0 0 1 Person2 MutualGaze mutual  P1
+19  76 250 369 356 230 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 230 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 230 0 0 1 Person2 MutualGaze mutual  P1
+19  76 250 369 356 231 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 231 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 231 0 0 1 Person2 MutualGaze mutual  P1
+19  76 249 369 356 232 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 232 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 232 0 0 1 Person2 MutualGaze mutual  P1
+19  76 249 369 356 233 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 233 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 233 0 0 1 Person2 MutualGaze mutual  P1
+19  76 249 369 356 234 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 234 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 234 0 0 1 Person2 MutualGaze mutual  P1
+19  76 249 369 356 235 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 235 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 235 0 0 1 Person2 MutualGaze mutual  P1
+19  76 248 369 356 236 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 236 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 236 0 0 1 Person2 MutualGaze mutual  P1
+19  76 248 369 356 237 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 237 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 237 0 0 1 Person2 MutualGaze mutual  P1
+19  76 248 369 356 238 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 238 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 238 0 0 1 Person2 MutualGaze mutual  P1
+19  76 247 369 356 239 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 239 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 239 0 0 1 Person2 MutualGaze mutual  P1
+19  76 247 369 356 240 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 240 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 240 0 0 1 Person2 MutualGaze mutual  P1
+19  76 247 369 356 241 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 241 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 241 0 0 1 Person2 MutualGaze mutual  P1
+19  76 247 369 356 242 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 242 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 242 0 0 1 Person2 MutualGaze mutual  P1
+19  76 246 369 356 243 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 243 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 243 0 0 1 Person2 MutualGaze mutual  P1
+19  76 246 369 356 244 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 244 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 244 0 0 1 Person2 MutualGaze mutual  P1
+19  76 246 369 356 245 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 245 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 245 0 0 1 Person2 MutualGaze mutual  P1
+19  76 246 369 356 246 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 246 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 246 0 0 1 Person2 MutualGaze mutual  P1
+19  76 245 369 356 247 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 247 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 247 0 0 1 Person2 MutualGaze mutual  P1
+19  76 245 369 356 248 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 248 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 248 0 0 1 Person2 MutualGaze mutual  P1
+19  76 245 369 356 249 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 249 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 249 0 0 1 Person2 MutualGaze mutual  P1
+19  76 245 369 356 250 0 0 0 Object1        NaN    NaN NaN
+ 6 264  15 440 243 250 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 250 0 0 1 Person2 MutualGaze mutual  P1
+19  76 245 369 356 251 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 251 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 251 0 0 1 Person2 MutualGaze mutual  P1
+19  76 245 369 356 252 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 252 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 252 0 0 1 Person2 MutualGaze mutual  P1
+19  76 245 369 356 253 0 0 1 Object1        NaN    NaN NaN
+ 6 264  15 440 243 253 0 0 1 Person1 MutualGaze mutual  P2
+ 7 462   2 638 263 253 0 0 1 Person2 MutualGaze mutual  P1
+ 8 104  21 406 307 255 0 0 0 Person1 MutualGaze mutual  P2
+ 9 415  19 636 303 255 0 0 0 Person2 MutualGaze mutual  P1
+ 8 103  20 405 306 256 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 256 0 0 1 Person2 MutualGaze mutual  P1
+ 8 103  20 405 306 257 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 257 0 0 1 Person2 MutualGaze mutual  P1
+ 8 103  20 405 306 258 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 258 0 0 1 Person2 MutualGaze mutual  P1
+ 8 103  19 405 305 259 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 259 0 0 1 Person2 MutualGaze mutual  P1
+ 8 102  19 404 305 260 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 260 0 0 1 Person2 MutualGaze mutual  P1
+ 8 102  19 404 305 261 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 261 0 0 1 Person2 MutualGaze mutual  P1
+ 8 102  18 404 304 262 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 262 0 0 1 Person2 MutualGaze mutual  P1
+ 8 102  18 404 304 263 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 263 0 0 1 Person2 MutualGaze mutual  P1
+ 8 101  18 403 304 264 0 0 1 Person1 MutualGaze mutual  P2
+ 9 414  19 635 303 264 0 0 1 Person2 MutualGaze mutual  P1
+ 8 101  17 403 303 265 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 265 0 0 1 Person2 MutualGaze mutual  P1
+ 8 101  17 403 303 266 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 266 0 0 1 Person2 MutualGaze mutual  P1
+ 8 101  17 403 303 267 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 267 0 0 1 Person2 MutualGaze mutual  P1
+ 8 101  17 403 303 268 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 268 0 0 1 Person2 MutualGaze mutual  P1
+ 8 100  16 402 302 269 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 269 0 0 1 Person2 MutualGaze mutual  P1
+ 8 100  16 402 302 270 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 270 0 0 1 Person2 MutualGaze mutual  P1
+ 8 100  16 402 302 271 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 271 0 0 1 Person2 MutualGaze mutual  P1
+ 8 100  15 402 301 272 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 272 0 0 1 Person2 MutualGaze mutual  P1
+ 8  99  15 401 301 273 0 0 1 Person1 MutualGaze mutual  P2
+ 9 413  19 634 303 273 0 0 1 Person2 MutualGaze mutual  P1
+ 8  99  15 401 301 274 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 274 0 0 1 Person2 MutualGaze mutual  P1
+ 8  99  14 401 300 275 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 275 0 0 1 Person2 MutualGaze mutual  P1
+ 8  99  14 401 300 276 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 276 0 0 1 Person2 MutualGaze mutual  P1
+ 8  98  14 400 300 277 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 277 0 0 1 Person2 MutualGaze mutual  P1
+ 8  98  13 400 299 278 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 278 0 0 1 Person2 MutualGaze mutual  P1
+ 8  98  13 400 299 279 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 279 0 0 1 Person2 MutualGaze mutual  P1
+ 8  98  13 400 299 280 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 280 0 0 1 Person2 MutualGaze mutual  P1
+ 8  98  13 400 299 281 0 0 0 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 281 0 0 1 Person2 MutualGaze mutual  P1
+ 8  96  13 398 299 282 0 0 1 Person1 MutualGaze mutual  P2
+ 9 412  19 633 303 282 0 0 1 Person2 MutualGaze mutual  P1
+ 8  94  13 396 299 283 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  19 632 303 283 0 0 1 Person2 MutualGaze mutual  P1
+ 8  93  13 395 299 284 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  19 632 303 284 0 0 1 Person2 MutualGaze mutual  P1
+ 8  91  13 393 299 285 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  19 632 303 285 0 0 1 Person2 MutualGaze mutual  P1
+ 8  89  13 391 299 286 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  19 632 303 286 0 0 1 Person2 MutualGaze mutual  P1
+ 8  88  13 390 299 287 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  20 632 304 287 0 0 1 Person2 MutualGaze mutual  P1
+ 8  86  13 388 299 288 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  20 632 304 288 0 0 1 Person2 MutualGaze mutual  P1
+ 8  84  13 386 299 289 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  20 632 304 289 0 0 1 Person2 MutualGaze mutual  P1
+ 8  83  14 385 300 290 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  20 632 304 290 0 0 1 Person2 MutualGaze mutual  P1
+ 8  81  14 383 300 291 0 0 1 Person1 MutualGaze mutual  P2
+ 9 411  20 632 304 291 0 0 1 Person2 MutualGaze mutual  P1
+ 8  79  14 381 300 292 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 292 0 0 1 Person2 MutualGaze mutual  P1
+ 8  78  14 380 300 293 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 293 0 0 1 Person2 MutualGaze mutual  P1
+ 8  76  14 378 300 294 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 294 0 0 1 Person2 MutualGaze mutual  P1
+ 8  74  14 376 300 295 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 295 0 0 1 Person2 MutualGaze mutual  P1
+ 8  73  14 375 300 296 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 296 0 0 1 Person2 MutualGaze mutual  P1
+ 8  71  14 373 300 297 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 297 0 0 1 Person2 MutualGaze mutual  P1
+ 8  70  15 372 301 298 0 0 0 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 298 0 0 1 Person2 MutualGaze mutual  P1
+ 8  67  15 369 301 299 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 299 0 0 1 Person2 MutualGaze mutual  P1
+ 8  65  15 367 301 300 0 0 1 Person1 MutualGaze mutual  P2
+ 9 410  20 631 304 300 0 0 1 Person2 MutualGaze mutual  P1
+ 8  62  16 364 302 301 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 301 0 0 1 Person2 MutualGaze mutual  P1
+ 8  60  16 362 302 302 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 302 0 0 1 Person2 MutualGaze mutual  P1
+ 8  57  17 359 303 303 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 303 0 0 1 Person2 MutualGaze mutual  P1
+ 8  55  17 357 303 304 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 304 0 0 1 Person2 MutualGaze mutual  P1
+ 8  52  17 354 303 305 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 305 0 0 1 Person2 MutualGaze mutual  P1
+ 8  50  18 352 304 306 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 306 0 0 1 Person2 MutualGaze mutual  P1
+ 8  47  18 349 304 307 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 307 0 0 1 Person2 MutualGaze mutual  P1
+ 8  45  19 347 305 308 0 0 0 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 308 0 0 1 Person2 MutualGaze mutual  P1
+ 8  44  18 346 304 309 0 0 1 Person1 MutualGaze mutual  P2
+ 9 409  20 630 304 309 0 0 1 Person2 MutualGaze mutual  P1
+ 8  43  18 345 304 310 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 310 0 0 1 Person2 MutualGaze mutual  P1
+ 8  43  18 345 304 311 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 311 0 0 1 Person2 MutualGaze mutual  P1
+ 8  42  18 344 304 312 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 312 0 0 1 Person2 MutualGaze mutual  P1
+ 8  41  18 343 304 313 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 313 0 0 1 Person2 MutualGaze mutual  P1
+ 8  41  18 343 304 314 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 314 0 0 1 Person2 MutualGaze mutual  P1
+ 8  40  17 342 303 315 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 315 0 0 1 Person2 MutualGaze mutual  P1
+ 8  40  17 342 303 316 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 316 0 0 1 Person2 MutualGaze mutual  P1
+ 8  39  17 341 303 317 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  20 629 304 317 0 0 1 Person2 MutualGaze mutual  P1
+ 8  38  17 340 303 318 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 318 0 0 0 Person2 MutualGaze mutual  P1
+ 8  38  17 340 303 319 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 319 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  17 339 303 320 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 320 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  17 339 303 321 0 0 0 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 321 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 322 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 322 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 323 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 323 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 324 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 324 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 325 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 325 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 326 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 326 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 327 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 327 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 328 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 328 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 329 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 329 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 330 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 330 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 331 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 331 0 0 1 Person2 MutualGaze mutual  P1
+ 8  37  16 339 302 332 0 0 1 Person1 MutualGaze mutual  P2
+ 9 408  21 629 305 332 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 380 355 334 0 0 0 Object1        NaN    NaN NaN
+10 216  13 409 247 334 0 0 0 Person1 MutualGaze mutual  P2
+11 441   3 634 273 334 0 0 0 Person2 MutualGaze mutual  P1
+20  74 227 379 355 335 0 0 1 Object1        NaN    NaN NaN
+10 215  13 408 247 335 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 335 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 378 355 336 0 0 1 Object1        NaN    NaN NaN
+10 215  13 408 247 336 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 336 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 378 355 337 0 0 1 Object1        NaN    NaN NaN
+10 214  13 407 247 337 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 337 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 377 355 338 0 0 1 Object1        NaN    NaN NaN
+10 214  13 407 247 338 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 338 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 377 355 339 0 0 1 Object1        NaN    NaN NaN
+10 213  13 406 247 339 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 339 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 376 355 340 0 0 1 Object1        NaN    NaN NaN
+10 213  13 406 247 340 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 340 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 376 355 341 0 0 1 Object1        NaN    NaN NaN
+10 212  13 405 247 341 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 341 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 375 355 342 0 0 1 Object1        NaN    NaN NaN
+10 212  14 405 248 342 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 342 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 375 355 343 0 0 1 Object1        NaN    NaN NaN
+10 211  14 404 248 343 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 343 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 374 355 344 0 0 1 Object1        NaN    NaN NaN
+10 211  14 404 248 344 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 344 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 374 355 345 0 0 1 Object1        NaN    NaN NaN
+10 210  14 403 248 345 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 345 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 373 355 346 0 0 1 Object1        NaN    NaN NaN
+10 210  14 403 248 346 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 346 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 373 355 347 0 0 1 Object1        NaN    NaN NaN
+10 209  14 402 248 347 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 347 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 372 355 348 0 0 1 Object1        NaN    NaN NaN
+10 209  14 402 248 348 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 348 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 372 355 349 0 0 1 Object1        NaN    NaN NaN
+10 208  14 401 248 349 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 349 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 371 355 350 0 0 1 Object1        NaN    NaN NaN
+10 208  15 401 249 350 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 350 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 371 355 351 0 0 1 Object1        NaN    NaN NaN
+10 207  15 400 249 351 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 351 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 370 355 352 0 0 1 Object1        NaN    NaN NaN
+10 207  15 400 249 352 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 352 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 370 355 353 0 0 1 Object1        NaN    NaN NaN
+10 206  15 399 249 353 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 353 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 369 355 354 0 0 1 Object1        NaN    NaN NaN
+10 206  15 399 249 354 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 354 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 369 355 355 0 0 1 Object1        NaN    NaN NaN
+10 205  15 398 249 355 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 355 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 368 355 356 0 0 1 Object1        NaN    NaN NaN
+10 205  15 398 249 356 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 356 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 368 355 357 0 0 1 Object1        NaN    NaN NaN
+10 205  16 398 250 357 0 0 0 Person1 MutualGaze mutual  P2
+11 441   3 634 273 357 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 367 355 358 0 0 1 Object1        NaN    NaN NaN
+10 205  15 398 249 358 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 358 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 367 355 359 0 0 1 Object1        NaN    NaN NaN
+10 205  15 398 249 359 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 359 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 366 355 360 0 0 1 Object1        NaN    NaN NaN
+10 205  15 398 249 360 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 360 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 366 355 361 0 0 1 Object1        NaN    NaN NaN
+10 205  15 398 249 361 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 361 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 365 355 362 0 0 1 Object1        NaN    NaN NaN
+10 205  15 398 249 362 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 362 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 365 355 363 0 0 1 Object1        NaN    NaN NaN
+10 206  15 399 249 363 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 363 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 364 355 364 0 0 1 Object1        NaN    NaN NaN
+10 206  14 399 248 364 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 364 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 364 355 365 0 0 1 Object1        NaN    NaN NaN
+10 206  14 399 248 365 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 365 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 363 355 366 0 0 1 Object1        NaN    NaN NaN
+10 206  14 399 248 366 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 366 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 363 355 367 0 0 1 Object1        NaN    NaN NaN
+10 206  14 399 248 367 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 367 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 362 355 368 0 0 1 Object1        NaN    NaN NaN
+10 206  14 399 248 368 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 368 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 362 355 369 0 0 1 Object1        NaN    NaN NaN
+10 207  14 400 248 369 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 369 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 361 355 370 0 0 1 Object1        NaN    NaN NaN
+10 207  14 400 248 370 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 370 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 360 355 371 0 0 1 Object1        NaN    NaN NaN
+10 207  13 400 247 371 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 371 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 360 355 372 0 0 1 Object1        NaN    NaN NaN
+10 207  13 400 247 372 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 372 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 359 355 373 0 0 1 Object1        NaN    NaN NaN
+10 207  13 400 247 373 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 373 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 359 355 374 0 0 1 Object1        NaN    NaN NaN
+10 208  13 401 247 374 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 374 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 358 355 375 0 0 1 Object1        NaN    NaN NaN
+10 208  13 401 247 375 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 375 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 358 355 376 0 0 1 Object1        NaN    NaN NaN
+10 208  13 401 247 376 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 376 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 357 355 377 0 0 1 Object1        NaN    NaN NaN
+10 208  13 401 247 377 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 377 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 357 355 378 0 0 1 Object1        NaN    NaN NaN
+10 208  12 401 246 378 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 378 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 356 355 379 0 0 1 Object1        NaN    NaN NaN
+10 208  12 401 246 379 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 379 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 356 355 380 0 0 1 Object1        NaN    NaN NaN
+10 209  12 402 246 380 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 380 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 355 355 381 0 0 1 Object1        NaN    NaN NaN
+10 209  12 402 246 381 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 381 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 355 355 382 0 0 1 Object1        NaN    NaN NaN
+10 209  12 402 246 382 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 382 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 354 355 383 0 0 1 Object1        NaN    NaN NaN
+10 209  12 402 246 383 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 383 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 354 355 384 0 0 1 Object1        NaN    NaN NaN
+10 209  12 402 246 384 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 384 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 353 355 385 0 0 1 Object1        NaN    NaN NaN
+10 209  11 402 245 385 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 385 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 353 355 386 0 0 1 Object1        NaN    NaN NaN
+10 210  11 403 245 386 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 386 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 352 355 387 0 0 1 Object1        NaN    NaN NaN
+10 210  11 403 245 387 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 387 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 352 355 388 0 0 1 Object1        NaN    NaN NaN
+10 210  11 403 245 388 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 388 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 351 355 389 0 0 1 Object1        NaN    NaN NaN
+10 210  11 403 245 389 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 389 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 351 355 390 0 0 1 Object1        NaN    NaN NaN
+10 210  11 403 245 390 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 390 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 350 355 391 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 391 0 0 0 Person1 MutualGaze mutual  P2
+11 441   3 634 273 391 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 350 355 392 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 392 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 392 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 349 355 393 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 393 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 393 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 349 355 394 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 394 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 394 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 348 355 395 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 395 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 395 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 348 355 396 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 396 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 396 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 347 355 397 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 397 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 397 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 347 355 398 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 398 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 398 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 346 355 399 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 399 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 399 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 346 355 400 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 400 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 400 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 345 355 401 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 401 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 401 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 345 355 402 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 402 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 402 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 344 355 403 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 403 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 403 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 344 355 404 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 404 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 404 0 0 1 Person2 MutualGaze mutual  P1
+20  74 227 343 355 405 0 0 1 Object1        NaN    NaN NaN
+10 211  11 404 245 405 0 0 1 Person1 MutualGaze mutual  P2
+11 441   3 634 273 405 0 0 1 Person2 MutualGaze mutual  P1
+12  19  13 319 322 407 0 0 0 Person1 MutualGaze mutual  P2
+13 384  37 633 310 407 0 0 0 Person2 MutualGaze mutual  P1
+12  19  12 319 321 408 0 0 1 Person1 MutualGaze mutual  P2
+13 383  36 632 309 408 0 0 1 Person2 MutualGaze mutual  P1
+12  19  12 319 321 409 0 0 1 Person1 MutualGaze mutual  P2
+13 382  35 631 308 409 0 0 1 Person2 MutualGaze mutual  P1
+12  19  12 319 321 410 0 0 1 Person1 MutualGaze mutual  P2
+13 382  35 631 308 410 0 0 1 Person2 MutualGaze mutual  P1
+12  19  12 319 321 411 0 0 1 Person1 MutualGaze mutual  P2
+13 381  34 630 307 411 0 0 1 Person2 MutualGaze mutual  P1
+12  19  12 319 321 412 0 0 1 Person1 MutualGaze mutual  P2
+13 381  34 630 307 412 0 0 1 Person2 MutualGaze mutual  P1
+12  20  12 320 321 413 0 0 1 Person1 MutualGaze mutual  P2
+13 380  33 629 306 413 0 0 1 Person2 MutualGaze mutual  P1
+12  20  11 320 320 414 0 0 1 Person1 MutualGaze mutual  P2
+13 380  33 629 306 414 0 0 1 Person2 MutualGaze mutual  P1
+12  20  11 320 320 415 0 0 1 Person1 MutualGaze mutual  P2
+13 379  32 628 305 415 0 0 1 Person2 MutualGaze mutual  P1
+12  20  11 320 320 416 0 0 1 Person1 MutualGaze mutual  P2
+13 379  32 628 305 416 0 0 1 Person2 MutualGaze mutual  P1
+12  20  11 320 320 417 0 0 1 Person1 MutualGaze mutual  P2
+13 378  31 627 304 417 0 0 1 Person2 MutualGaze mutual  P1
+12  21  11 321 320 418 0 0 1 Person1 MutualGaze mutual  P2
+13 378  31 627 304 418 0 0 1 Person2 MutualGaze mutual  P1
+12  21  11 321 320 419 0 0 1 Person1 MutualGaze mutual  P2
+13 377  30 626 303 419 0 0 1 Person2 MutualGaze mutual  P1
+12  21  10 321 319 420 0 0 1 Person1 MutualGaze mutual  P2
+13 377  30 626 303 420 0 0 1 Person2 MutualGaze mutual  P1
+12  21  10 321 319 421 0 0 1 Person1 MutualGaze mutual  P2
+13 376  29 625 302 421 0 0 1 Person2 MutualGaze mutual  P1
+12  21  10 321 319 422 0 0 1 Person1 MutualGaze mutual  P2
+13 376  29 625 302 422 0 0 1 Person2 MutualGaze mutual  P1
+12  22  10 322 319 423 0 0 1 Person1 MutualGaze mutual  P2
+13 375  28 624 301 423 0 0 1 Person2 MutualGaze mutual  P1
+12  22  10 322 319 424 0 0 1 Person1 MutualGaze mutual  P2
+13 375  28 624 301 424 0 0 1 Person2 MutualGaze mutual  P1
+12  22  10 322 319 425 0 0 1 Person1 MutualGaze mutual  P2
+13 374  27 623 300 425 0 0 1 Person2 MutualGaze mutual  P1
+12  22   9 322 318 426 0 0 1 Person1 MutualGaze mutual  P2
+13 374  27 623 300 426 0 0 1 Person2 MutualGaze mutual  P1
+12  22   9 322 318 427 0 0 1 Person1 MutualGaze mutual  P2
+13 373  26 622 299 427 0 0 1 Person2 MutualGaze mutual  P1
+12  22   9 322 318 428 0 0 1 Person1 MutualGaze mutual  P2
+13 373  26 622 299 428 0 0 1 Person2 MutualGaze mutual  P1
+12  23   9 323 318 429 0 0 1 Person1 MutualGaze mutual  P2
+13 372  25 621 298 429 0 0 1 Person2 MutualGaze mutual  P1
+12  23   9 323 318 430 0 0 1 Person1 MutualGaze mutual  P2
+13 372  25 621 298 430 0 0 1 Person2 MutualGaze mutual  P1
+12  23   9 323 318 431 0 0 1 Person1 MutualGaze mutual  P2
+13 371  24 620 297 431 0 0 1 Person2 MutualGaze mutual  P1
+12  23   8 323 317 432 0 0 1 Person1 MutualGaze mutual  P2
+13 371  24 620 297 432 0 0 1 Person2 MutualGaze mutual  P1
+12  23   8 323 317 433 0 0 1 Person1 MutualGaze mutual  P2
+13 370  23 619 296 433 0 0 1 Person2 MutualGaze mutual  P1
+12  24   8 324 317 434 0 0 1 Person1 MutualGaze mutual  P2
+13 370  23 619 296 434 0 0 1 Person2 MutualGaze mutual  P1
+12  24   8 324 317 435 0 0 1 Person1 MutualGaze mutual  P2
+13 369  22 618 295 435 0 0 1 Person2 MutualGaze mutual  P1
+12  24   8 324 317 436 0 0 1 Person1 MutualGaze mutual  P2
+13 369  22 618 295 436 0 0 1 Person2 MutualGaze mutual  P1
+12  24   8 324 317 437 0 0 1 Person1 MutualGaze mutual  P2
+13 368  21 617 294 437 0 0 1 Person2 MutualGaze mutual  P1
+12  24   7 324 316 438 0 0 1 Person1 MutualGaze mutual  P2
+13 368  21 617 294 438 0 0 0 Person2 MutualGaze mutual  P1
+12  25   7 325 316 439 0 0 1 Person1 MutualGaze mutual  P2
+13 367  20 616 293 439 0 0 1 Person2 MutualGaze mutual  P1
+12  25   7 325 316 440 0 0 1 Person1 MutualGaze mutual  P2
+13 366  20 615 293 440 0 0 1 Person2 MutualGaze mutual  P1
+12  25   7 325 316 441 0 0 1 Person1 MutualGaze mutual  P2
+13 366  20 615 293 441 0 0 1 Person2 MutualGaze mutual  P1
+12  25   7 325 316 442 0 0 1 Person1 MutualGaze mutual  P2
+13 365  19 614 292 442 0 0 1 Person2 MutualGaze mutual  P1
+12  25   7 325 316 443 0 0 1 Person1 MutualGaze mutual  P2
+13 365  19 614 292 443 0 0 1 Person2 MutualGaze mutual  P1
+12  26   7 326 316 444 0 0 0 Person1 MutualGaze mutual  P2
+13 364  19 613 292 444 0 0 1 Person2 MutualGaze mutual  P1
+12  25   6 325 315 445 0 0 1 Person1 MutualGaze mutual  P2
+13 364  18 613 291 445 0 0 1 Person2 MutualGaze mutual  P1
+12  24   6 324 315 446 0 0 1 Person1 MutualGaze single  P2
+13 363  18 612 291 446 0 0 1 Person2 MutualGaze single P1
+12  23   6 323 314 447 0 0 1 Person1 MutualGaze single  P2
+13 363  18 612 291 447 0 0 1 Person2 MutualGaze single P1
+12  22   5 322 314 448 0 0 1 Person1 MutualGaze single  P2
+13 362  18 611 291 448 0 0 1 Person2 MutualGaze single P1
+12  21   5 321 313 449 0 0 1 Person1 MutualGaze single  P2
+13 361  17 610 290 449 0 0 1 Person2 MutualGaze single P1
+12  20   5 320 313 450 0 0 1 Person1 MutualGaze single  P2
+13 361  17 610 290 450 0 0 1 Person2 MutualGaze single P1
+12  19   4 319 312 451 0 0 1 Person1 MutualGaze single  P2
+13 360  17 609 290 451 0 0 1 Person2 MutualGaze single P1
+12  18   4 318 312 452 0 0 1 Person1 MutualGaze single  P2
+13 360  16 609 289 452 0 0 1 Person2 MutualGaze single P1
+12  17   4 317 311 453 0 0 1 Person1 MutualGaze single  P2
+13 359  16 608 289 453 0 0 1 Person2 MutualGaze single P1
+12  16   3 316 311 454 0 0 1 Person1 MutualGaze single  P2
+13 359  16 608 289 454 0 0 1 Person2 MutualGaze single P1
+12  15   3 315 310 455 0 0 1 Person1 MutualGaze single  P2
+13 358  15 607 288 455 0 0 1 Person2 MutualGaze single P1
+12  14   3 314 310 456 0 0 1 Person1 MutualGaze single  P2
+13 358  15 607 288 456 0 0 1 Person2 MutualGaze single P1
+12  13   2 313 309 457 0 0 1 Person1 MutualGaze single  P2
+13 357  15 606 288 457 0 0 1 Person2 MutualGaze single P1
+12  12   2 312 309 458 0 0 1 Person1 MutualGaze mutual  P2
+13 356  15 605 288 458 0 0 1 Person2 MutualGaze mutual  P1
+12  11   2 311 308 459 0 0 1 Person1 MutualGaze mutual  P2
+13 356  14 605 287 459 0 0 1 Person2 MutualGaze mutual  P1
+12  10   1 310 308 460 0 0 1 Person1 MutualGaze mutual  P2
+13 355  14 604 287 460 0 0 1 Person2 MutualGaze mutual  P1
+12   9   1 309 307 461 0 0 1 Person1 MutualGaze mutual  P2
+13 355  14 604 287 461 0 0 1 Person2 MutualGaze mutual  P1
+12   8   1 308 307 462 0 0 1 Person1 MutualGaze mutual  P2
+13 354  13 603 286 462 0 0 1 Person2 MutualGaze mutual  P1
+12   7   0 307 306 463 0 0 1 Person1 MutualGaze mutual  P2
+13 354  13 603 286 463 0 0 1 Person2 MutualGaze mutual  P1
+12   6   0 306 306 464 0 0 1 Person1 MutualGaze mutual  P2
+13 353  13 602 286 464 0 0 1 Person2 MutualGaze mutual  P1
+12   6   0 306 306 465 0 0 0 Person1 MutualGaze mutual  P2
+13 353  13 602 286 465 0 0 0 Person2 MutualGaze mutual  P1
+12   6   0 306 306 466 0 0 1 Person1 MutualGaze mutual  P2
+13 353  14 602 287 466 0 0 1 Person2 MutualGaze mutual  P1
+12   6   1 306 307 467 0 0 1 Person1 MutualGaze mutual  P2
+13 353  15 602 288 467 0 0 1 Person2 MutualGaze mutual  P1
+12   6   1 306 307 468 0 0 1 Person1 MutualGaze mutual  P2
+13 354  16 603 289 468 0 0 1 Person2 MutualGaze mutual  P1
+12   7   2 307 308 469 0 0 1 Person1 MutualGaze mutual  P2
+13 354  17 603 290 469 0 0 1 Person2 MutualGaze mutual  P1
+12   7   3 307 309 470 0 0 1 Person1 MutualGaze mutual  P2
+13 355  18 604 291 470 0 0 1 Person2 MutualGaze mutual  P1
+12   7   3 307 309 471 0 0 1 Person1 MutualGaze mutual  P2
+13 355  19 604 292 471 0 0 1 Person2 MutualGaze mutual  P1
+12   7   4 307 310 472 0 0 1 Person1 MutualGaze mutual  P2
+13 355  20 604 293 472 0 0 1 Person2 MutualGaze mutual  P1
+12   8   4 308 310 473 0 0 1 Person1 MutualGaze mutual  P2
+13 356  21 605 294 473 0 0 1 Person2 MutualGaze mutual  P1
+12   8   5 308 311 474 0 0 1 Person1 MutualGaze mutual  P2
+13 356  22 605 295 474 0 0 1 Person2 MutualGaze mutual  P1
+12   8   6 308 312 475 0 0 1 Person1 MutualGaze mutual  P2
+13 357  23 606 296 475 0 0 1 Person2 MutualGaze mutual  P1
+12   8   6 308 312 476 0 0 1 Person1 MutualGaze single  P2
+13 357  24 606 297 476 0 0 1 Person2 MutualGaze single NaN
+12   9   7 309 313 477 0 0 1 Person1 MutualGaze single  P2
+13 357  25 606 298 477 0 0 1 Person2 MutualGaze single NaN
+12   9   7 309 313 478 0 0 1 Person1 MutualGaze single  P2
+13 358  26 607 299 478 0 0 1 Person2 MutualGaze single NaN
+12   9   8 309 314 479 0 0 1 Person1 MutualGaze single  P2
+13 358  27 607 300 479 0 0 1 Person2 MutualGaze single NaN
+12  10   9 310 315 480 0 0 0 Person1  AvertGaze single NaN
+13 359  29 608 302 480 0 0 0 Person2  AvertGaze single NaN
+12  10   8 310 314 481 0 0 1 Person1  AvertGaze single NaN
+13 361  29 610 302 481 0 0 1 Person2  AvertGaze single NaN
+12  10   8 310 314 482 0 0 1 Person1  AvertGaze single NaN
+13 364  29 613 302 482 0 0 1 Person2  AvertGaze single NaN
+12  11   8 311 314 483 0 0 1 Person1  AvertGaze single NaN
+13 367  30 616 303 483 0 0 1 Person2  AvertGaze single NaN
+12  11   8 311 314 484 0 0 1 Person1  AvertGaze single NaN
+13 369  30 618 303 484 0 0 1 Person2  AvertGaze single NaN
+12  12   8 312 314 485 0 0 1 Person1  AvertGaze single NaN
+13 372  31 621 304 485 0 0 1 Person2  AvertGaze single NaN
+12  12   8 312 314 486 0 0 1 Person1  AvertGaze single NaN
+13 375  31 624 304 486 0 0 1 Person2  AvertGaze single NaN
+12  12   8 312 314 487 0 0 1 Person1  AvertGaze single NaN
+13 378  32 627 305 487 0 0 0 Person2  AvertGaze single NaN
+12  13   8 313 314 488 0 0 1 Person1  AvertGaze single NaN
+13 377  31 626 304 488 0 0 1 Person2  AvertGaze single NaN
+12  13   8 313 314 489 0 0 1 Person1  AvertGaze single NaN
+13 377  31 626 304 489 0 0 1 Person2  AvertGaze single NaN
+12  14   8 314 314 490 0 0 1 Person1  AvertGaze single NaN
+13 377  31 626 304 490 0 0 1 Person2  AvertGaze single NaN
+12  14   8 314 314 491 0 0 1 Person1  AvertGaze single NaN
+13 377  31 626 304 491 0 0 1 Person2  AvertGaze single NaN
+12  14   8 314 314 492 0 0 1 Person1  AvertGaze single NaN
+13 377  31 626 304 492 0 0 1 Person2  AvertGaze single NaN
+12  15   8 315 314 493 0 0 1 Person1  AvertGaze single NaN
+13 376  31 625 304 493 0 0 1 Person2  AvertGaze single NaN
+12  15   8 315 314 494 0 0 1 Person1  AvertGaze single NaN
+13 376  31 625 304 494 0 0 1 Person2  AvertGaze single NaN
+12  16   8 316 314 495 0 0 1 Person1  AvertGaze single NaN
+13 376  30 625 303 495 0 0 1 Person2  AvertGaze single NaN
+12  16   8 316 314 496 0 0 1 Person1  AvertGaze single NaN
+13 376  30 625 303 496 0 0 1 Person2  AvertGaze single NaN
+12  16   8 316 314 497 0 0 1 Person1  AvertGaze single NaN
+13 376  30 625 303 497 0 0 1 Person2  AvertGaze single NaN
+12  17   8 317 314 498 0 0 1 Person1  AvertGaze single NaN
+13 375  30 624 303 498 0 0 1 Person2  AvertGaze single NaN
+12  17   8 317 314 499 0 0 1 Person1  AvertGaze single NaN
+13 375  30 624 303 499 0 0 1 Person2  AvertGaze single NaN
+12  18   8 318 314 500 0 0 1 Person1  AvertGaze single NaN
+13 375  30 624 303 500 0 0 1 Person2  AvertGaze single NaN
+12  18   8 318 314 501 0 0 1 Person1  AvertGaze single NaN
+13 375  30 624 303 501 0 0 1 Person2  AvertGaze single NaN
+12  18   8 318 314 502 0 0 1 Person1  AvertGaze single NaN
+13 375  30 624 303 502 0 0 1 Person2  AvertGaze single NaN
+12  19   8 319 314 503 0 0 1 Person1  AvertGaze single NaN
+13 375  29 624 302 503 0 0 1 Person2  AvertGaze single NaN
+12  19   8 319 314 504 0 0 1 Person1  AvertGaze single NaN
+13 374  29 623 302 504 0 0 1 Person2  AvertGaze single NaN
+12  20   8 320 314 505 0 0 1 Person1  AvertGaze single NaN
+13 374  29 623 302 505 0 0 1 Person2  AvertGaze single NaN
+12  20   8 320 314 506 0 0 1 Person1  AvertGaze single NaN
+13 374  29 623 302 506 0 0 1 Person2  AvertGaze single NaN
+12  20   8 320 314 507 0 0 1 Person1  AvertGaze single NaN
+13 374  29 623 302 507 0 0 1 Person2  AvertGaze single NaN
+12  21   8 321 314 508 0 0 1 Person1  AvertGaze single NaN
+13 374  29 623 302 508 0 0 1 Person2  AvertGaze single NaN
+12  21   8 321 314 509 0 0 1 Person1  AvertGaze single NaN
+13 373  29 622 302 509 0 0 1 Person2  AvertGaze single NaN
+12  22   8 322 314 510 0 0 0 Person1  AvertGaze single NaN
+13 373  28 622 301 510 0 0 1 Person2  AvertGaze single NaN
+12  22   7 322 313 511 0 0 1 Person1  AvertGaze single NaN
+13 373  28 622 301 511 0 0 1 Person2  AvertGaze single NaN
+12  22   7 322 313 512 0 0 1 Person1  AvertGaze single NaN
+13 373  28 622 301 512 0 0 1 Person2  AvertGaze single NaN
+12  23   7 323 313 513 0 0 1 Person1  AvertGaze single NaN
+13 373  28 622 301 513 0 0 1 Person2  AvertGaze single NaN
+12  23   7 323 313 514 0 0 1 Person1  AvertGaze single NaN
+13 373  28 622 301 514 0 0 1 Person2  AvertGaze single NaN
+12  24   7 324 313 515 0 0 1 Person1  AvertGaze single NaN
+13 372  28 621 301 515 0 0 1 Person2  AvertGaze single NaN
+12  24   7 324 313 516 0 0 1 Person1  AvertGaze single NaN
+13 372  28 621 301 516 0 0 1 Person2  AvertGaze single  P1
+12  24   7 324 313 517 0 0 1 Person1  AvertGaze single NaN
+13 372  28 621 301 517 0 0 1 Person2  AvertGaze single  P1
+12  25   7 325 313 518 0 0 1 Person1  AvertGaze single NaN
+13 372  27 621 300 518 0 0 1 Person2  AvertGaze single  P1
+12  25   7 325 313 519 0 0 1 Person1  AvertGaze single NaN
+13 372  27 621 300 519 0 0 1 Person2  AvertGaze single  P1
+12  26   7 326 313 520 0 0 1 Person1  AvertGaze single NaN
+13 371  27 620 300 520 0 0 1 Person2  AvertGaze single  P1
+12  26   7 326 313 521 0 0 1 Person1  AvertGaze single NaN
+13 371  27 620 300 521 0 0 1 Person2  AvertGaze single  P1
+12  26   7 326 313 522 0 0 1 Person1  AvertGaze single NaN
+13 371  27 620 300 522 0 0 1 Person2  AvertGaze single  P1
+12  27   7 327 313 523 0 0 1 Person1  AvertGaze single NaN
+13 371  27 620 300 523 0 0 1 Person2  AvertGaze single  P1
+12  27   7 327 313 524 0 0 1 Person1  AvertGaze single NaN
+13 371  27 620 300 524 0 0 1 Person2  AvertGaze single  P1
+14 284  21 484 249 526 0 0 0 Person1  AvertGaze single NaN
+15 496   5 634 275 526 0 0 0 Person2  AvertGaze single  P1
+14 282  21 482 249 527 0 0 1 Person1  AvertGaze single NaN
+15 495   4 633 274 527 0 0 1 Person2  AvertGaze single  P1
+14 281  21 481 249 528 0 0 1 Person1  AvertGaze single NaN
+15 494   4 633 274 528 0 0 1 Person2  AvertGaze single  P1
+14 280  21 480 249 529 0 0 1 Person1  AvertGaze single NaN
+15 493   4 633 274 529 0 0 1 Person2  AvertGaze single  P1
+14 279  22 479 250 530 0 0 1 Person1  AvertGaze single NaN
+15 492   4 633 274 530 0 0 1 Person2  AvertGaze single  P1
+14 278  22 478 250 531 0 0 1 Person1  AvertGaze single NaN
+15 491   4 633 274 531 0 0 1 Person2  AvertGaze single  P1
+14 277  22 477 250 532 0 0 1 Person1  AvertGaze single NaN
+15 490   4 633 274 532 0 0 1 Person2  AvertGaze single  P1
+14 275  22 475 250 533 0 0 1 Person1  AvertGaze single NaN
+15 490   4 633 274 533 0 0 1 Person2  AvertGaze single  P1
+14 274  23 474 251 534 0 0 1 Person1  AvertGaze single NaN
+15 489   4 633 274 534 0 0 1 Person2  AvertGaze single  P1
+14 273  23 473 251 535 0 0 1 Person1  AvertGaze single NaN
+15 488   4 633 274 535 0 0 1 Person2  AvertGaze single  P1
+14 272  23 472 251 536 0 0 1 Person1  AvertGaze single NaN
+15 487   4 633 274 536 0 0 1 Person2  AvertGaze single  P1
+14 271  23 471 251 537 0 0 1 Person1  AvertGaze single NaN
+15 486   4 633 274 537 0 0 1 Person2  AvertGaze single  P1
+14 270  24 470 252 538 0 0 1 Person1  AvertGaze single NaN
+15 485   4 633 274 538 0 0 1 Person2  AvertGaze single  P1
+14 268  24 468 252 539 0 0 1 Person1  AvertGaze single NaN
+15 484   4 633 274 539 0 0 1 Person2  AvertGaze single  P1
+14 267  24 467 252 540 0 0 1 Person1  AvertGaze single NaN
+15 484   4 633 274 540 0 0 0 Person2  AvertGaze single  P1
+14 266  24 466 252 541 0 0 1 Person1  AvertGaze single NaN
+15 483   3 633 273 541 0 0 1 Person2  AvertGaze single  P1
+14 265  25 465 253 542 0 0 1 Person1  AvertGaze single NaN
+15 483   3 633 273 542 0 0 1 Person2  AvertGaze single  P1
+14 264  25 464 253 543 0 0 1 Person1  AvertGaze single NaN
+15 483   3 634 273 543 0 0 1 Person2  AvertGaze single  P1
+14 263  25 463 253 544 0 0 1 Person1  AvertGaze single NaN
+15 482   3 634 273 544 0 0 1 Person2  AvertGaze single  P1
+14 262  26 462 254 545 0 0 0 Person1  AvertGaze single NaN
+15 482   3 634 273 545 0 0 1 Person2  AvertGaze single  P1
+14 262  25 462 253 546 0 0 1 Person1  AvertGaze single NaN
+15 482   2 635 272 546 0 0 1 Person2  AvertGaze single  P1
+14 262  25 462 253 547 0 0 1 Person1  AvertGaze single NaN
+15 481   2 635 272 547 0 0 1 Person2  AvertGaze single  P1
+14 263  25 463 253 548 0 0 1 Person1  AvertGaze single NaN
+15 481   2 635 272 548 0 0 1 Person2  AvertGaze single  P1
+14 263  24 463 252 549 0 0 1 Person1  AvertGaze single NaN
+15 481   2 636 272 549 0 0 1 Person2  AvertGaze single  P1
+14 264  24 464 252 550 0 0 1 Person1  AvertGaze single NaN
+15 480   2 636 272 550 0 0 1 Person2  AvertGaze single  P1
+14 264  24 464 252 551 0 0 1 Person1  AvertGaze single NaN
+15 480   1 636 271 551 0 0 1 Person2  AvertGaze single  P1
+14 265  24 465 252 552 0 0 1 Person1  AvertGaze single NaN
+15 480   1 637 271 552 0 0 1 Person2  AvertGaze single  P1
+14 265  23 465 251 553 0 0 1 Person1  AvertGaze single NaN
+15 479   1 637 271 553 0 0 1 Person2  AvertGaze single  P1
+14 265  23 465 251 554 0 0 1 Person1  AvertGaze single NaN
+15 479   1 637 271 554 0 0 1 Person2  AvertGaze single  P1
+14 266  23 466 251 555 0 0 1 Person1  AvertGaze single NaN
+15 479   1 638 271 555 0 0 0 Person2  AvertGaze single  P1
+14 266  22 466 250 556 0 0 1 Person1  AvertGaze single NaN
+15 478   1 637 271 556 0 0 1 Person2  AvertGaze single  P1
+14 267  22 467 250 557 0 0 1 Person1  AvertGaze single NaN
+15 477   1 637 271 557 0 0 1 Person2  AvertGaze single  P1
+14 267  22 467 250 558 0 0 1 Person1  AvertGaze mutual  P2
+15 476   2 637 272 558 0 0 1 Person2  AvertGaze mutual  P1
+14 268  22 468 250 559 0 0 1 Person1  AvertGaze mutual  P2
+15 475   2 637 272 559 0 0 1 Person2  AvertGaze mutual  P1
+14 268  21 468 249 560 0 0 1 Person1  AvertGaze mutual  P2
+15 474   2 637 272 560 0 0 1 Person2  AvertGaze mutual  P1
+14 268  21 468 249 561 0 0 1 Person1  AvertGaze mutual  P2
+15 473   3 637 273 561 0 0 1 Person2  AvertGaze mutual  P1
+14 269  21 469 249 562 0 0 1 Person1  AvertGaze mutual  P2
+15 472   3 637 273 562 0 0 1 Person2  AvertGaze mutual  P1
+14 269  20 469 248 563 0 0 1 Person1  AvertGaze mutual  P2
+15 472   3 637 273 563 0 0 1 Person2  AvertGaze mutual  P1
+14 270  20 470 248 564 0 0 1 Person1  AvertGaze mutual  P2
+15 471   4 637 274 564 0 0 1 Person2  AvertGaze mutual  P1
+14 270  20 470 248 565 0 0 1 Person1  AvertGaze mutual  P2
+15 470   4 637 274 565 0 0 1 Person2  AvertGaze mutual  P1
+14 271  20 471 248 566 0 0 0 Person1  AvertGaze mutual  P2
+15 469   4 637 274 566 0 0 1 Person2  AvertGaze mutual  P1
+14 272  19 472 247 567 0 0 1 Person1  AvertGaze mutual  P2
+15 468   5 637 275 567 0 0 1 Person2  AvertGaze mutual  P1
+14 274  19 474 247 568 0 0 1 Person1  AvertGaze mutual  P2
+15 467   5 637 275 568 0 0 1 Person2  AvertGaze mutual  P1
+14 276  19 476 247 569 0 0 1 Person1  AvertGaze mutual  P2
+15 466   5 637 275 569 0 0 1 Person2  AvertGaze mutual  P1
+14 278  18 478 246 570 0 0 1 Person1  AvertGaze mutual  P2
+15 465   6 637 276 570 0 0 1 Person2  AvertGaze mutual  P1
+14 280  18 480 246 571 0 0 1 Person1  AvertGaze mutual  P2
+15 465   6 637 276 571 0 0 1 Person2  AvertGaze mutual  P1
+14 282  18 482 246 572 0 0 1 Person1  AvertGaze mutual  P2
+15 464   7 636 277 572 0 0 1 Person2  AvertGaze mutual  P1
+14 284  18 484 246 573 0 0 0 Person1  AvertGaze mutual  P2
+15 463   7 636 277 573 0 0 1 Person2  AvertGaze mutual  P1
+14 282  19 482 247 574 0 0 1 Person1  AvertGaze mutual  P2
+15 462   7 636 277 574 0 0 1 Person2  AvertGaze mutual  P1
+14 281  20 481 248 575 0 0 1 Person1  AvertGaze mutual  P2
+15 461   8 636 278 575 0 0 1 Person2  AvertGaze mutual  P1
+14 280  22 480 250 576 0 0 1 Person1  AvertGaze mutual  P2
+15 460   8 636 278 576 0 0 1 Person2  AvertGaze mutual  P1
+14 278  23 478 251 577 0 0 1 Person1  AvertGaze mutual  P2
+15 459   8 636 278 577 0 0 1 Person2  AvertGaze mutual  P1
+14 277  25 477 253 578 0 0 1 Person1  AvertGaze single NaN
+15 458   9 636 279 578 0 0 1 Person2  AvertGaze single  P1
+14 276  26 476 254 579 0 0 1 Person1  AvertGaze single NaN
+15 458   9 636 279 579 0 0 1 Person2  AvertGaze single  P1
+14 275  28 475 256 580 0 0 1 Person1  AvertGaze single NaN
+15 457   9 636 279 580 0 0 1 Person2  AvertGaze single  P1
+14 273  29 473 257 581 0 0 1 Person1  AvertGaze single NaN
+15 456  10 636 280 581 0 0 1 Person2  AvertGaze single  P1
+14 272  31 472 259 582 0 0 1 Person1  AvertGaze single NaN
+15 455  10 636 280 582 0 0 1 Person2  AvertGaze single  P1
+14 271  32 471 260 583 0 0 1 Person1  AvertGaze single NaN
+15 454  10 636 280 583 0 0 1 Person2  AvertGaze single  P1
+14 270  34 470 262 584 0 0 0 Person1  AvertGaze single NaN
+15 453  11 636 281 584 0 0 1 Person2  AvertGaze single  P1
+14 264  33 464 263 585 0 0 1 Person1  AvertGaze single NaN
+15 452  11 636 281 585 0 0 1 Person2  AvertGaze single  P1
+14 258  32 458 265 586 0 0 1 Person1  AvertGaze single NaN
+15 451  11 636 281 586 0 0 1 Person2  AvertGaze single  P1
+14 252  31 452 267 587 0 0 1 Person1  AvertGaze single NaN
+15 451  12 636 282 587 0 0 1 Person2  AvertGaze single  P1
+14 246  30 446 268 588 0 0 1 Person1  AvertGaze single NaN
+15 450  12 635 282 588 0 0 1 Person2  AvertGaze single  P1
+14 240  29 440 270 589 0 0 1 Person1  AvertGaze single NaN
+15 449  13 635 283 589 0 0 1 Person2  AvertGaze single  P1
+14 234  28 434 272 590 0 0 1 Person1  AvertGaze single NaN
+15 448  13 635 283 590 0 0 1 Person2  AvertGaze single  P1
+14 228  27 428 274 591 0 0 0 Person1  AvertGaze single NaN
+15 447  13 635 283 591 0 0 1 Person2  AvertGaze single  P1
+14 223  28 423 275 592 0 0 1 Person1  AvertGaze single NaN
+15 446  14 635 284 592 0 0 1 Person2  AvertGaze single  P1
+14 219  29 419 276 593 0 0 1 Person1  AvertGaze single NaN
+15 445  14 635 284 593 0 0 1 Person2  AvertGaze single  P1
+14 215  30 415 277 594 0 0 1 Person1  AvertGaze single NaN
+15 444  14 635 284 594 0 0 1 Person2  AvertGaze single  P1
+14 210  32 410 279 595 0 0 1 Person1  AvertGaze single NaN
+15 444  15 635 285 595 0 0 1 Person2  AvertGaze single  P1
+14 206  33 406 280 596 0 0 1 Person1  AvertGaze single NaN
+15 443  15 635 285 596 0 0 1 Person2  AvertGaze single  P1
+14 202  34 402 281 597 0 0 1 Person1  AvertGaze single NaN
+15 442  15 635 285 597 0 0 1 Person2  AvertGaze single  P1
+14 198  36 398 283 598 0 0 0 Person1  AvertGaze single NaN
+15 441  16 635 286 598 0 0 1 Person2  AvertGaze single  P1
+14 193  37 393 284 599 0 0 1 Person1  AvertGaze single NaN
+15 440  16 635 286 599 0 0 1 Person2  AvertGaze single  P1
+14 188  38 388 285 600 0 0 1 Person1  AvertGaze single NaN
+15 439  16 635 286 600 0 0 1 Person2  AvertGaze single  P1
+14 183  40 383 287 601 0 0 1 Person1  AvertGaze single NaN
+15 438  17 635 287 601 0 0 1 Person2  AvertGaze single  P1
+14 178  41 378 288 602 0 0 1 Person1  AvertGaze single NaN
+15 437  17 635 287 602 0 0 1 Person2  AvertGaze single  P1
+14 174  43 374 290 603 0 0 0 Person1  AvertGaze single NaN
+15 437  18 635 288 603 0 0 0 Person2  AvertGaze single  P1
+14 174  41 374 292 604 0 0 1 Person1  AvertGaze single NaN
+15 437  20 635 292 604 0 0 1 Person2  AvertGaze single  P1
+14 174  40 374 294 605 0 0 1 Person1  AvertGaze single NaN
+15 438  22 635 296 605 0 0 1 Person2  AvertGaze single  P1
+14 174  39 374 296 606 0 0 1 Person1  AvertGaze single NaN
+15 438  24 635 300 606 0 0 1 Person2  AvertGaze single  P1
+14 174  37 374 298 607 0 0 1 Person1  AvertGaze single NaN
+15 439  26 636 304 607 0 0 1 Person2  AvertGaze single  P1
+14 174  36 374 300 608 0 0 1 Person1  AvertGaze single NaN
+15 440  28 636 309 608 0 0 1 Person2  AvertGaze single  P1
+14 174  35 374 302 609 0 0 1 Person1  AvertGaze single NaN
+15 440  30 636 313 609 0 0 1 Person2  AvertGaze single  P1
+14 175  34 375 304 610 0 0 0 Person1  AvertGaze single NaN
+15 441  32 637 317 610 0 0 1 Person2  AvertGaze single  P1
+14 176  34 376 302 611 0 0 1 Person1  AvertGaze single NaN
+15 441  34 637 321 611 0 0 1 Person2  AvertGaze single  P1
+14 178  34 378 301 612 0 0 1 Person1  AvertGaze single NaN
+15 442  36 637 325 612 0 0 1 Person2  AvertGaze single  P1
+14 179  34 379 300 613 0 0 1 Person1  AvertGaze single NaN
+15 443  38 638 330 613 0 0 0 Person2  AvertGaze single  P1
+14 181  34 381 299 614 0 0 1 Person1  AvertGaze single NaN
+15 443  37 638 329 614 0 0 1 Person2  AvertGaze single  P1
+14 182  34 382 298 615 0 0 1 Person1  AvertGaze single NaN
+15 444  37 638 329 615 0 0 1 Person2  AvertGaze single  P1
+14 184  34 384 297 616 0 0 1 Person1  AvertGaze single NaN
+15 444  37 638 328 616 0 0 1 Person2  AvertGaze single  P1
+16  94   5 350 319 618 0 0 0 Person1  AvertGaze single NaN
+17 399  12 634 310 618 0 0 0 Person2  AvertGaze single  P1
+16  94   4 350 318 619 0 0 1 Person1  AvertGaze single NaN
+17 398  11 633 309 619 0 0 1 Person2  AvertGaze single  P1
+16  94   4 350 318 620 0 0 1 Person1  AvertGaze single NaN
+17 397  11 632 309 620 0 0 1 Person2  AvertGaze single  P1
+16  94   4 350 318 621 0 0 1 Person1  AvertGaze single NaN
+17 396  11 631 309 621 0 0 1 Person2  AvertGaze single  P1
+16  95   4 351 318 622 0 0 1 Person1  AvertGaze single NaN
+17 396  11 631 309 622 0 0 1 Person2  AvertGaze single  P1
+16  95   4 351 318 623 0 0 1 Person1  AvertGaze single NaN
+17 395  11 630 309 623 0 0 1 Person2  AvertGaze single  P1
+16  95   4 351 318 624 0 0 1 Person1  AvertGaze single NaN
+17 394  10 629 308 624 0 0 1 Person2  AvertGaze single  P1
+16  96   4 352 318 625 0 0 1 Person1  AvertGaze single NaN
+17 393  10 628 308 625 0 0 1 Person2  AvertGaze single  P1
+16  96   4 352 318 626 0 0 1 Person1  AvertGaze single NaN
+17 393  10 628 308 626 0 0 1 Person2  AvertGaze single  P1
+16  96   4 352 318 627 0 0 1 Person1  AvertGaze single NaN
+17 392  10 627 308 627 0 0 1 Person2  AvertGaze single  P1
+16  97   4 353 318 628 0 0 1 Person1  AvertGaze single NaN
+17 391  10 626 308 628 0 0 1 Person2  AvertGaze single  P1
+16  97   3 353 317 629 0 0 1 Person1  AvertGaze single NaN
+17 390   9 625 307 629 0 0 1 Person2  AvertGaze single  P1
+16  97   3 353 317 630 0 0 1 Person1  AvertGaze single NaN
+17 390   9 625 307 630 0 0 1 Person2  AvertGaze single  P1
+16  98   3 354 317 631 0 0 1 Person1  AvertGaze single NaN
+17 389   9 624 307 631 0 0 1 Person2  AvertGaze single  P1
+16  98   3 354 317 632 0 0 1 Person1  AvertGaze single NaN
+17 388   9 623 307 632 0 0 1 Person2  AvertGaze single  P1
+16  98   3 354 317 633 0 0 1 Person1  AvertGaze single NaN
+17 388   9 623 307 633 0 0 0 Person2  AvertGaze single  P1
+16  99   3 355 317 634 0 0 1 Person1  AvertGaze single NaN
+17 387   9 622 307 634 0 0 1 Person2  AvertGaze single  P1
+16  99   3 355 317 635 0 0 1 Person1  AvertGaze single NaN
+17 386  10 621 308 635 0 0 1 Person2  AvertGaze single  P1
+16  99   3 355 317 636 0 0 1 Person1  AvertGaze single NaN
+17 385  11 620 309 636 0 0 1 Person2  AvertGaze single  P1
+16 100   3 356 317 637 0 0 1 Person1  AvertGaze single NaN
+17 384  11 619 309 637 0 0 1 Person2  AvertGaze single  P1
+16 100   3 356 317 638 0 0 1 Person1  AvertGaze single NaN
+17 383  12 618 310 638 0 0 1 Person2  AvertGaze single  P1
+16 100   2 356 316 639 0 0 1 Person1  AvertGaze single NaN
+17 382  13 617 311 639 0 0 1 Person2  AvertGaze single  P1
+16 100   2 356 316 640 0 0 1 Person1  AvertGaze single NaN
+17 381  14 616 312 640 0 0 1 Person2  AvertGaze single  P1
+16 101   2 357 316 641 0 0 1 Person1  AvertGaze single NaN
+17 380  14 615 312 641 0 0 1 Person2  AvertGaze single  P1
+16 101   2 357 316 642 0 0 1 Person1  AvertGaze single NaN
+17 379  15 614 313 642 0 0 1 Person2  AvertGaze single  P1
+16 101   2 357 316 643 0 0 1 Person1  AvertGaze single NaN
+17 378  16 613 314 643 0 0 1 Person2  AvertGaze single  P1
+16 102   2 358 316 644 0 0 1 Person1  AvertGaze single NaN
+17 378  17 613 315 644 0 0 0 Person2  AvertGaze single  P1
+16 102   2 358 316 645 0 0 1 Person1  AvertGaze single NaN
+17 378  16 613 314 645 0 0 1 Person2  AvertGaze single  P1
+16 102   2 358 316 646 0 0 1 Person1  AvertGaze single NaN
+17 379  16 614 314 646 0 0 1 Person2  AvertGaze single  P1
+16 103   2 359 316 647 0 0 1 Person1  AvertGaze single NaN
+17 380  16 615 314 647 0 0 1 Person2  AvertGaze single  P1
+16 103   2 359 316 648 0 0 1 Person1  AvertGaze single NaN
+17 381  15 616 313 648 0 0 1 Person2  AvertGaze single  P1
+16 103   1 359 315 649 0 0 1 Person1  AvertGaze single NaN
+17 382  15 617 313 649 0 0 1 Person2  AvertGaze single  P1
+16 104   1 360 315 650 0 0 1 Person1  AvertGaze single NaN
+17 383  15 618 313 650 0 0 1 Person2  AvertGaze single  P1
+16 104   1 360 315 651 0 0 1 Person1  AvertGaze single NaN
+17 384  15 619 313 651 0 0 1 Person2  AvertGaze single  P1
+16 104   1 360 315 652 0 0 1 Person1  AvertGaze single NaN
+17 385  14 620 312 652 0 0 1 Person2  AvertGaze single  P1
+16 105   1 361 315 653 0 0 1 Person1  AvertGaze single NaN
+17 385  14 620 312 653 0 0 1 Person2  AvertGaze single  P1
+16 105   1 361 315 654 0 0 1 Person1  AvertGaze single NaN
+17 386  14 621 312 654 0 0 1 Person2  AvertGaze single  P1
+16 105   1 361 315 655 0 0 1 Person1  AvertGaze single NaN
+17 387  13 622 311 655 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 315 656 0 0 1 Person1  AvertGaze single NaN
+17 388  13 623 311 656 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 315 657 0 0 1 Person1  AvertGaze single NaN
+17 389  13 624 311 657 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 315 658 0 0 1 Person1  AvertGaze single NaN
+17 390  13 625 311 658 0 0 1 Person2  AvertGaze single  P1
+16 107   1 363 315 659 0 0 0 Person1  AvertGaze single NaN
+17 391  12 626 310 659 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 314 660 0 0 1 Person1  AvertGaze single NaN
+17 392  12 627 310 660 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 314 661 0 0 1 Person1  AvertGaze single NaN
+17 392  12 627 310 661 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 314 662 0 0 1 Person1  AvertGaze single NaN
+17 393  11 628 309 662 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 314 663 0 0 1 Person1  AvertGaze single NaN
+17 394  11 629 309 663 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 314 664 0 0 1 Person1  AvertGaze single NaN
+17 395  11 630 309 664 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 314 665 0 0 1 Person1  AvertGaze single NaN
+17 396  11 631 309 665 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 313 666 0 0 1 Person1  AvertGaze single NaN
+17 397  10 632 308 666 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 313 667 0 0 1 Person1  AvertGaze single NaN
+17 398  10 633 308 667 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 313 668 0 0 1 Person1  AvertGaze single NaN
+17 399  10 634 308 668 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 313 669 0 0 1 Person1  AvertGaze single NaN
+17 400  10 635 308 669 0 0 0 Person2  AvertGaze single  P1
+16 106   1 362 313 670 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 670 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 313 671 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 671 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 313 672 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 672 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 312 673 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 673 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 312 674 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 674 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 312 675 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 675 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 312 676 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 676 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 312 677 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 677 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 312 678 0 0 1 Person1  AvertGaze single NaN
+17 400   9 635 307 678 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 312 679 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 679 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 311 680 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 680 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 311 681 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 681 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 311 682 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 682 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 311 683 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 683 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 311 684 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 684 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 311 685 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 685 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 311 686 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 686 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 310 687 0 0 1 Person1  AvertGaze single NaN
+17 401   9 635 307 687 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 310 688 0 0 1 Person1  AvertGaze single NaN
+17 402   9 636 307 688 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 310 689 0 0 1 Person1  AvertGaze single NaN
+17 402   9 636 307 689 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 310 690 0 0 1 Person1  AvertGaze single NaN
+17 402   9 636 307 690 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 310 691 0 0 1 Person1  AvertGaze single NaN
+17 402   9 636 307 691 0 0 1 Person2  AvertGaze single  P1
+16 106   1 362 310 692 0 0 1 Person1  AvertGaze single NaN
+17 402   9 636 307 692 0 0 1 Person2  AvertGaze single  P1
+21 325 303 571 357 693 0 0 0 Object2        NaN    NaN NaN
+16 106   1 362 310 693 0 0 0 Person1  AvertGaze single  O2
+17 402   9 636 307 693 0 0 1 Person2  AvertGaze single  P1
+21 317 298 563 356 694 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 309 694 0 0 1 Person1  AvertGaze single  O2
+17 402   9 636 307 694 0 0 1 Person2  AvertGaze single  P1
+21 310 293 556 356 695 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 309 695 0 0 1 Person1  AvertGaze single  O2
+17 402   9 636 307 695 0 0 1 Person2  AvertGaze single  P1
+21 303 289 549 356 696 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 309 696 0 0 1 Person1  AvertGaze single  O2
+17 402   9 636 307 696 0 0 1 Person2  AvertGaze single  P1
+21 296 284 542 356 697 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 309 697 0 0 1 Person1  AvertGaze single  O2
+17 403   9 636 307 697 0 0 1 Person2  AvertGaze single  P1
+21 289 279 535 356 698 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 309 698 0 0 1 Person1  AvertGaze single  O2
+17 403   8 636 306 698 0 0 1 Person2  AvertGaze single  P1
+21 282 275 528 356 699 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 309 699 0 0 1 Person1  AvertGaze single  O2
+17 403   8 636 306 699 0 0 1 Person2  AvertGaze single  P1
+21 275 270 521 356 700 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 308 700 0 0 1 Person1  AvertGaze single  O2
+17 403   8 636 306 700 0 0 1 Person2  AvertGaze single  P1
+21 268 266 514 356 701 0 0 0 Object2        NaN    NaN NaN
+16 106   1 362 308 701 0 0 1 Person1  AvertGaze  share  O2
+17 403   8 636 306 701 0 0 1 Person2  AvertGaze  share  O2
+21 269 266 515 356 702 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 308 702 0 0 1 Person1  AvertGaze  share  O2
+17 403   8 636 306 702 0 0 1 Person2  AvertGaze  share  O2
+21 271 267 517 356 703 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 308 703 0 0 1 Person1  AvertGaze  share  O2
+17 403   8 636 306 703 0 0 1 Person2  AvertGaze  share  O2
+21 273 268 519 356 704 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 308 704 0 0 1 Person1  AvertGaze  share  O2
+17 403   8 636 306 704 0 0 1 Person2  AvertGaze  share  O2
+21 275 268 521 356 705 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 308 705 0 0 1 Person1  AvertGaze  share  O2
+17 403   8 636 306 705 0 0 1 Person2  AvertGaze  share  O2
+21 277 269 523 356 706 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 307 706 0 0 1 Person1  AvertGaze  share  O2
+17 403   8 636 306 706 0 0 1 Person2  AvertGaze  share  O2
+21 279 270 525 356 707 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 307 707 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 707 0 0 1 Person2  AvertGaze  share  O2
+21 281 270 527 356 708 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 307 708 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 708 0 0 1 Person2  AvertGaze  share  O2
+21 283 271 529 357 709 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 307 709 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 709 0 0 1 Person2  AvertGaze  share  O2
+21 284 272 530 357 710 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 307 710 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 710 0 0 1 Person2  AvertGaze  share  O2
+21 286 272 532 357 711 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 307 711 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 711 0 0 1 Person2  AvertGaze  share  O2
+21 288 273 534 357 712 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 306 712 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 712 0 0 1 Person2  AvertGaze  share  O2
+21 290 274 536 357 713 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 306 713 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 713 0 0 1 Person2  AvertGaze  share  O2
+21 292 274 538 357 714 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 306 714 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 714 0 0 1 Person2  AvertGaze  share  O2
+21 294 275 540 357 715 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 306 715 0 0 1 Person1  AvertGaze  share  O2
+17 404   8 637 306 715 0 0 1 Person2  AvertGaze  share  O2
+21 296 276 542 357 716 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 306 716 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 716 0 0 1 Person2  AvertGaze  share  O2
+21 298 277 544 358 717 0 0 0 Object2        NaN    NaN NaN
+16 106   1 362 306 717 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 717 0 0 1 Person2  AvertGaze  share  O2
+21 299 278 545 358 718 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 305 718 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 718 0 0 1 Person2  AvertGaze  share  O2
+21 300 279 546 358 719 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 305 719 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 719 0 0 1 Person2  AvertGaze  share  O2
+21 302 281 548 358 720 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 305 720 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 720 0 0 1 Person2  AvertGaze  share  O2
+21 303 282 549 358 721 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 305 721 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 721 0 0 1 Person2  AvertGaze  share  O2
+21 305 284 551 358 722 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 305 722 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 722 0 0 1 Person2  AvertGaze  share  O2
+21 306 285 552 358 723 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 305 723 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 723 0 0 1 Person2  AvertGaze  share  O2
+21 308 287 554 358 724 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 304 724 0 0 1 Person1  AvertGaze  share  O2
+17 405   8 637 306 724 0 0 1 Person2  AvertGaze  share  O2
+21 309 288 555 358 725 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 304 725 0 0 1 Person1  AvertGaze  share  O2
+17 406   8 638 306 725 0 0 0 Person2  AvertGaze  share  O2
+21 310 289 556 358 726 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 304 726 0 0 1 Person1  AvertGaze  share  O2
+17 406   8 638 306 726 0 0 1 Person2  AvertGaze  share  O2
+21 312 291 558 358 727 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 304 727 0 0 1 Person1  AvertGaze  share  O2
+17 406   8 638 306 727 0 0 1 Person2  AvertGaze  share  O2
+21 313 292 559 358 728 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 304 728 0 0 1 Person1  AvertGaze  share  O2
+17 406   8 638 306 728 0 0 1 Person2  AvertGaze  share  O2
+21 315 294 561 358 729 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 304 729 0 0 1 Person1  AvertGaze  share  O2
+17 406   8 638 306 729 0 0 1 Person2  AvertGaze  share  O2
+21 316 295 562 358 730 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 303 730 0 0 1 Person1  AvertGaze  share  O2
+17 406   8 638 306 730 0 0 1 Person2  AvertGaze  share  O2
+21 318 297 564 358 731 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 303 731 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 731 0 0 1 Person2  AvertGaze single NaN
+21 319 298 565 358 732 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 303 732 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 732 0 0 1 Person2  AvertGaze single NaN
+21 320 299 566 358 733 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 303 733 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 733 0 0 1 Person2  AvertGaze single NaN
+21 322 301 568 358 734 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 303 734 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 734 0 0 1 Person2  AvertGaze single NaN
+21 323 302 569 358 735 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 303 735 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 735 0 0 1 Person2  AvertGaze single NaN
+21 325 304 571 358 736 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 302 736 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 736 0 0 1 Person2  AvertGaze single NaN
+21 326 305 572 358 737 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 302 737 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 737 0 0 1 Person2  AvertGaze single NaN
+21 328 307 574 358 738 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 302 738 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 738 0 0 1 Person2  AvertGaze single NaN
+21 329 308 575 358 739 0 0 1 Object2        NaN    NaN NaN
+16 106   1 362 302 739 0 0 1 Person1  AvertGaze single  O2
+17 406   8 638 306 739 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 302 740 0 0 1 Person1  AvertGaze  refer  O2
+17 406   8 638 306 740 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 302 741 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 741 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 301 742 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 742 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 301 743 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 743 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 301 744 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 744 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 301 745 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 745 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 301 746 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 746 0 0 1 Person2  AvertGaze single NaN
+16 106   1 362 301 747 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 747 0 0 1 Person2  AvertGaze single NaN
+16 107   1 363 301 748 0 0 0 Person1  AvertGaze single NaN
+17 406   8 638 306 748 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 301 749 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 749 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 301 750 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 750 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 302 751 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 751 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 302 752 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 752 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 303 753 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 753 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 303 754 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 754 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 303 755 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 755 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 304 756 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 756 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 304 757 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 757 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 305 758 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 758 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 305 759 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 759 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 305 760 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 760 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 306 761 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 761 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 306 762 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 762 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 307 763 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 763 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 307 764 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 764 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 307 765 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 765 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 308 766 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 766 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 308 767 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 767 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 309 768 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 768 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 309 769 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 769 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 309 770 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 770 0 0 1 Person2  AvertGaze single NaN
+16 107   0 363 310 771 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 771 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 310 772 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 772 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 311 773 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 773 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 311 774 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 774 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 311 775 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 775 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 312 776 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 776 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 312 777 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 777 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 313 778 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 778 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 313 779 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 779 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 313 780 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 780 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 314 781 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 781 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 314 782 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 782 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 315 783 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 783 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 315 784 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 784 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 315 785 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 785 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 316 786 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 786 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 316 787 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 787 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 317 788 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 788 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 317 789 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 789 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 317 790 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 790 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 318 791 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 791 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 318 792 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 792 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 319 793 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 793 0 0 1 Person2  AvertGaze single  P1
+16 107   0 363 319 794 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 794 0 0 1 Person2  AvertGaze single  P1
+16 108   0 364 320 795 0 0 0 Person1  AvertGaze single NaN
+17 406   8 638 306 795 0 0 1 Person2  AvertGaze single  P1
+16 108   0 364 319 796 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 796 0 0 1 Person2  AvertGaze single  P1
+16 108   0 364 319 797 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 797 0 0 1 Person2  AvertGaze single  P1
+16 108   0 364 319 798 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 798 0 0 1 Person2  AvertGaze single  P1
+16 108   0 364 319 799 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 799 0 0 1 Person2  AvertGaze single  P1
+16 108   0 364 319 800 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 800 0 0 1 Person2  AvertGaze single  P1
+16 108   0 364 319 801 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 801 0 0 1 Person2  AvertGaze single  P1
+16 109   0 365 319 802 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 802 0 0 1 Person2  AvertGaze single  P1
+16 109   0 365 319 803 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 803 0 0 1 Person2  AvertGaze single  P1
+16 109   0 365 319 804 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 804 0 0 1 Person2  AvertGaze single  P1
+16 109   0 365 318 805 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 805 0 0 1 Person2  AvertGaze single  P1
+16 109   0 365 318 806 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 806 0 0 1 Person2  AvertGaze single  P1
+16 109   0 365 318 807 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 807 0 0 1 Person2  AvertGaze single  P1
+16 109   0 365 318 808 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 808 0 0 1 Person2  AvertGaze single  P1
+16 110   0 366 318 809 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 809 0 0 1 Person2  AvertGaze single  P1
+16 110   0 366 318 810 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 810 0 0 1 Person2  AvertGaze single  P1
+16 110   0 366 318 811 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 811 0 0 1 Person2  AvertGaze single  P1
+16 110   0 366 318 812 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 812 0 0 1 Person2  AvertGaze single  P1
+16 110   0 366 318 813 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 813 0 0 1 Person2  AvertGaze single  P1
+16 110   0 366 317 814 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 814 0 0 1 Person2  AvertGaze single  P1
+16 110   0 366 317 815 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 815 0 0 1 Person2  AvertGaze single  P1
+16 111   0 367 317 816 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 816 0 0 1 Person2  AvertGaze single  P1
+16 111   0 367 317 817 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 817 0 0 1 Person2  AvertGaze single  P1
+16 111   0 367 317 818 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 818 0 0 1 Person2  AvertGaze single  P1
+16 111   0 367 317 819 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 819 0 0 1 Person2  AvertGaze single  P1
+16 111   0 367 317 820 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 820 0 0 1 Person2  AvertGaze single  P1
+16 111   0 367 317 821 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 821 0 0 1 Person2  AvertGaze single  P1
+16 112   0 368 317 822 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 822 0 0 1 Person2  AvertGaze single  P1
+16 112   0 368 317 823 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 823 0 0 1 Person2  AvertGaze single  P1
+16 112   0 368 316 824 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 824 0 0 1 Person2  AvertGaze single  P1
+16 112   0 368 316 825 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 825 0 0 1 Person2  AvertGaze single  P1
+16 112   0 368 316 826 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 826 0 0 1 Person2  AvertGaze single  P1
+16 112   0 368 316 827 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 827 0 0 1 Person2  AvertGaze single  P1
+16 112   0 368 316 828 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 828 0 0 1 Person2  AvertGaze single  P1
+16 113   0 369 316 829 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 829 0 0 1 Person2  AvertGaze single  P1
+16 113   0 369 316 830 0 0 1 Person1  AvertGaze single NaN
+17 406   8 638 306 830 0 0 1 Person2  AvertGaze single  P1
+16 113   0 369 316 831 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 831 0 0 1 Person2  AvertGaze mutual  P1
+16 113   0 369 316 832 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 832 0 0 1 Person2  AvertGaze mutual  P1
+16 113   0 369 315 833 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 833 0 0 1 Person2  AvertGaze mutual  P1
+16 113   0 369 315 834 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 834 0 0 1 Person2  AvertGaze mutual  P1
+16 113   0 369 315 835 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 835 0 0 1 Person2  AvertGaze mutual  P1
+16 114   0 370 315 836 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 836 0 0 1 Person2  AvertGaze mutual  P1
+16 114   0 370 315 837 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 837 0 0 1 Person2  AvertGaze mutual  P1
+16 114   0 370 315 838 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 838 0 0 1 Person2  AvertGaze mutual  P1
+16 114   0 370 315 839 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 839 0 0 1 Person2  AvertGaze mutual  P1
+16 114   0 370 315 840 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 840 0 0 1 Person2  AvertGaze mutual  P1
+16 114   0 370 315 841 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 841 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 842 0 0 0 Person1  AvertGaze mutual  P2
+17 406   8 638 306 842 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 843 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 843 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 844 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 844 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 845 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 845 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 846 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 846 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 847 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 847 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 848 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 848 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 849 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 849 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 850 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 850 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 851 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 851 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 852 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 852 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 853 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 853 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 854 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 854 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 855 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 855 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 856 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 856 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 857 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 857 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 858 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 858 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 859 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 859 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 860 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 860 0 0 1 Person2  AvertGaze mutual  P1
+16 115   0 371 315 861 0 0 1 Person1  AvertGaze mutual  P2
+17 406   8 638 306 861 0 0 1 Person2  AvertGaze mutual  P1

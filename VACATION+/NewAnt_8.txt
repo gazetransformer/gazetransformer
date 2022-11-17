@@ -1,0 +1,1063 @@
+ 2 194 272 258 315   0 0 0 0 Object1        NaN    NaN NaN
+ 0 154  36 203  96   0 0 0 0 Person1   JointAtt  share  O1
+ 1 285   2 340  74   0 0 0 0 Person2   JointAtt  share  O1
+ 2 193 271 257 314   1 0 0 1 Object1        NaN    NaN NaN
+ 0 153  36 202  96   1 0 0 1 Person1   JointAtt  share  O1
+ 1 284   2 339  74   1 0 0 1 Person2   JointAtt  share  O1
+ 2 193 271 257 314   2 0 0 1 Object1        NaN    NaN NaN
+ 0 153  36 202  96   2 0 0 1 Person1   JointAtt  share  O1
+ 1 284   2 339  74   2 0 0 1 Person2   JointAtt  share  O1
+ 2 193 271 257 314   3 0 0 1 Object1        NaN    NaN NaN
+ 0 152  36 201  96   3 0 0 1 Person1   JointAtt  share  O1
+ 1 284   3 339  75   3 0 0 1 Person2   JointAtt  share  O1
+ 2 192 270 256 313   4 0 0 1 Object1        NaN    NaN NaN
+ 0 152  36 201  96   4 0 0 1 Person1   JointAtt  share  O1
+ 1 284   3 339  75   4 0 0 1 Person2   JointAtt  share  O1
+ 2 192 270 256 313   5 0 0 1 Object1        NaN    NaN NaN
+ 0 151  36 200  96   5 0 0 1 Person1   JointAtt  share  O1
+ 1 284   4 339  76   5 0 0 1 Person2   JointAtt  share  O1
+ 2 192 270 256 313   6 0 0 1 Object1        NaN    NaN NaN
+ 0 151  36 200  96   6 0 0 1 Person1   JointAtt  share  O1
+ 1 284   4 339  76   6 0 0 1 Person2   JointAtt  share  O1
+ 2 191 269 255 312   7 0 0 1 Object1        NaN    NaN NaN
+ 0 150  36 199  96   7 0 0 1 Person1   JointAtt  share  O1
+ 1 283   4 338  76   7 0 0 1 Person2   JointAtt  share  O1
+ 2 191 269 255 312   8 0 0 1 Object1        NaN    NaN NaN
+ 0 150  36 199  96   8 0 0 1 Person1   JointAtt  share  O1
+ 1 283   5 338  77   8 0 0 1 Person2   JointAtt  share  O1
+ 2 191 269 255 312   9 0 0 1 Object1        NaN    NaN NaN
+ 0 149  36 198  96   9 0 0 1 Person1   JointAtt  share  O1
+ 1 283   5 338  77   9 0 0 1 Person2   JointAtt  share  O1
+ 2 190 268 254 311  10 0 0 1 Object1        NaN    NaN NaN
+ 0 149  36 198  96  10 0 0 1 Person1   JointAtt  share  O1
+ 1 283   6 338  78  10 0 0 1 Person2   JointAtt  share  O1
+ 2 190 268 254 311  11 0 0 1 Object1        NaN    NaN NaN
+ 0 148  36 197  96  11 0 0 1 Person1   JointAtt  share  O1
+ 1 283   6 338  78  11 0 0 1 Person2   JointAtt  share  O1
+ 2 190 268 254 311  12 0 0 1 Object1        NaN    NaN NaN
+ 0 148  36 197  96  12 0 0 1 Person1   JointAtt  share  O1
+ 1 283   6 338  78  12 0 0 1 Person2   JointAtt  share  O1
+ 2 190 268 254 311  13 0 0 0 Object1        NaN    NaN NaN
+ 0 147  36 196  96  13 0 0 1 Person1   JointAtt  share  O1
+ 1 283   7 338  79  13 0 0 1 Person2   JointAtt  share  O1
+ 2 190 267 254 310  14 0 0 1 Object1        NaN    NaN NaN
+ 0 147  37 196  97  14 0 0 1 Person1   JointAtt  share  O1
+ 1 282   7 337  79  14 0 0 1 Person2   JointAtt  share  O1
+ 2 190 267 254 310  15 0 0 1 Object1        NaN    NaN NaN
+ 0 147  37 196  97  15 0 0 1 Person1   JointAtt  share  O1
+ 1 282   8 337  80  15 0 0 1 Person2   JointAtt  share  O1
+ 2 190 266 254 309  16 0 0 1 Object1        NaN    NaN NaN
+ 0 146  37 195  97  16 0 0 1 Person1   JointAtt single  P2
+ 1 282   8 337  80  16 0 0 1 Person2   JointAtt single  O1
+ 2 190 266 254 309  17 0 0 0 Object1        NaN    NaN NaN
+ 0 146  37 195  97  17 0 0 1 Person1   JointAtt single  P2
+ 1 282   8 337  80  17 0 0 1 Person2   JointAtt single  O1
+ 2 190 266 254 309  18 0 0 1 Object1        NaN    NaN NaN
+ 0 145  37 194  97  18 0 0 1 Person1   JointAtt single  P2
+ 1 282   9 337  81  18 0 0 1 Person2   JointAtt single  O1
+ 2 190 266 254 309  19 0 0 1 Object1        NaN    NaN NaN
+ 0 145  37 194  97  19 0 0 1 Person1   JointAtt single  P2
+ 1 282   9 337  81  19 0 0 1 Person2   JointAtt single  O1
+ 2 191 266 255 309  20 0 0 1 Object1        NaN    NaN NaN
+ 0 144  37 193  97  20 0 0 1 Person1   JointAtt single  P2
+ 1 282  10 337  82  20 0 0 0 Person2   JointAtt single  O1
+ 2 191 266 255 309  21 0 0 1 Object1        NaN    NaN NaN
+ 0 144  37 193  97  21 0 0 1 Person1   JointAtt single  P2
+ 1 282  10 337  82  21 0 0 1 Person2   JointAtt single  O1
+ 2 191 266 255 309  22 0 0 1 Object1        NaN    NaN NaN
+ 0 143  37 192  97  22 0 0 1 Person1   JointAtt single  P2
+ 1 282  10 337  82  22 0 0 1 Person2   JointAtt single  O1
+ 2 192 266 256 309  23 0 0 1 Object1        NaN    NaN NaN
+ 0 143  37 192  97  23 0 0 1 Person1   JointAtt single  P2
+ 1 282  10 337  82  23 0 0 1 Person2   JointAtt single  O1
+ 2 192 266 256 309  24 0 0 1 Object1        NaN    NaN NaN
+ 0 142  37 191  97  24 0 0 1 Person1   JointAtt single  P2
+ 1 282  10 337  82  24 0 0 1 Person2   JointAtt single  O1
+ 2 192 266 256 309  25 0 0 1 Object1        NaN    NaN NaN
+ 0 142  37 191  97  25 0 0 1 Person1   JointAtt  share  O1
+ 1 282  10 337  82  25 0 0 1 Person2   JointAtt  share  O1
+ 2 193 266 257 309  26 0 0 1 Object1        NaN    NaN NaN
+ 0 141  37 190  97  26 0 0 1 Person1   JointAtt  share  O1
+ 1 282  10 337  82  26 0 0 1 Person2   JointAtt  share  O1
+ 2 193 266 257 309  27 0 0 1 Object1        NaN    NaN NaN
+ 0 141  37 190  97  27 0 0 1 Person1   JointAtt  share  O1
+ 1 282  10 337  82  27 0 0 1 Person2   JointAtt  share  O1
+ 3 135 117 434 301  29 0 0 0 Object1        NaN    NaN NaN
+ 3 137 120 436 304  30 0 0 1 Object1        NaN    NaN NaN
+ 3 140 123 439 307  31 0 0 1 Object1        NaN    NaN NaN
+ 3 143 126 442 310  32 0 0 1 Object1        NaN    NaN NaN
+ 3 145 129 444 313  33 0 0 1 Object1        NaN    NaN NaN
+ 3 148 132 447 316  34 0 0 1 Object1        NaN    NaN NaN
+ 3 151 135 450 319  35 0 0 1 Object1        NaN    NaN NaN
+ 3 153 138 452 322  36 0 0 1 Object1        NaN    NaN NaN
+ 3 156 141 455 325  37 0 0 1 Object1        NaN    NaN NaN
+ 3 159 144 458 328  38 0 0 1 Object1        NaN    NaN NaN
+ 3 162 148 461 332  39 0 0 0 Object1        NaN    NaN NaN
+ 3 162 147 461 331  40 0 0 1 Object1        NaN    NaN NaN
+ 3 162 147 461 331  41 0 0 1 Object1        NaN    NaN NaN
+ 3 163 147 462 331  42 0 0 1 Object1        NaN    NaN NaN
+ 3 163 147 462 331  43 0 0 1 Object1        NaN    NaN NaN
+ 3 164 147 463 331  44 0 0 1 Object1        NaN    NaN NaN
+ 3 164 147 463 331  45 0 0 1 Object1        NaN    NaN NaN
+ 3 165 147 464 331  46 0 0 1 Object1        NaN    NaN NaN
+ 3 165 147 464 331  47 0 0 1 Object1        NaN    NaN NaN
+ 3 165 147 464 331  48 0 0 1 Object1        NaN    NaN NaN
+ 3 166 147 465 331  49 0 0 1 Object1        NaN    NaN NaN
+ 3 166 146 465 330  50 0 0 1 Object1        NaN    NaN NaN
+ 3 167 146 466 330  51 0 0 1 Object1        NaN    NaN NaN
+ 3 167 146 466 330  52 0 0 1 Object1        NaN    NaN NaN
+ 3 168 146 467 330  53 0 0 1 Object1        NaN    NaN NaN
+ 3 168 146 467 330  54 0 0 1 Object1        NaN    NaN NaN
+ 3 168 146 467 330  55 0 0 1 Object1        NaN    NaN NaN
+ 3 169 146 468 330  56 0 0 1 Object1        NaN    NaN NaN
+ 3 169 146 468 330  57 0 0 1 Object1        NaN    NaN NaN
+ 3 170 146 469 330  58 0 0 1 Object1        NaN    NaN NaN
+ 3 170 146 469 330  59 0 0 1 Object1        NaN    NaN NaN
+ 3 171 145 470 329  60 0 0 1 Object1        NaN    NaN NaN
+ 3 171 145 470 329  61 0 0 1 Object1        NaN    NaN NaN
+ 3 171 145 470 329  62 0 0 1 Object1        NaN    NaN NaN
+ 3 172 145 471 329  63 0 0 1 Object1        NaN    NaN NaN
+ 3 172 145 471 329  64 0 0 1 Object1        NaN    NaN NaN
+ 3 173 145 472 329  65 0 0 1 Object1        NaN    NaN NaN
+ 3 173 145 472 329  66 0 0 1 Object1        NaN    NaN NaN
+ 3 174 145 473 329  67 0 0 1 Object1        NaN    NaN NaN
+ 3 174 145 473 329  68 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  69 0 0 0 Object1        NaN    NaN NaN
+ 3 175 145 474 329  70 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  71 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  72 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  73 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  74 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  75 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  76 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  77 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  78 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  79 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  80 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  81 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  82 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  83 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  84 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  85 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  86 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  87 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  88 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  89 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  90 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  91 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  92 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  93 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  94 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  95 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  96 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  97 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  98 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329  99 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329 100 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329 101 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329 102 0 0 1 Object1        NaN    NaN NaN
+ 3 175 145 474 329 103 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 105 0 0 0 Object1        NaN    NaN NaN
+ 4 244 261 342 355 106 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 107 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 108 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 109 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 110 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 111 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 112 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 113 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 114 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 115 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 116 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 117 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 118 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 119 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 120 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 121 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 122 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 123 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 124 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 125 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 126 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 127 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 128 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 129 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 130 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 131 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 132 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 133 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 134 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 135 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 136 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 137 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 138 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 139 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 140 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 141 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 142 0 0 1 Object1        NaN    NaN NaN
+ 4 244 261 342 355 143 0 0 1 Object1        NaN    NaN NaN
+ 5 268  81 354 217 176 0 0 0 Person3 SingleGaze single NaN
+ 5 268  81 354 217 177 0 0 1 Person3 SingleGaze single NaN
+ 5 268  81 354 217 178 0 0 1 Person3 SingleGaze single NaN
+ 5 268  81 354 217 179 0 0 1 Person3 SingleGaze single NaN
+ 5 268  81 354 217 180 0 0 1 Person3 SingleGaze single NaN
+ 5 268  81 354 217 181 0 0 1 Person3 SingleGaze single NaN
+ 5 268  81 354 217 182 0 0 1 Person3 SingleGaze single NaN
+ 5 268  81 354 217 183 0 0 1 Person3 SingleGaze single NaN
+ 6  88  73 214 243 185 0 0 0 Person1   SingleGaze single NaN
+ 7 371   9 514 195 185 0 0 0 Person2   SingleGaze single NaN
+ 6  88  73 214 243 186 0 0 1 Person1   SingleGaze single NaN
+ 7 371   8 513 194 186 0 0 1 Person2   SingleGaze single NaN
+ 6  89  74 215 244 187 0 0 1 Person1   SingleGaze single NaN
+ 7 372   8 513 194 187 0 0 1 Person2   SingleGaze single NaN
+ 6  89  74 215 244 188 0 0 1 Person1   SingleGaze single NaN
+ 7 373   8 512 194 188 0 0 1 Person2   SingleGaze single NaN
+ 6  90  75 216 245 189 0 0 1 Person1   SingleGaze single NaN
+ 7 373   8 512 193 189 0 0 1 Person2   SingleGaze single NaN
+ 6  91  76 217 246 190 0 0 1 Person1   SingleGaze single NaN
+ 7 374   8 512 193 190 0 0 1 Person2   SingleGaze single NaN
+ 6  91  76 217 246 191 0 0 1 Person1   SingleGaze single NaN
+ 7 375   7 511 193 191 0 0 1 Person2   SingleGaze single NaN
+ 6  92  77 218 247 192 0 0 1 Person1   SingleGaze single NaN
+ 7 375   7 511 192 192 0 0 1 Person2   SingleGaze single NaN
+ 6  93  78 219 248 193 0 0 0 Person1   SingleGaze single NaN
+ 7 376   7 511 192 193 0 0 1 Person2   SingleGaze single NaN
+ 6  92  75 218 245 194 0 0 1 Person1   SingleGaze single NaN
+ 7 377   7 510 192 194 0 0 1 Person2   SingleGaze single NaN
+ 6  92  73 218 243 195 0 0 1 Person1   SingleGaze single NaN
+ 7 377   7 510 191 195 0 0 1 Person2   SingleGaze single NaN
+ 6  91  71 217 241 196 0 0 1 Person1   SingleGaze single NaN
+ 7 378   6 509 191 196 0 0 1 Person2   SingleGaze single NaN
+ 6  91  69 217 239 197 0 0 1 Person1   SingleGaze single NaN
+ 7 379   6 509 191 197 0 0 1 Person2   SingleGaze single NaN
+ 6  90  67 216 237 198 0 0 1 Person1   SingleGaze single NaN
+ 7 379   6 509 190 198 0 0 1 Person2   SingleGaze single NaN
+ 6  90  65 216 235 199 0 0 0 Person1   SingleGaze single NaN
+ 7 380   6 508 190 199 0 0 1 Person2   SingleGaze single NaN
+ 6  88  68 214 238 200 0 0 1 Person1   SingleGaze single NaN
+ 7 381   6 508 190 200 0 0 1 Person2   SingleGaze single NaN
+ 6  87  71 213 241 201 0 0 1 Person1   SingleGaze single NaN
+ 7 382   6 508 190 201 0 0 0 Person2   SingleGaze single NaN
+ 6  86  74 212 244 202 0 0 1 Person1   SingleGaze single NaN
+ 7 381   6 507 190 202 0 0 1 Person2   SingleGaze single NaN
+ 6  85  78 211 248 203 0 0 1 Person1   SingleGaze single NaN
+ 7 380   6 507 190 203 0 0 1 Person2   SingleGaze single NaN
+ 6  84  81 210 251 204 0 0 1 Person1   SingleGaze single NaN
+ 7 379   6 507 190 204 0 0 1 Person2   SingleGaze single NaN
+ 6  83  84 209 254 205 0 0 1 Person1   SingleGaze single NaN
+ 7 378   7 506 190 205 0 0 1 Person2   SingleGaze single NaN
+ 6  81  87 207 257 206 0 0 1 Person1   SingleGaze single NaN
+ 7 377   7 506 190 206 0 0 1 Person2   SingleGaze single NaN
+ 6  80  91 206 261 207 0 0 1 Person1   SingleGaze single NaN
+ 7 377   7 506 190 207 0 0 1 Person2   SingleGaze single NaN
+ 6  79  94 205 264 208 0 0 1 Person1   SingleGaze single NaN
+ 7 376   7 505 190 208 0 0 1 Person2   SingleGaze single NaN
+ 6  78  97 204 267 209 0 0 1 Person1   SingleGaze single NaN
+ 7 375   8 505 191 209 0 0 1 Person2   SingleGaze single NaN
+ 6  77 100 203 270 210 0 0 1 Person1   SingleGaze single NaN
+ 7 374   8 505 191 210 0 0 1 Person2   SingleGaze single NaN
+ 6  76 104 202 274 211 0 0 0 Person1 MutualGaze mutual  P2
+ 7 373   8 504 191 211 0 0 1 Person2 MutualGaze mutual  P1
+ 6  77  96 203 266 212 0 0 1 Person1 MutualGaze mutual  P2
+ 7 373   8 504 191 212 0 0 1 Person2 MutualGaze mutual  P1
+ 6  79  89 205 259 213 0 0 1 Person1 MutualGaze mutual  P2
+ 7 372   9 504 191 213 0 0 1 Person2 MutualGaze mutual  P1
+ 6  80  81 206 251 214 0 0 1 Person1 MutualGaze mutual  P2
+ 7 371   9 503 191 214 0 0 1 Person2 MutualGaze mutual  P1
+ 6  82  74 208 244 215 0 0 1 Person1 MutualGaze mutual  P2
+ 7 370   9 503 191 215 0 0 1 Person2 MutualGaze mutual  P1
+ 6  84  67 210 237 216 0 0 0 Person1 MutualGaze single  P2
+ 7 369   9 503 191 216 0 0 1 Person2 MutualGaze single NaN
+ 6  85  70 211 240 217 0 0 1 Person1 MutualGaze single  P2
+ 7 369  10 503 192 217 0 0 0 Person2 MutualGaze single NaN
+ 6  87  74 213 244 218 0 0 1 Person1 MutualGaze single  P2
+ 7 369  10 504 192 218 0 0 1 Person2 MutualGaze single NaN
+ 6  88  78 214 248 219 0 0 1 Person1 MutualGaze single  P2
+ 7 369  10 505 192 219 0 0 1 Person2 MutualGaze single NaN
+ 6  90  82 216 252 220 0 0 1 Person1 MutualGaze single  P2
+ 7 370  10 506 192 220 0 0 1 Person2 MutualGaze single NaN
+ 6  92  86 218 256 221 0 0 0 Person1 MutualGaze single  P2
+ 7 370  11 507 193 221 0 0 1 Person2 MutualGaze single NaN
+ 6  94  78 220 248 222 0 0 1 Person1 MutualGaze single  P2
+ 7 371  11 508 193 222 0 0 1 Person2 MutualGaze single NaN
+ 6  97  70 223 240 223 0 0 1 Person1 MutualGaze single  P2
+ 7 371  11 509 193 223 0 0 1 Person2 MutualGaze single NaN
+ 6 100  63 226 233 224 0 0 0 Person1 MutualGaze single  P2
+ 7 372  12 510 194 224 0 0 0 Person2 MutualGaze single NaN
+ 6 101  64 227 234 225 0 0 1 Person1 MutualGaze single  P2
+ 7 369  15 507 197 225 0 0 1 Person2 MutualGaze single NaN
+ 6 102  66 228 236 226 0 0 1 Person1 MutualGaze single  P2
+ 7 366  18 505 200 226 0 0 1 Person2 MutualGaze single NaN
+ 6 103  68 229 238 227 0 0 1 Person1 MutualGaze single  P2
+ 7 363  22 503 204 227 0 0 0 Person2 MutualGaze single NaN
+ 6 104  70 230 240 228 0 0 1 Person1 MutualGaze single  P2
+ 7 371  25 511 207 228 0 0 1 Person2 MutualGaze single NaN
+ 6 105  72 231 242 229 0 0 0 Person1 MutualGaze single  P2
+ 7 379  29 520 210 229 0 0 1 Person2 MutualGaze single NaN
+ 6 111  68 237 238 230 0 0 1 Person1 MutualGaze single  P2
+ 7 388  33 529 214 230 0 0 0 Person2 MutualGaze single NaN
+ 6 118  64 244 234 231 0 0 1 Person1 MutualGaze mutual  P2
+ 7 391  29 533 210 231 0 0 1 Person2 MutualGaze mutual  P1
+ 6 125  60 251 230 232 0 0 1 Person1 MutualGaze mutual  P2
+ 7 395  25 537 206 232 0 0 1 Person2 MutualGaze mutual  P1
+ 6 132  56 258 226 233 0 0 0 Person1 MutualGaze mutual  P2
+ 7 399  21 541 202 233 0 0 1 Person2 MutualGaze mutual  P1
+ 6 126  57 252 227 234 0 0 1 Person1 MutualGaze mutual  P2
+ 7 403  17 545 198 234 0 0 1 Person2 MutualGaze mutual  P1
+ 6 121  58 247 228 235 0 0 1 Person1 MutualGaze mutual  P2
+ 7 407  13 549 194 235 0 0 1 Person2 MutualGaze mutual  P1
+ 6 116  60 242 230 236 0 0 1 Person1 MutualGaze mutual  P2
+ 7 411   9 553 190 236 0 0 0 Person2 MutualGaze mutual  P1
+ 6 110  61 236 231 237 0 0 1 Person1 MutualGaze mutual  P2
+ 7 406  14 548 195 237 0 0 1 Person2 MutualGaze mutual  P1
+ 6 105  63 231 233 238 0 0 1 Person1 MutualGaze mutual  P2
+ 7 401  19 543 200 238 0 0 1 Person2 MutualGaze mutual  P1
+ 6 100  64 226 234 239 0 0 1 Person1 MutualGaze mutual  P2
+ 7 397  25 539 205 239 0 0 0 Person2 MutualGaze mutual  P1
+ 6  95  66 221 236 240 0 0 0 Person1 MutualGaze mutual  P2
+ 7 404  16 546 196 240 0 0 1 Person2 MutualGaze mutual  P1
+ 6  91  67 217 237 241 0 0 1 Person1 MutualGaze mutual  P2
+ 7 412   8 554 188 241 0 0 1 Person2 MutualGaze mutual  P1
+ 6  87  68 213 238 242 0 0 1 Person1 MutualGaze mutual  P2
+ 7 420   0 562 180 242 0 0 0 Person2 MutualGaze mutual  P1
+ 6  84  69 210 239 243 0 0 1 Person1 MutualGaze mutual  P2
+ 7 422   1 564 181 243 0 0 1 Person2 MutualGaze mutual  P1
+ 6  80  70 206 240 244 0 0 1 Person1 MutualGaze mutual  P2
+ 7 425   2 567 182 244 0 0 1 Person2 MutualGaze mutual  P1
+ 6  77  71 203 241 245 0 0 0 Person1 MutualGaze mutual  P2
+ 7 428   4 570 184 245 0 0 1 Person2 MutualGaze mutual  P1
+ 6  74  73 200 243 246 0 0 1 Person1 MutualGaze mutual  P2
+ 7 431   5 573 185 246 0 0 1 Person2 MutualGaze mutual  P1
+ 6  71  75 197 245 247 0 0 1 Person1 MutualGaze mutual  P2
+ 7 434   6 576 186 247 0 0 1 Person2 MutualGaze mutual  P1
+ 6  69  78 195 248 248 0 0 0 Person1 MutualGaze mutual  P2
+ 7 437   8 579 188 248 0 0 0 Person2 MutualGaze mutual  P1
+ 6  69  80 195 250 249 0 0 1 Person1 MutualGaze mutual  P2
+ 7 434   7 576 187 249 0 0 1 Person2 MutualGaze mutual  P1
+ 6  69  82 195 252 250 0 0 1 Person1 MutualGaze mutual  P2
+ 7 432   7 574 186 250 0 0 1 Person2 MutualGaze mutual  P1
+ 6  69  84 195 254 251 0 0 1 Person1 MutualGaze mutual  P2
+ 7 430   6 572 185 251 0 0 1 Person2 MutualGaze mutual  P1
+ 6  69  86 195 256 252 0 0 1 Person1 MutualGaze mutual  P2
+ 7 428   6 569 185 252 0 0 1 Person2 MutualGaze mutual  P1
+ 6  70  89 196 259 253 0 0 0 Person1 MutualGaze mutual  P2
+ 7 426   5 567 184 253 0 0 1 Person2 MutualGaze mutual  P1
+ 6  75  86 201 256 254 0 0 1 Person1 MutualGaze mutual  P2
+ 7 424   5 565 183 254 0 0 1 Person2 MutualGaze mutual  P1
+ 6  81  84 207 254 255 0 0 1 Person1 MutualGaze mutual  P2
+ 7 422   5 563 183 255 0 0 0 Person2 MutualGaze mutual  P1
+ 6  87  81 213 251 256 0 0 1 Person1 MutualGaze mutual  P2
+ 7 415   8 556 186 256 0 0 1 Person2 MutualGaze mutual  P1
+ 6  93  79 219 249 257 0 0 1 Person1 MutualGaze mutual  P2
+ 7 408  11 549 189 257 0 0 1 Person2 MutualGaze mutual  P1
+ 6  99  76 225 246 258 0 0 1 Person1 MutualGaze mutual  P2
+ 7 401  14 542 192 258 0 0 1 Person2 MutualGaze mutual  P1
+ 6 105  74 231 244 259 0 0 1 Person1 MutualGaze mutual  P2
+ 7 394  17 535 195 259 0 0 1 Person2 MutualGaze mutual  P1
+ 6 111  72 237 242 260 0 0 0 Person1 MutualGaze mutual  P2
+ 7 387  20 528 198 260 0 0 1 Person2 MutualGaze mutual  P1
+ 6 109  68 235 238 261 0 0 1 Person1 MutualGaze mutual  P2
+ 7 380  23 521 201 261 0 0 1 Person2 MutualGaze mutual  P1
+ 6 108  65 234 235 262 0 0 1 Person1 MutualGaze mutual  P2
+ 7 374  27 514 204 262 0 0 0 Person2 MutualGaze mutual  P1
+ 6 106  61 232 231 263 0 0 1 Person1 MutualGaze mutual  P2
+ 7 379  25 519 201 263 0 0 1 Person2 MutualGaze mutual  P1
+ 6 105  58 231 228 264 0 0 1 Person1 MutualGaze mutual  P2
+ 7 384  23 524 199 264 0 0 1 Person2 MutualGaze mutual  P1
+ 6 104  55 230 225 265 0 0 0 Person1 MutualGaze mutual  P2
+ 7 390  21 530 197 265 0 0 1 Person2 MutualGaze mutual  P1
+ 6 103  55 229 225 266 0 0 1 Person1 MutualGaze mutual  P2
+ 7 395  19 535 195 266 0 0 1 Person2 MutualGaze mutual  P1
+ 6 103  56 229 226 267 0 0 1 Person1 MutualGaze mutual  P2
+ 7 401  17 541 193 267 0 0 1 Person2 MutualGaze mutual  P1
+ 6 103  57 229 227 268 0 0 1 Person1 MutualGaze mutual  P2
+ 7 406  15 546 191 268 0 0 1 Person2 MutualGaze mutual  P1
+ 6 103  57 229 227 269 0 0 1 Person1 MutualGaze mutual  P2
+ 7 412  13 552 189 269 0 0 0 Person2 MutualGaze mutual  P1
+ 6 103  58 229 228 270 0 0 1 Person1 MutualGaze mutual  P2
+ 7 409  11 549 187 270 0 0 1 Person2 MutualGaze mutual  P1
+ 6 102  59 228 229 271 0 0 1 Person1 MutualGaze mutual  P2
+ 7 406   9 546 185 271 0 0 1 Person2 MutualGaze mutual  P1
+ 6 102  59 228 229 272 0 0 1 Person1 MutualGaze mutual  P2
+ 7 403   8 543 184 272 0 0 1 Person2 MutualGaze mutual  P1
+ 6 102  60 228 230 273 0 0 1 Person1 MutualGaze mutual  P2
+ 7 400   6 540 182 273 0 0 1 Person2 MutualGaze mutual  P1
+ 6 102  61 228 231 274 0 0 1 Person1 MutualGaze mutual  P2
+ 7 397   4 537 180 274 0 0 1 Person2 MutualGaze mutual  P1
+ 6 102  62 228 232 275 0 0 0 Person1 MutualGaze mutual  P2
+ 7 394   3 534 179 275 0 0 0 Person2 MutualGaze mutual  P1
+ 6 103  63 229 233 276 0 0 1 Person1 MutualGaze mutual  P2
+ 7 391   5 531 181 276 0 0 1 Person2 MutualGaze mutual  P1
+ 6 104  64 230 234 277 0 0 1 Person1 MutualGaze mutual  P2
+ 7 388   7 528 183 277 0 0 1 Person2 MutualGaze mutual  P1
+ 6 105  66 231 236 278 0 0 1 Person1 MutualGaze mutual  P2
+ 7 385  10 525 185 278 0 0 1 Person2 MutualGaze mutual  P1
+ 6 107  67 233 237 279 0 0 1 Person1 MutualGaze mutual  P2
+ 7 382  12 522 187 279 0 0 1 Person2 MutualGaze mutual  P1
+ 6 108  68 234 238 280 0 0 1 Person1 MutualGaze mutual  P2
+ 7 380  15 520 190 280 0 0 0 Person2 MutualGaze mutual  P1
+ 6 109  70 235 240 281 0 0 1 Person1 MutualGaze mutual  P2
+ 7 378  20 518 195 281 0 0 1 Person2 MutualGaze mutual  P1
+ 6 110  71 236 241 282 0 0 1 Person1 MutualGaze mutual  P2
+ 7 376  25 516 200 282 0 0 1 Person2 MutualGaze mutual  P1
+ 6 112  72 238 242 283 0 0 1 Person1 MutualGaze mutual  P2
+ 7 375  30 514 205 283 0 0 1 Person2 MutualGaze mutual  P1
+ 6 113  74 239 244 284 0 0 1 Person1 MutualGaze mutual  P2
+ 7 373  35 512 210 284 0 0 1 Person2 MutualGaze mutual  P1
+ 6 114  75 240 245 285 0 0 1 Person1 MutualGaze mutual  P2
+ 7 371  40 510 215 285 0 0 1 Person2 MutualGaze mutual  P1
+ 6 115  76 241 246 286 0 0 1 Person1 MutualGaze mutual  P2
+ 7 370  46 509 220 286 0 0 0 Person2 MutualGaze mutual  P1
+ 6 117  78 243 248 287 0 0 0 Person1 MutualGaze mutual  P2
+ 7 376  42 515 216 287 0 0 1 Person2 MutualGaze mutual  P1
+ 6 118  75 244 245 288 0 0 1 Person1 MutualGaze mutual  P2
+ 7 383  38 522 212 288 0 0 1 Person2 MutualGaze mutual  P1
+ 6 119  72 245 242 289 0 0 1 Person1 MutualGaze mutual  P2
+ 7 389  34 528 208 289 0 0 1 Person2 MutualGaze mutual  P1
+ 6 121  69 247 239 290 0 0 1 Person1 MutualGaze mutual  P2
+ 7 396  30 535 204 290 0 0 1 Person2 MutualGaze mutual  P1
+ 6 122  66 248 236 291 0 0 1 Person1 MutualGaze mutual  P2
+ 7 403  26 542 200 291 0 0 0 Person2 MutualGaze mutual  P1
+ 6 124  64 250 234 292 0 0 0 Person1 MutualGaze mutual  P2
+ 7 402  23 541 197 292 0 0 1 Person2 MutualGaze mutual  P1
+ 6 121  64 247 234 293 0 0 1 Person1 MutualGaze mutual  P2
+ 7 401  20 540 194 293 0 0 1 Person2 MutualGaze mutual  P1
+ 6 119  64 245 234 294 0 0 1 Person1 MutualGaze mutual  P2
+ 7 400  18 539 191 294 0 0 1 Person2 MutualGaze mutual  P1
+ 6 116  65 242 234 295 0 0 1 Person1 MutualGaze mutual  P2
+ 7 399  15 538 188 295 0 0 1 Person2 MutualGaze mutual  P1
+ 6 114  65 240 235 296 0 0 1 Person1 MutualGaze mutual  P2
+ 7 398  13 537 185 296 0 0 1 Person2 MutualGaze mutual  P1
+ 6 111  66 237 235 297 0 0 1 Person1 MutualGaze mutual  P2
+ 7 397  10 536 182 297 0 0 1 Person2 MutualGaze mutual  P1
+ 6 109  66 235 235 298 0 0 1 Person1 MutualGaze mutual  P2
+ 7 397   8 536 180 298 0 0 0 Person2 MutualGaze mutual  P1
+ 6 107  67 232 236 299 0 0 1 Person1 MutualGaze mutual  P2
+ 7 395   9 534 180 299 0 0 1 Person2 MutualGaze mutual  P1
+ 6 104  67 230 236 300 0 0 1 Person1 MutualGaze mutual  P2
+ 7 394  10 532 181 300 0 0 1 Person2 MutualGaze mutual  P1
+ 6 102  67 227 236 301 0 0 1 Person1 MutualGaze mutual  P2
+ 7 392  11 531 182 301 0 0 1 Person2 MutualGaze mutual  P1
+ 6  99  68 225 236 302 0 0 1 Person1 MutualGaze mutual  P2
+ 7 391  12 529 183 302 0 0 1 Person2 MutualGaze mutual  P1
+ 6  97  68 222 237 303 0 0 1 Person1        NaN single  P2
+ 7 389  13 527 184 303 0 0 1 Person2        NaN single NaN
+ 6  94  69 220 237 304 0 0 1 Person1   SingleGaze single  P2
+ 7 388  14 526 185 304 0 0 1 Person2   SingleGaze single NaN
+ 6  92  69 217 237 305 0 0 1 Person1   SingleGaze single  P2
+ 7 386  15 524 186 305 0 0 1 Person2   SingleGaze single NaN
+ 6  90  70 215 238 306 0 0 0 Person1   SingleGaze single  P2
+ 7 385  16 523 187 306 0 0 0 Person2   SingleGaze single NaN
+ 6  91  70 215 237 307 0 0 1 Person1   SingleGaze single  P2
+ 7 383  13 521 184 307 0 0 1 Person2   SingleGaze single NaN
+ 6  92  70 216 236 308 0 0 1 Person1   SingleGaze single  P2
+ 7 381  10 519 181 308 0 0 1 Person2   SingleGaze single NaN
+ 6  94  70 216 235 309 0 0 1 Person1   SingleGaze single NaN
+ 7 379   7 517 178 309 0 0 0 Person2   SingleGaze single NaN
+ 6  95  70 217 234 310 0 0 1 Person1   SingleGaze single NaN
+ 7 377   7 515 178 310 0 0 1 Person2   SingleGaze single NaN
+ 6  97  70 218 233 311 0 0 1 Person1   SingleGaze single NaN
+ 7 375   7 513 178 311 0 0 1 Person2   SingleGaze single NaN
+ 6  98  70 218 232 312 0 0 1 Person1   SingleGaze single NaN
+ 7 373   7 511 178 312 0 0 1 Person2   SingleGaze single NaN
+ 6 100  71 219 231 313 0 0 1 Person1   SingleGaze single NaN
+ 7 372   7 510 178 313 0 0 1 Person2   SingleGaze single NaN
+ 6 101  71 219 230 314 0 0 1 Person1   SingleGaze single NaN
+ 7 370   7 508 178 314 0 0 1 Person2   SingleGaze single NaN
+ 6 103  71 220 229 315 0 0 1 Person1   SingleGaze single NaN
+ 7 368   7 506 178 315 0 0 1 Person2   SingleGaze single NaN
+ 6 104  71 221 228 316 0 0 1 Person1   SingleGaze single NaN
+ 7 367   8 505 178 316 0 0 0 Person2   SingleGaze single NaN
+ 6 106  71 221 227 317 0 0 1 Person1   SingleGaze single NaN
+ 7 362   5 500 175 317 0 0 1 Person2   SingleGaze single NaN
+ 6 107  71 222 226 318 0 0 1 Person1   SingleGaze single NaN
+ 7 357   2 495 172 318 0 0 1 Person2   SingleGaze single NaN
+ 8 266  99 356 221 320 0 0 0 Person3 SingleGaze single NaN
+ 8 266  99 356 221 321 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 322 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 323 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 324 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 325 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 326 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 327 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 328 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 329 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 330 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 331 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 332 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 333 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 334 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 335 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 336 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 337 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 338 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 339 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 340 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 341 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 342 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 343 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 344 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 345 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 346 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 347 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 348 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 349 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 350 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 351 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 352 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 353 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 354 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 355 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 356 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 357 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 358 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 359 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 360 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 361 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 362 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 363 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 364 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 365 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 366 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 367 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 368 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 369 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 370 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 371 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 372 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 373 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 374 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 375 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 376 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 377 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 378 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 379 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 380 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 381 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 382 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 383 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 384 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 385 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 386 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 387 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 388 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 389 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 390 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 391 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 392 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 393 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 394 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 395 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 396 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 397 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 398 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 399 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 400 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 401 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 402 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 403 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 404 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 405 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 406 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 407 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 408 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 409 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 410 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 411 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 412 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 413 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 414 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 415 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 416 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 417 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 418 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 419 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 420 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 421 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 422 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 423 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 424 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 425 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 426 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 427 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 428 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 429 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 430 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 431 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 432 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 433 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 434 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 435 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 436 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 437 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 438 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 439 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 440 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 441 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 442 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 443 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 444 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 445 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 446 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 447 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 448 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 449 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 450 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 451 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 452 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 453 0 0 1 Person3 SingleGaze single NaN
+ 8 266  99 356 221 454 0 0 1 Person3 SingleGaze single NaN
+ 9 124  85 237 227 456 0 0 0 Person1   SingleGaze single NaN
+10 362   2 499 173 456 0 0 0 Person2   SingleGaze single NaN
+ 9 125  84 238 226 457 0 0 1 Person1   SingleGaze single NaN
+10 360   2 497 173 457 0 0 1 Person2   SingleGaze single NaN
+ 9 126  83 239 225 458 0 0 1 Person1   SingleGaze single NaN
+10 358   2 495 173 458 0 0 1 Person2   SingleGaze single NaN
+ 9 127  82 240 224 459 0 0 1 Person1   SingleGaze single NaN
+10 357   2 494 173 459 0 0 1 Person2   SingleGaze single NaN
+ 9 128  82 241 224 460 0 0 1 Person1   SingleGaze single NaN
+10 355   3 492 174 460 0 0 1 Person2   SingleGaze single NaN
+ 9 129  81 242 223 461 0 0 1 Person1   SingleGaze single NaN
+10 354   3 491 174 461 0 0 1 Person2   SingleGaze single NaN
+ 9 130  80 243 222 462 0 0 1 Person1   SingleGaze single NaN
+10 352   3 489 174 462 0 0 1 Person2   SingleGaze single NaN
+ 9 132  80 245 222 463 0 0 0 Person1   SingleGaze single  P2
+10 351   4 488 175 463 0 0 1 Person2   SingleGaze single NaN
+ 9 131  79 244 221 464 0 0 1 Person1   SingleGaze single  P2
+10 349   4 486 175 464 0 0 1 Person2   SingleGaze single NaN
+ 9 130  79 243 221 465 0 0 1 Person1   SingleGaze single  P2
+10 348   4 485 175 465 0 0 1 Person2   SingleGaze single NaN
+ 9 130  79 243 221 466 0 0 1 Person1   SingleGaze single  P2
+10 346   4 483 175 466 0 0 1 Person2   SingleGaze single NaN
+ 9 129  78 242 220 467 0 0 1 Person1   SingleGaze single  P2
+10 345   5 482 176 467 0 0 1 Person2   SingleGaze single NaN
+ 9 128  78 241 220 468 0 0 1 Person1   SingleGaze single  P2
+10 343   5 480 176 468 0 0 1 Person2   SingleGaze single NaN
+ 9 128  78 241 220 469 0 0 1 Person1   MutualGaze mutual  P2
+10 342   5 479 176 469 0 0 1 Person2   MutualGaze mutual  P1
+ 9 127  77 240 219 470 0 0 1 Person1   MutualGaze mutual  P2
+10 340   6 477 177 470 0 0 1 Person2   MutualGaze mutual  P1
+ 9 127  77 240 219 471 0 0 1 Person1   MutualGaze mutual  P2
+10 339   6 476 177 471 0 0 1 Person2   MutualGaze mutual  P1
+ 9 126  77 239 219 472 0 0 1 Person1   MutualGaze mutual  P2
+10 337   6 474 177 472 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  76 238 218 473 0 0 1 Person1   MutualGaze mutual  P2
+10 336   6 473 177 473 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  76 238 218 474 0 0 1 Person1   MutualGaze mutual  P2
+10 334   7 471 178 474 0 0 1 Person2   MutualGaze mutual  P1
+ 9 124  76 237 218 475 0 0 1 Person1   MutualGaze mutual  P2
+10 333   7 470 178 475 0 0 1 Person2   MutualGaze mutual  P1
+ 9 124  76 237 218 476 0 0 0 Person1   MutualGaze mutual  P2
+10 331   7 468 178 476 0 0 1 Person2   MutualGaze mutual  P1
+ 9 124  76 237 218 477 0 0 1 Person1   MutualGaze mutual  P2
+10 330   8 467 179 477 0 0 0 Person2   MutualGaze mutual  P1
+ 9 124  76 237 218 478 0 0 1 Person1   MutualGaze mutual  P2
+10 329   7 466 178 478 0 0 1 Person2   MutualGaze mutual  P1
+ 9 124  76 237 218 479 0 0 1 Person1   MutualGaze mutual  P2
+10 328   7 465 178 479 0 0 1 Person2   MutualGaze mutual  P1
+ 9 124  77 237 219 480 0 0 1 Person1   MutualGaze mutual  P2
+10 327   6 464 177 480 0 0 1 Person2   MutualGaze mutual  P1
+ 9 124  77 237 219 481 0 0 1 Person1   MutualGaze mutual  P2
+10 327   6 464 177 481 0 0 0 Person2   MutualGaze mutual  P1
+ 9 124  77 237 219 482 0 0 1 Person1   MutualGaze mutual  P2
+10 325   6 462 177 482 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  78 238 220 483 0 0 1 Person1   MutualGaze mutual  P2
+10 324   6 461 177 483 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  78 238 220 484 0 0 1 Person1   MutualGaze mutual  P2
+10 323   6 460 177 484 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  78 238 220 485 0 0 1 Person1   MutualGaze mutual  P2
+10 322   7 459 178 485 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  78 238 220 486 0 0 1 Person1   MutualGaze mutual  P2
+10 321   7 458 178 486 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  79 238 221 487 0 0 1 Person1   MutualGaze mutual  P2
+10 320   7 457 178 487 0 0 1 Person2   MutualGaze mutual  P1
+ 9 125  79 238 221 488 0 0 1 Person1   SingleGaze single  P2
+10 319   8 456 179 488 0 0 0 Person2   SingleGaze single NaN
+ 9 126  79 239 221 489 0 0 1 Person1   SingleGaze single  P2
+10 321   7 458 178 489 0 0 1 Person2   SingleGaze single NaN
+ 9 126  80 239 222 490 0 0 1 Person1   SingleGaze single  P2
+10 323   7 460 178 490 0 0 1 Person2   SingleGaze single NaN
+ 9 126  80 239 222 491 0 0 1 Person1   SingleGaze single  P2
+10 325   7 462 177 491 0 0 1 Person2   SingleGaze single NaN
+ 9 126  80 239 222 492 0 0 1 Person1   SingleGaze single  P2
+10 327   6 464 177 492 0 0 1 Person2   SingleGaze single NaN
+ 9 126  81 239 223 493 0 0 1 Person1   SingleGaze single  P2
+10 329   6 466 177 493 0 0 1 Person2   SingleGaze single NaN
+ 9 126  81 239 223 494 0 0 1 Person1   SingleGaze single  P2
+10 331   6 468 176 494 0 0 1 Person2   SingleGaze single NaN
+ 9 127  81 240 223 495 0 0 1 Person1   SingleGaze single  P2
+10 333   5 470 176 495 0 0 1 Person2   SingleGaze single NaN
+ 9 127  81 240 223 496 0 0 1 Person1   SingleGaze single  P2
+10 335   5 472 176 496 0 0 1 Person2   SingleGaze single NaN
+ 9 127  82 240 224 497 0 0 1 Person1   SingleGaze single  P2
+10 338   5 475 175 497 0 0 1 Person2   SingleGaze single NaN
+ 9 127  82 240 224 498 0 0 1 Person1   SingleGaze single  P2
+10 340   4 477 175 498 0 0 1 Person2   SingleGaze single NaN
+ 9 127  82 240 224 499 0 0 1 Person1   SingleGaze single NaN
+10 342   4 479 175 499 0 0 1 Person2   SingleGaze single NaN
+ 9 127  83 240 225 500 0 0 1 Person1   SingleGaze single NaN
+10 344   4 481 174 500 0 0 1 Person2   SingleGaze single NaN
+ 9 128  83 241 225 501 0 0 1 Person1   SingleGaze single NaN
+10 346   3 483 174 501 0 0 1 Person2   SingleGaze single NaN
+ 9 128  83 241 225 502 0 0 1 Person1   SingleGaze single NaN
+10 348   3 485 173 502 0 0 1 Person2   SingleGaze single NaN
+ 9 128  84 241 226 503 0 0 1 Person1   SingleGaze single NaN
+10 350   3 487 173 503 0 0 1 Person2   SingleGaze single NaN
+ 9 128  84 241 226 504 0 0 1 Person1   SingleGaze single NaN
+10 352   2 489 173 504 0 0 1 Person2   SingleGaze single NaN
+ 9 128  84 241 226 505 0 0 1 Person1   SingleGaze single NaN
+10 355   2 492 172 505 0 0 1 Person2   SingleGaze single NaN
+ 9 128  84 241 226 506 0 0 1 Person1   SingleGaze single NaN
+10 357   2 494 172 506 0 0 1 Person2   SingleGaze single NaN
+ 9 129  85 242 227 507 0 0 1 Person1   SingleGaze single NaN
+10 359   1 496 172 507 0 0 1 Person2   SingleGaze single NaN
+ 9 129  85 242 227 508 0 0 1 Person1   SingleGaze single NaN
+10 361   1 498 171 508 0 0 1 Person2   SingleGaze single NaN
+ 9 129  85 242 227 509 0 0 1 Person1   SingleGaze single NaN
+10 363   1 500 171 509 0 0 1 Person2   SingleGaze single NaN
+ 9 129  86 242 228 510 0 0 1 Person1   SingleGaze single NaN
+10 365   0 502 171 510 0 0 1 Person2   SingleGaze single NaN
+ 9 129  86 242 228 511 0 0 1 Person1   SingleGaze single NaN
+10 367   0 504 170 511 0 0 1 Person2   SingleGaze single NaN
+ 9 129  86 242 228 512 0 0 1 Person1   SingleGaze single NaN
+10 369   0 506 170 512 0 0 1 Person2   SingleGaze single NaN
+ 9 130  87 243 229 513 0 0 0 Person1   SingleGaze single NaN
+10 372   0 509 170 513 0 0 0 Person2   SingleGaze single NaN
+ 9 130  87 243 229 514 0 0 1 Person1   SingleGaze single NaN
+10 373   0 510 169 514 0 0 1 Person2   SingleGaze single NaN
+ 9 130  87 243 229 515 0 0 1 Person1   SingleGaze single NaN
+10 375   0 512 169 515 0 0 1 Person2   SingleGaze single NaN
+ 9 130  87 243 229 516 0 0 1 Person1   SingleGaze single NaN
+10 377   0 514 169 516 0 0 1 Person2   SingleGaze single NaN
+ 9 130  87 243 229 517 0 0 1 Person1   SingleGaze single NaN
+10 378   0 515 169 517 0 0 1 Person2   SingleGaze single NaN
+ 9 130  87 243 229 518 0 0 1 Person1   SingleGaze single NaN
+10 380   0 517 169 518 0 0 1 Person2   SingleGaze single NaN
+ 9 130  87 243 229 519 0 0 1 Person1   SingleGaze single NaN
+10 382   0 519 169 519 0 0 1 Person2   SingleGaze single NaN
+ 9 131  87 244 229 520 0 0 1 Person1   SingleGaze single NaN
+10 383   0 520 169 520 0 0 1 Person2   SingleGaze single NaN
+ 9 131  87 244 229 521 0 0 1 Person1   SingleGaze single NaN
+10 385   0 522 169 521 0 0 1 Person2   SingleGaze single NaN
+ 9 131  87 244 229 522 0 0 1 Person1   SingleGaze single NaN
+10 387   0 524 168 522 0 0 1 Person2   SingleGaze single NaN
+ 9 131  87 244 229 523 0 0 1 Person1   SingleGaze single NaN
+10 388   0 525 168 523 0 0 1 Person2   SingleGaze single NaN
+ 9 131  87 244 229 524 0 0 1 Person1   SingleGaze single NaN
+10 390   0 527 168 524 0 0 1 Person2   SingleGaze single NaN
+ 9 131  87 244 229 525 0 0 1 Person1   SingleGaze single NaN
+10 392   0 529 168 525 0 0 1 Person2   SingleGaze single NaN
+ 9 131  87 244 229 526 0 0 1 Person1   SingleGaze single NaN
+10 393   0 530 168 526 0 0 1 Person2   SingleGaze single NaN
+ 9 132  87 245 229 527 0 0 1 Person1   SingleGaze single NaN
+10 395   0 532 168 527 0 0 1 Person2   SingleGaze single NaN
+ 9 132  87 245 229 528 0 0 1 Person1   SingleGaze single NaN
+10 397   0 534 168 528 0 0 1 Person2   SingleGaze single NaN
+ 9 132  87 245 229 529 0 0 1 Person1   SingleGaze single NaN
+10 399   0 536 168 529 0 0 0 Person2   SingleGaze single NaN
+ 9 132  87 245 229 530 0 0 1 Person1   SingleGaze single NaN
+10 399   0 536 167 530 0 0 1 Person2   SingleGaze single NaN
+ 9 132  87 245 229 531 0 0 1 Person1   SingleGaze single NaN
+10 400   0 537 167 531 0 0 1 Person2   SingleGaze single NaN
+ 9 132  87 245 229 532 0 0 1 Person1   SingleGaze single NaN
+10 401   0 538 167 532 0 0 1 Person2   SingleGaze single NaN
+ 9 133  88 246 230 533 0 0 1 Person1   SingleGaze single NaN
+10 401   0 538 167 533 0 0 1 Person2   SingleGaze single NaN
+ 9 133  88 246 230 534 0 0 1 Person1   SingleGaze single NaN
+10 402   0 539 167 534 0 0 1 Person2   SingleGaze single NaN
+ 9 133  88 246 230 535 0 0 1 Person1   SingleGaze single NaN
+10 403   0 540 167 535 0 0 1 Person2   SingleGaze single NaN
+ 9 133  88 246 230 536 0 0 1 Person1   SingleGaze single NaN
+10 403   0 540 167 536 0 0 1 Person2   SingleGaze single NaN
+ 9 133  88 246 230 537 0 0 1 Person1   SingleGaze single NaN
+10 404   0 541 167 537 0 0 1 Person2   SingleGaze single NaN
+ 9 133  88 246 230 538 0 0 1 Person1   SingleGaze single NaN
+10 405   0 542 167 538 0 0 1 Person2   SingleGaze single NaN
+ 9 133  88 246 230 539 0 0 1 Person1   SingleGaze single NaN
+10 405   0 542 167 539 0 0 1 Person2   SingleGaze single NaN
+ 9 134  88 247 230 540 0 0 1 Person1   SingleGaze single NaN
+10 406   0 543 167 540 0 0 1 Person2   SingleGaze single NaN
+ 9 134  88 247 230 541 0 0 1 Person1   SingleGaze single NaN
+10 407   0 544 167 541 0 0 1 Person2   SingleGaze single NaN
+ 9 134  88 247 230 542 0 0 1 Person1   SingleGaze single NaN
+10 407   0 544 167 542 0 0 1 Person2   SingleGaze single NaN
+ 9 134  88 247 230 543 0 0 1 Person1   SingleGaze single NaN
+10 408   0 545 167 543 0 0 1 Person2   SingleGaze single NaN
+ 9 134  88 247 230 544 0 0 1 Person1   SingleGaze single NaN
+10 409   0 546 167 544 0 0 0 Person2   SingleGaze single NaN
+ 9 134  88 247 230 545 0 0 1 Person1   SingleGaze single NaN
+10 407   0 544 167 545 0 0 1 Person2   SingleGaze single NaN
+ 9 134  88 247 230 546 0 0 1 Person1   SingleGaze single NaN
+10 406   0 543 167 546 0 0 1 Person2   SingleGaze single NaN
+ 9 135  88 248 230 547 0 0 1 Person1   SingleGaze single NaN
+10 404   0 541 167 547 0 0 1 Person2   SingleGaze single NaN
+ 9 135  88 248 230 548 0 0 1 Person1   SingleGaze single NaN
+10 403   0 540 167 548 0 0 1 Person2   SingleGaze single NaN
+ 9 135  88 248 230 549 0 0 1 Person1   SingleGaze single NaN
+10 401   0 538 167 549 0 0 1 Person2   SingleGaze single NaN
+ 9 135  88 248 230 550 0 0 1 Person1   SingleGaze single NaN
+10 400   0 537 167 550 0 0 1 Person2   SingleGaze single NaN
+ 9 135  88 248 230 551 0 0 1 Person1   SingleGaze single NaN
+10 398   0 535 167 551 0 0 1 Person2   SingleGaze single NaN
+ 9 135  88 248 230 552 0 0 1 Person1   SingleGaze single NaN
+10 397   0 534 167 552 0 0 1 Person2   SingleGaze single NaN
+11 265 100 353 220 554 0 0 0 Person3 SingleGaze single NaN
+11 265 100 353 220 555 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 556 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 557 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 558 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 559 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 560 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 561 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 562 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 563 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 564 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 565 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 566 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 567 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 568 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 569 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 570 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 571 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 572 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 573 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 574 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 575 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 576 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 577 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 578 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 579 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 580 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 581 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 582 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 583 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 584 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 585 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 586 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 587 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 588 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 589 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 590 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 591 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 592 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 593 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 594 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 595 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 596 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 597 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 598 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 599 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 600 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 601 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 602 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 603 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 604 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 605 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 606 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 607 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 608 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 609 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 610 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 611 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 612 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 613 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 614 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 615 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 616 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 617 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 618 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 619 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 620 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 621 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 622 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 623 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 624 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 625 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 626 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 627 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 628 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 629 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 630 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 631 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 632 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 633 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 634 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 635 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 636 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 637 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 638 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 639 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 640 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 641 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 642 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 643 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 644 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 645 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 646 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 647 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 648 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 649 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 650 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 651 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 652 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 653 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 654 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 655 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 656 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 657 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 658 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 659 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 660 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 661 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 662 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 663 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 664 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 665 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 666 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 667 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 668 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 669 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 670 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 671 0 0 1 Person3 SingleGaze single NaN
+11 265 100 353 220 672 0 0 1 Person3 SingleGaze single NaN
+12 325  53 402 158 674 0 0 0 Person1   SingleGaze  share  P3
+13 463   3 562 115 674 0 0 0 Person2   SingleGaze  share  P3
+14 168  51 250 167 674 0 0 0 Person3 SingleGaze single NaN
+12 324  53 401 158 675 0 0 1 Person1   SingleGaze  share  P3
+13 463   3 562 115 675 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 675 0 0 1 Person3 SingleGaze single NaN
+12 324  53 401 158 676 0 0 1 Person1   SingleGaze  share  P3
+13 463   3 562 115 676 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 676 0 0 1 Person3 SingleGaze single NaN
+12 324  53 401 158 677 0 0 1 Person1   SingleGaze  share  P3
+13 464   3 563 115 677 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 677 0 0 1 Person3 SingleGaze single NaN
+12 324  53 401 158 678 0 0 1 Person1   SingleGaze  share  P3
+13 464   3 563 115 678 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 678 0 0 1 Person3 SingleGaze single NaN
+12 324  53 401 158 679 0 0 1 Person1   SingleGaze  share  P3
+13 464   3 563 115 679 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 679 0 0 1 Person3 SingleGaze single NaN
+12 324  53 401 158 680 0 0 1 Person1   SingleGaze  share  P3
+13 465   3 564 115 680 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 680 0 0 1 Person3 SingleGaze single NaN
+12 324  53 401 158 681 0 0 1 Person1   SingleGaze  share  P3
+13 465   3 564 115 681 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 681 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 682 0 0 1 Person1   SingleGaze  share  P3
+13 465   3 564 115 682 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 682 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 683 0 0 1 Person1   SingleGaze  share  P3
+13 466   3 565 115 683 0 0 1 Person2   SingleGaze  share  P3
+14 168  51 250 167 683 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 684 0 0 1 Person1   SingleGaze single  P2
+13 466   3 565 115 684 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 684 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 685 0 0 1 Person1   SingleGaze single  P2
+13 467   3 566 115 685 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 685 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 686 0 0 1 Person1   SingleGaze single  P2
+13 467   3 566 115 686 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 686 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 687 0 0 1 Person1   SingleGaze single  P2
+13 467   3 566 115 687 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 687 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 688 0 0 1 Person1   SingleGaze single  P2
+13 468   3 567 115 688 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 688 0 0 1 Person3 SingleGaze single NaN
+12 323  53 400 158 689 0 0 1 Person1   SingleGaze single  P2
+13 468   4 567 116 689 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 689 0 0 1 Person3 SingleGaze single NaN
+12 322  53 399 158 690 0 0 1 Person1   SingleGaze single  P2
+13 468   4 567 116 690 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 690 0 0 1 Person3 SingleGaze single NaN
+12 322  53 399 158 691 0 0 1 Person1   SingleGaze single  P2
+13 469   4 568 116 691 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 691 0 0 1 Person3 SingleGaze single NaN
+12 322  53 399 158 692 0 0 1 Person1   SingleGaze single  P2
+13 469   4 568 116 692 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 692 0 0 1 Person3 SingleGaze single NaN
+12 322  53 399 158 693 0 0 1 Person1   SingleGaze single  P2
+13 469   4 568 116 693 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 693 0 0 1 Person3 SingleGaze single NaN
+12 322  53 399 158 694 0 0 1 Person1   SingleGaze single  P2
+13 470   4 569 116 694 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 694 0 0 1 Person3 SingleGaze single NaN
+12 322  53 399 158 695 0 0 1 Person1   SingleGaze single  P2
+13 470   4 569 116 695 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 695 0 0 1 Person3 SingleGaze single NaN
+12 322  53 399 158 696 0 0 1 Person1   SingleGaze single  P2
+13 471   4 570 116 696 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 696 0 0 1 Person3 SingleGaze single NaN
+12 321  53 398 158 697 0 0 1 Person1   SingleGaze single  P2
+13 471   4 570 116 697 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 697 0 0 1 Person3 SingleGaze single NaN
+12 321  53 398 158 698 0 0 1 Person1   SingleGaze single  P2
+13 471   4 570 116 698 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 698 0 0 1 Person3 SingleGaze single NaN
+12 321  53 398 158 699 0 0 1 Person1   SingleGaze single  P2
+13 472   4 571 116 699 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 699 0 0 1 Person3 SingleGaze single NaN
+12 321  53 398 158 700 0 0 1 Person1   SingleGaze single  P2
+13 472   4 571 116 700 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 700 0 0 1 Person3 SingleGaze single NaN
+12 321  53 398 158 701 0 0 1 Person1   SingleGaze single  P2
+13 472   4 571 116 701 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 701 0 0 1 Person3 SingleGaze single NaN
+12 321  53 398 158 702 0 0 1 Person1   SingleGaze single  P2
+13 473   4 572 116 702 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 702 0 0 1 Person3 SingleGaze single NaN
+12 321  53 398 158 703 0 0 1 Person1   SingleGaze single  P2
+13 473   4 572 116 703 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 703 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 704 0 0 0 Person1   SingleGaze single  P2
+13 474   5 573 117 704 0 0 0 Person2   SingleGaze single  P3
+14 168  51 250 167 704 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 705 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 705 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 705 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 706 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 706 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 706 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 707 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 707 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 707 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 708 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 708 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 708 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 709 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 709 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 709 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 710 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 710 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 710 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 711 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 711 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 711 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 712 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 712 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 712 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 713 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 713 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 713 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 714 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 714 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 714 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 715 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 715 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 715 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 716 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 716 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 716 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 717 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 717 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 717 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 718 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 718 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 718 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 719 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 719 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 719 0 0 1 Person3 SingleGaze single NaN
+12 321  54 398 159 720 0 0 1 Person1   SingleGaze single  P2
+13 474   5 573 117 720 0 0 1 Person2   SingleGaze single  P3
+14 168  51 250 167 720 0 0 1 Person3 SingleGaze single NaN

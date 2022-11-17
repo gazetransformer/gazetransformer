@@ -1,0 +1,1416 @@
+11 252 167 306 218   0 0 0 0 Object1        NaN    NaN NaN
+12 377 195 440 255   0 0 0 0 Object2        NaN    NaN NaN
+ 0 149  69 257 208   0 0 0 0 Person1 SingleGaze  share  O1
+ 1 430  48 548 187   0 0 0 0 Person2 SingleGaze single  O2
+22 302  24 362  93   0 0 0 0 Person3   JointAtt single  P1
+26 246  99 290 166   0 0 0 0 Person4   JointAtt  share  O1
+11 250 166 304 217   1 0 0 1 Object1        NaN    NaN NaN
+12 376 193 439 253   1 0 0 1 Object2        NaN    NaN NaN
+ 0 147  68 255 207   1 0 0 1 Person1 SingleGaze  share  O1
+ 1 430  47 548 186   1 0 0 1 Person2 SingleGaze single  O2
+22 301  24 361  93   1 0 0 1 Person3   JointAtt single  P1
+26 245  97 290 164   1 0 0 1 Person4   JointAtt  share  O1
+11 248 166 302 217   2 0 0 1 Object1        NaN    NaN NaN
+12 376 192 439 252   2 0 0 1 Object2        NaN    NaN NaN
+ 0 146  68 254 207   2 0 0 1 Person1 SingleGaze  share  O1
+ 1 430  47 548 186   2 0 0 1 Person2 SingleGaze single  O2
+22 300  24 360  93   2 0 0 1 Person3   JointAtt single  P1
+26 245  96 291 163   2 0 0 1 Person4   JointAtt  share  O1
+11 246 165 300 216   3 0 0 1 Object1        NaN    NaN NaN
+12 376 191 439 251   3 0 0 1 Object2        NaN    NaN NaN
+ 0 144  67 252 206   3 0 0 1 Person1 SingleGaze  share  O1
+ 1 430  47 548 186   3 0 0 1 Person2 SingleGaze single  O2
+22 300  24 360  93   3 0 0 1 Person3   JointAtt single  P1
+26 244  95 291 162   3 0 0 1 Person4   JointAtt  share  O1
+11 245 165 299 216   4 0 0 1 Object1        NaN    NaN NaN
+12 375 189 438 249   4 0 0 1 Object2        NaN    NaN NaN
+ 0 143  67 251 206   4 0 0 1 Person1 SingleGaze  share  O1
+ 1 431  47 549 186   4 0 0 1 Person2 SingleGaze single  O2
+22 299  24 359  93   4 0 0 1 Person3   JointAtt single  P1
+26 244  93 292 160   4 0 0 1 Person4   JointAtt  share  O1
+11 243 165 297 216   5 0 0 1 Object1        NaN    NaN NaN
+12 375 188 438 248   5 0 0 1 Object2        NaN    NaN NaN
+ 0 141  66 249 205   5 0 0 1 Person1 SingleGaze  share  O1
+ 1 431  47 549 186   5 0 0 1 Person2 SingleGaze single  O2
+22 299  25 359  94   5 0 0 0 Person3   JointAtt single  P1
+26 243  92 292 159   5 0 0 1 Person4   JointAtt  share  O1
+11 241 164 295 215   6 0 0 1 Object1        NaN    NaN NaN
+12 375 187 438 247   6 0 0 0 Object2        NaN    NaN NaN
+ 0 140  66 248 205   6 0 0 1 Person1 SingleGaze  share  O1
+ 1 431  47 549 186   6 0 0 1 Person2 SingleGaze single  O2
+22 300  24 360  93   6 0 0 1 Person3   JointAtt single  P1
+26 243  91 293 158   6 0 0 1 Person4   JointAtt  share  O1
+11 239 164 293 215   7 0 0 1 Object1        NaN    NaN NaN
+12 375 182 438 242   7 0 0 1 Object2        NaN    NaN NaN
+ 0 138  65 246 204   7 0 0 1 Person1 SingleGaze  share  O1
+ 1 432  47 550 186   7 0 0 1 Person2 SingleGaze single  O2
+22 302  24 362  93   7 0 0 1 Person3   JointAtt single  P1
+26 242  89 293 156   7 0 0 1 Person4   JointAtt  share  O1
+11 238 163 292 214   8 0 0 1 Object1        NaN    NaN NaN
+12 375 177 438 237   8 0 0 1 Object2        NaN    NaN NaN
+ 0 137  65 245 204   8 0 0 1 Person1 SingleGaze  share  O1
+ 1 432  47 550 186   8 0 0 1 Person2 SingleGaze single  O2
+22 304  24 364  93   8 0 0 1 Person3   JointAtt single  P1
+26 242  88 294 155   8 0 0 1 Person4   JointAtt  share  O1
+11 236 163 290 214   9 0 0 1 Object1        NaN    NaN NaN
+12 376 172 439 232   9 0 0 0 Object2        NaN    NaN NaN
+ 0 135  64 243 203   9 0 0 1 Person1 SingleGaze  share  O1
+ 1 432  47 550 186   9 0 0 1 Person2 SingleGaze single  O2
+22 306  24 366  93   9 0 0 1 Person3   JointAtt single  P1
+26 241  87 294 154   9 0 0 1 Person4   JointAtt  share  O1
+11 234 163 288 214  10 0 0 1 Object1        NaN    NaN NaN
+12 376 170 439 230  10 0 0 1 Object2        NaN    NaN NaN
+ 0 134  64 242 203  10 0 0 0 Person1 SingleGaze  share  O1
+ 1 432  47 550 186  10 0 0 1 Person2 SingleGaze single  O2
+22 308  23 368  92  10 0 0 1 Person3   JointAtt single  P1
+26 241  85 295 152  10 0 0 1 Person4   JointAtt  share  O1
+11 232 162 286 213  11 0 0 1 Object1        NaN    NaN NaN
+12 376 169 439 229  11 0 0 1 Object2        NaN    NaN NaN
+ 0 132  63 240 202  11 0 0 1 Person1 SingleGaze  share  O1
+ 1 433  47 551 186  11 0 0 1 Person2 SingleGaze single  O2
+22 310  23 370  92  11 0 0 1 Person3   JointAtt single  P1
+26 240  84 295 151  11 0 0 1 Person4   JointAtt  share  O1
+11 231 162 285 213  12 0 0 1 Object1        NaN    NaN NaN
+12 376 168 439 228  12 0 0 0 Object2        NaN    NaN NaN
+ 0 130  62 238 201  12 0 0 1 Person1 SingleGaze  share  O1
+ 1 433  46 551 185  12 0 0 1 Person2 SingleGaze single  O2
+22 312  23 372  92  12 0 0 1 Person3   JointAtt single  P1
+26 240  83 296 150  12 0 0 0 Person4   JointAtt  share  O1
+11 229 161 283 212  13 0 0 1 Object1        NaN    NaN NaN
+12 376 168 439 228  13 0 0 1 Object2        NaN    NaN NaN
+ 0 128  61 236 200  13 0 0 1 Person1 SingleGaze  share  O1
+ 1 433  46 551 185  13 0 0 1 Person2 SingleGaze single  O2
+22 314  23 374  92  13 0 0 1 Person3   JointAtt single  P1
+26 240  82 296 149  13 0 0 1 Person4   JointAtt  share  O1
+11 227 161 281 212  14 0 0 1 Object1        NaN    NaN NaN
+12 377 168 440 228  14 0 0 1 Object2        NaN    NaN NaN
+ 0 126  61 234 200  14 0 0 1 Person1 SingleGaze  share  O1
+ 1 434  46 552 185  14 0 0 1 Person2 SingleGaze single  O2
+22 315  23 375  92  14 0 0 1 Person3   JointAtt single  P1
+26 240  82 296 149  14 0 0 1 Person4   JointAtt  share  O1
+11 226 161 280 212  15 0 0 0 Object1        NaN    NaN NaN
+12 378 168 441 228  15 0 0 0 Object2        NaN    NaN NaN
+ 0 124  60 232 199  15 0 0 1 Person1 SingleGaze  share  O1
+ 1 434  46 552 185  15 0 0 1 Person2 SingleGaze single  O2
+22 317  22 377  91  15 0 0 1 Person3   JointAtt single  P1
+26 240  82 296 149  15 0 0 1 Person4   JointAtt  share  O1
+11 226 160 280 211  16 0 0 1 Object1        NaN    NaN NaN
+12 377 170 440 230  16 0 0 1 Object2        NaN    NaN NaN
+ 0 122  59 230 198  16 0 0 1 Person1 SingleGaze  share  O1
+ 1 434  46 552 185  16 0 0 1 Person2 SingleGaze single  O2
+22 319  22 379  91  16 0 0 1 Person3   JointAtt single  P1
+26 240  82 296 149  16 0 0 1 Person4   JointAtt  share  O1
+11 227 160 281 211  17 0 0 1 Object1        NaN    NaN NaN
+12 377 173 440 233  17 0 0 1 Object2        NaN    NaN NaN
+ 0 121  59 229 198  17 0 0 0 Person1 SingleGaze  share  O1
+ 1 434  46 552 185  17 0 0 1 Person2 SingleGaze  share  P1
+22 321  22 381  91  17 0 0 1 Person3   JointAtt  share  P1
+26 240  82 296 149  17 0 0 1 Person4   JointAtt  share  O1
+11 227 160 281 211  18 0 0 1 Object1        NaN    NaN NaN
+12 376 175 439 235  18 0 0 1 Object2        NaN    NaN NaN
+ 0 121  59 229 198  18 0 0 1 Person1 SingleGaze  share  O1
+ 1 435  46 553 185  18 0 0 1 Person2 SingleGaze  share  P1
+22 323  22 383  91  18 0 0 1 Person3   JointAtt  share  P1
+26 240  82 296 149  18 0 0 1 Person4   JointAtt  share  O1
+11 228 160 282 211  19 0 0 1 Object1        NaN    NaN NaN
+12 376 178 439 238  19 0 0 1 Object2        NaN    NaN NaN
+ 0 122  59 230 198  19 0 0 1 Person1 SingleGaze  share  O1
+ 1 435  46 553 185  19 0 0 1 Person2 SingleGaze  share  P1
+22 325  22 385  91  19 0 0 1 Person3   JointAtt  share  P1
+26 240  82 296 149  19 0 0 1 Person4   JointAtt  share  O1
+11 228 160 282 211  20 0 0 1 Object1        NaN    NaN NaN
+12 376 181 439 241  20 0 0 0 Object2        NaN    NaN NaN
+ 0 123  59 231 198  20 0 0 1 Person1 SingleGaze  share  O1
+ 1 435  46 553 185  20 0 0 1 Person2 SingleGaze  share  P1
+22 327  21 387  90  20 0 0 1 Person3   JointAtt  share  P1
+26 240  82 296 149  20 0 0 1 Person4   JointAtt  share  O1
+11 229 160 283 211  21 0 0 1 Object1        NaN    NaN NaN
+12 374 186 437 246  21 0 0 1 Object2        NaN    NaN NaN
+ 0 124  59 232 198  21 0 0 1 Person1 SingleGaze  share  O1
+ 1 436  46 554 185  21 0 0 1 Person2 SingleGaze  share  P1
+22 329  21 389  90  21 0 0 1 Person3   JointAtt  share  P1
+26 240  82 296 149  21 0 0 1 Person4   JointAtt  share  O1
+11 229 160 283 211  22 0 0 1 Object1        NaN    NaN NaN
+12 373 191 436 251  22 0 0 1 Object2        NaN    NaN NaN
+ 0 125  59 233 198  22 0 0 1 Person1 SingleGaze  share  O1
+ 1 436  46 554 185  22 0 0 1 Person2 SingleGaze single  O2
+22 330  21 390  90  22 0 0 1 Person3   JointAtt single  P1
+26 240  81 296 148  22 0 0 1 Person4   JointAtt  share  O1
+11 230 160 284 211  23 0 0 1 Object1        NaN    NaN NaN
+12 371 196 434 256  23 0 0 1 Object2        NaN    NaN NaN
+ 0 126  59 234 198  23 0 0 1 Person1 SingleGaze  share  O1
+ 1 436  46 554 185  23 0 0 1 Person2 SingleGaze single  O2
+22 332  21 392  90  23 0 0 1 Person3   JointAtt single  P1
+26 240  81 296 148  23 0 0 1 Person4   JointAtt  share  O1
+11 230 160 284 211  24 0 0 1 Object1        NaN    NaN NaN
+12 370 201 433 261  24 0 0 0 Object2        NaN    NaN NaN
+ 0 127  59 235 198  24 0 0 1 Person1 SingleGaze  share  O1
+ 1 436  45 554 184  24 0 0 1 Person2 SingleGaze single  O2
+22 334  21 394  90  24 0 0 1 Person3   JointAtt single  P1
+26 240  81 296 148  24 0 0 1 Person4   JointAtt  share  O1
+11 231 160 285 211  25 0 0 1 Object1        NaN    NaN NaN
+12 368 200 431 260  25 0 0 1 Object2        NaN    NaN NaN
+ 0 128  59 236 198  25 0 0 1 Person1 SingleGaze  share  O1
+ 1 437  45 555 184  25 0 0 1 Person2 SingleGaze single  O2
+22 336  20 396  89  25 0 0 1 Person3   JointAtt single  P1
+26 240  81 296 148  25 0 0 1 Person4   JointAtt  share  O1
+11 231 159 285 210  26 0 0 1 Object1        NaN    NaN NaN
+12 366 200 429 260  26 0 0 1 Object2        NaN    NaN NaN
+ 0 129  59 237 198  26 0 0 1 Person1 SingleGaze  share  O1
+ 1 437  45 555 184  26 0 0 1 Person2 SingleGaze single  O2
+22 338  20 398  89  26 0 0 1 Person3   JointAtt single  P1
+26 240  81 296 148  26 0 0 1 Person4   JointAtt  share  O1
+11 232 159 286 210  27 0 0 1 Object1        NaN    NaN NaN
+12 364 199 427 259  27 0 0 1 Object2        NaN    NaN NaN
+ 0 130  59 238 198  27 0 0 1 Person1 SingleGaze  share  O1
+ 1 437  45 555 184  27 0 0 1 Person2 SingleGaze single  O2
+22 340  20 400  89  27 0 0 1 Person3   JointAtt single  P1
+26 240  81 296 148  27 0 0 1 Person4   JointAtt  share  O1
+11 232 159 286 210  28 0 0 1 Object1        NaN    NaN NaN
+12 362 199 425 259  28 0 0 1 Object2        NaN    NaN NaN
+ 0 131  59 239 198  28 0 0 1 Person1 SingleGaze  share  O1
+ 1 438  45 556 184  28 0 0 1 Person2 SingleGaze single  O2
+22 342  20 402  89  28 0 0 1 Person3   JointAtt single  P1
+26 240  81 296 148  28 0 0 1 Person4   JointAtt  share  O1
+11 233 159 287 210  29 0 0 1 Object1        NaN    NaN NaN
+12 360 199 423 259  29 0 0 1 Object2        NaN    NaN NaN
+ 0 132  59 240 198  29 0 0 1 Person1 SingleGaze  share  O1
+ 1 438  45 556 184  29 0 0 1 Person2 SingleGaze single  O2
+22 344  20 404  89  29 0 0 0 Person3   JointAtt single  P1
+26 240  81 296 148  29 0 0 1 Person4   JointAtt  share  O1
+11 233 159 287 210  30 0 0 1 Object1        NaN    NaN NaN
+12 358 198 421 258  30 0 0 1 Object2        NaN    NaN NaN
+ 0 133  60 241 199  30 0 0 0 Person1 SingleGaze  share  O1
+ 1 438  45 556 184  30 0 0 1 Person2 SingleGaze single  O2
+22 344  20 404  89  30 0 0 1 Person3   JointAtt single  P1
+26 241  81 297 148  30 0 0 0 Person4   JointAtt  share  O1
+11 234 159 288 210  31 0 0 1 Object1        NaN    NaN NaN
+12 356 198 419 258  31 0 0 1 Object2        NaN    NaN NaN
+ 0 133  60 241 199  31 0 0 1 Person1 SingleGaze  share  O1
+ 1 438  45 556 184  31 0 0 1 Person2 SingleGaze single  O2
+22 345  21 405  90  31 0 0 1 Person3   JointAtt single  P1
+26 241  81 297 148  31 0 0 1 Person4   JointAtt  share  O1
+11 234 159 288 210  32 0 0 1 Object1        NaN    NaN NaN
+12 354 198 417 258  32 0 0 1 Object2        NaN    NaN NaN
+ 0 133  60 241 199  32 0 0 1 Person1 SingleGaze  share  O1
+ 1 439  45 557 184  32 0 0 1 Person2 SingleGaze single  O2
+22 346  22 406  91  32 0 0 1 Person3   JointAtt single  P1
+26 241  81 297 148  32 0 0 1 Person4   JointAtt  share  O1
+11 235 159 289 210  33 0 0 1 Object1        NaN    NaN NaN
+12 352 197 415 257  33 0 0 1 Object2        NaN    NaN NaN
+ 0 133  60 241 199  33 0 0 1 Person1 SingleGaze  share  O1
+ 1 439  45 557 184  33 0 0 1 Person2 SingleGaze single  O2
+22 346  22 406  91  33 0 0 1 Person3   JointAtt single  P1
+26 241  81 297 148  33 0 0 1 Person4   JointAtt  share  O1
+11 235 159 289 210  34 0 0 1 Object1        NaN    NaN NaN
+12 350 197 413 257  34 0 0 1 Object2        NaN    NaN NaN
+ 0 133  60 241 199  34 0 0 1 Person1 SingleGaze  share  O1
+ 1 439  45 557 184  34 0 0 1 Person2 SingleGaze single  O2
+22 347  23 407  92  34 0 0 1 Person3   JointAtt single  P1
+26 241  81 297 148  34 0 0 1 Person4   JointAtt  share  O1
+13 116 213 226 314  36 0 0 0 Object1        NaN    NaN NaN
+14 287 222 402 340  36 0 0 0 Object2        NaN    NaN NaN
+ 2 158   0 340 203  36 0 0 0 Person1 SingleGaze single  O1
+ 3 518   0 639 182  36 0 0 0 Person2 SingleGaze single  O2
+13 115 214 225 315  37 0 0 1 Object1        NaN    NaN NaN
+14 286 221 401 339  37 0 0 1 Object2        NaN    NaN NaN
+ 2 157   0 339 203  37 0 0 1 Person1 SingleGaze single  O1
+ 3 517   0 638 182  37 0 0 1 Person2 SingleGaze single  O2
+13 114 215 224 316  38 0 0 1 Object1        NaN    NaN NaN
+14 285 221 400 339  38 0 0 1 Object2        NaN    NaN NaN
+ 2 156   0 338 203  38 0 0 1 Person1 SingleGaze single  O1
+ 3 517   0 638 182  38 0 0 1 Person2 SingleGaze single  O2
+13 113 216 223 317  39 0 0 1 Object1        NaN    NaN NaN
+14 284 220 399 338  39 0 0 1 Object2        NaN    NaN NaN
+ 2 155   0 337 203  39 0 0 1 Person1 SingleGaze single  O1
+ 3 517   0 638 183  39 0 0 1 Person2 SingleGaze single  O2
+13 112 217 222 318  40 0 0 1 Object1        NaN    NaN NaN
+14 283 220 398 338  40 0 0 1 Object2        NaN    NaN NaN
+ 2 154   0 336 203  40 0 0 1 Person1 SingleGaze single  O1
+ 3 516   0 638 183  40 0 0 1 Person2 SingleGaze single  O2
+13 111 218 221 319  41 0 0 1 Object1        NaN    NaN NaN
+14 282 220 397 338  41 0 0 1 Object2        NaN    NaN NaN
+ 2 154   0 336 203  41 0 0 1 Person1 SingleGaze single  O1
+ 3 516   0 638 184  41 0 0 1 Person2 SingleGaze single  O2
+13 110 219 220 320  42 0 0 1 Object1        NaN    NaN NaN
+14 281 219 396 337  42 0 0 1 Object2        NaN    NaN NaN
+ 2 153   0 335 203  42 0 0 1 Person1 SingleGaze single  O1
+ 3 516   0 638 184  42 0 0 1 Person2 SingleGaze single  O2
+13 109 220 219 321  43 0 0 1 Object1        NaN    NaN NaN
+14 280 219 395 337  43 0 0 1 Object2        NaN    NaN NaN
+ 2 152   0 334 203  43 0 0 1 Person1 SingleGaze single  O1
+ 3 515   0 638 184  43 0 0 1 Person2 SingleGaze single  O2
+13 108 221 218 322  44 0 0 1 Object1        NaN    NaN NaN
+14 279 218 394 336  44 0 0 1 Object2        NaN    NaN NaN
+ 2 151   0 333 203  44 0 0 1 Person1 SingleGaze single  O1
+ 3 515   0 638 185  44 0 0 1 Person2 SingleGaze single  O2
+13 107 222 217 323  45 0 0 1 Object1        NaN    NaN NaN
+14 278 218 393 336  45 0 0 1 Object2        NaN    NaN NaN
+ 2 150   0 332 203  45 0 0 1 Person1 SingleGaze single  O1
+ 3 515   0 638 185  45 0 0 1 Person2 SingleGaze single  O2
+13 106 223 216 324  46 0 0 1 Object1        NaN    NaN NaN
+14 277 218 392 336  46 0 0 1 Object2        NaN    NaN NaN
+ 2 150   0 332 203  46 0 0 1 Person1 SingleGaze single  O1
+ 3 514   0 638 186  46 0 0 1 Person2 SingleGaze single  O2
+13 105 224 215 325  47 0 0 1 Object1        NaN    NaN NaN
+14 276 217 391 335  47 0 0 1 Object2        NaN    NaN NaN
+ 2 149   0 331 203  47 0 0 1 Person1 SingleGaze single  O1
+ 3 514   0 638 186  47 0 0 1 Person2 SingleGaze single  O2
+13 104 226 214 327  48 0 0 0 Object1        NaN    NaN NaN
+14 275 217 390 335  48 0 0 1 Object2        NaN    NaN NaN
+ 2 148   0 330 203  48 0 0 1 Person1 SingleGaze single  O1
+ 3 514   0 638 187  48 0 0 1 Person2 SingleGaze single  O2
+13 104 223 214 324  49 0 0 1 Object1        NaN    NaN NaN
+14 274 216 389 334  49 0 0 1 Object2        NaN    NaN NaN
+ 2 147   0 329 203  49 0 0 1 Person1 SingleGaze single  O1
+ 3 513   0 638 187  49 0 0 1 Person2 SingleGaze single  O2
+13 105 220 215 321  50 0 0 1 Object1        NaN    NaN NaN
+14 273 216 388 334  50 0 0 1 Object2        NaN    NaN NaN
+ 2 146   0 328 203  50 0 0 1 Person1 SingleGaze single  O1
+ 3 513   0 638 187  50 0 0 1 Person2 SingleGaze single  O2
+13 106 217 216 318  51 0 0 0 Object1        NaN    NaN NaN
+14 272 216 387 334  51 0 0 1 Object2        NaN    NaN NaN
+ 2 146   0 328 203  51 0 0 1 Person1 SingleGaze single  O1
+ 3 513   0 638 188  51 0 0 1 Person2 SingleGaze single  O2
+13 105 217 215 318  52 0 0 1 Object1        NaN    NaN NaN
+14 271 215 386 333  52 0 0 1 Object2        NaN    NaN NaN
+ 2 145   0 327 203  52 0 0 1 Person1 SingleGaze single  O1
+ 3 512   0 638 188  52 0 0 1 Person2 SingleGaze single  O2
+13 104 218 214 319  53 0 0 1 Object1        NaN    NaN NaN
+14 270 215 385 333  53 0 0 1 Object2        NaN    NaN NaN
+ 2 144   0 326 203  53 0 0 1 Person1 SingleGaze single  O1
+ 3 512   0 638 189  53 0 0 1 Person2 SingleGaze single  O2
+13 103 218 213 319  54 0 0 1 Object1        NaN    NaN NaN
+14 269 214 384 332  54 0 0 1 Object2        NaN    NaN NaN
+ 2 143   0 325 203  54 0 0 1 Person1 SingleGaze single  O1
+ 3 512   0 638 189  54 0 0 1 Person2 SingleGaze single  O2
+13 103 219 213 320  55 0 0 1 Object1        NaN    NaN NaN
+14 268 214 383 332  55 0 0 1 Object2        NaN    NaN NaN
+ 2 142   0 324 203  55 0 0 1 Person1 SingleGaze single  O1
+ 3 511   0 638 189  55 0 0 1 Person2 SingleGaze single  O2
+13 102 219 212 320  56 0 0 1 Object1        NaN    NaN NaN
+14 267 214 382 332  56 0 0 1 Object2        NaN    NaN NaN
+ 2 142   0 324 203  56 0 0 1 Person1 SingleGaze single  O1
+ 3 511   0 638 190  56 0 0 1 Person2 SingleGaze single  O2
+13 101 220 211 321  57 0 0 1 Object1        NaN    NaN NaN
+14 266 213 381 331  57 0 0 1 Object2        NaN    NaN NaN
+ 2 141   0 323 203  57 0 0 1 Person1 SingleGaze single  O1
+ 3 511   0 638 190  57 0 0 1 Person2 SingleGaze single  O2
+13 100 220 210 321  58 0 0 1 Object1        NaN    NaN NaN
+14 265 213 380 331  58 0 0 1 Object2        NaN    NaN NaN
+ 2 140   0 322 203  58 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 191  58 0 0 1 Person2 SingleGaze single  O2
+13 100 221 210 322  59 0 0 1 Object1        NaN    NaN NaN
+14 264 212 379 330  59 0 0 1 Object2        NaN    NaN NaN
+ 2 139   0 321 203  59 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 191  59 0 0 1 Person2 SingleGaze single  O2
+13  99 221 209 322  60 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  60 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 203  60 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  60 0 0 0 Person2 SingleGaze single  O2
+13  98 222 208 323  61 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  61 0 0 0 Object2        NaN    NaN NaN
+ 2 138   0 320 204  61 0 0 0 Person1 SingleGaze single  O1
+ 3 510   0 638 192  61 0 0 1 Person2 SingleGaze single  O2
+13  98 223 208 324  62 0 0 0 Object1        NaN    NaN NaN
+14 263 212 378 330  62 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  62 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  62 0 0 1 Person2 SingleGaze single  O2
+13  97 221 207 322  63 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  63 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  63 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  63 0 0 1 Person2 SingleGaze single  O2
+13  96 220 206 321  64 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  64 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  64 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  64 0 0 1 Person2 SingleGaze single  O2
+13  95 219 205 320  65 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  65 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  65 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  65 0 0 1 Person2 SingleGaze single  O2
+13  95 218 205 319  66 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  66 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  66 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  66 0 0 1 Person2 SingleGaze single  O2
+13  94 216 204 317  67 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  67 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  67 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  67 0 0 1 Person2 SingleGaze single  O2
+13  93 215 203 316  68 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  68 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  68 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  68 0 0 1 Person2 SingleGaze single  O2
+13  92 214 202 315  69 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  69 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  69 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  69 0 0 1 Person2 SingleGaze single  O2
+13  92 213 202 314  70 0 0 0 Object1        NaN    NaN NaN
+14 263 212 378 330  70 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  70 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  70 0 0 1 Person2 SingleGaze single  O2
+13  92 213 202 314  71 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  71 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  71 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  71 0 0 1 Person2 SingleGaze single  O2
+13  92 213 202 314  72 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  72 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  72 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  72 0 0 1 Person2 SingleGaze single  O2
+13  92 213 202 314  73 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  73 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  73 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  73 0 0 1 Person2 SingleGaze single  O2
+13  92 213 202 314  74 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  74 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  74 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  74 0 0 1 Person2 SingleGaze single  O2
+13  92 213 202 314  75 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  75 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  75 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  75 0 0 1 Person2 SingleGaze single  O2
+13  92 213 202 314  76 0 0 1 Object1        NaN    NaN NaN
+14 263 212 378 330  76 0 0 1 Object2        NaN    NaN NaN
+ 2 138   0 320 204  76 0 0 1 Person1 SingleGaze single  O1
+ 3 510   0 638 192  76 0 0 1 Person2 SingleGaze single  O2
+15 343 225 428 301  78 0 0 0 Object1        NaN    NaN NaN
+16 447 232 542 313  78 0 0 0 Object2        NaN    NaN NaN
+ 4  19   0 246 242  78 0 0 0 Person1 SingleGaze single  O1
+ 5 305   4 454 202  78 0 0 0 Person2 SingleGaze single  O2
+15 339 225 424 301  79 0 0 1 Object1        NaN    NaN NaN
+16 446 232 540 313  79 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  79 0 0 1 Person1 SingleGaze single  O1
+ 5 304   4 453 202  79 0 0 1 Person2 SingleGaze single  O2
+15 336 225 421 301  80 0 0 1 Object1        NaN    NaN NaN
+16 446 232 539 313  80 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  80 0 0 1 Person1 SingleGaze single  O1
+ 5 304   4 453 202  80 0 0 1 Person2 SingleGaze single  O2
+15 333 225 418 301  81 0 0 1 Object1        NaN    NaN NaN
+16 446 232 538 313  81 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  81 0 0 1 Person1 SingleGaze single  O1
+ 5 304   4 453 202  81 0 0 1 Person2 SingleGaze single  O2
+15 330 225 415 301  82 0 0 1 Object1        NaN    NaN NaN
+16 446 232 537 313  82 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  82 0 0 1 Person1 SingleGaze single  O1
+ 5 304   4 453 202  82 0 0 1 Person2 SingleGaze single  O2
+15 327 226 412 302  83 0 0 1 Object1        NaN    NaN NaN
+16 446 232 535 313  83 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  83 0 0 1 Person1 SingleGaze single  O1
+ 5 303   5 452 203  83 0 0 1 Person2 SingleGaze single  O2
+15 324 226 409 302  84 0 0 1 Object1        NaN    NaN NaN
+16 446 233 534 314  84 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  84 0 0 1 Person1 SingleGaze single  O1
+ 5 303   5 452 203  84 0 0 1 Person2 SingleGaze single  O2
+15 321 226 406 302  85 0 0 1 Object1        NaN    NaN NaN
+16 446 233 533 314  85 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  85 0 0 1 Person1 SingleGaze single  O1
+ 5 303   5 452 203  85 0 0 1 Person2 SingleGaze single  O2
+15 318 226 403 302  86 0 0 1 Object1        NaN    NaN NaN
+16 446 233 532 314  86 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  86 0 0 1 Person1 SingleGaze single  O1
+ 5 303   5 452 203  86 0 0 1 Person2 SingleGaze single  O2
+15 315 227 400 303  87 0 0 0 Object1        NaN    NaN NaN
+16 446 233 530 314  87 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  87 0 0 1 Person1 SingleGaze single  O1
+ 5 303   5 452 203  87 0 0 1 Person2 SingleGaze single  O2
+15 319 227 404 303  88 0 0 1 Object1        NaN    NaN NaN
+16 446 233 529 314  88 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  88 0 0 1 Person1 SingleGaze single  O1
+ 5 302   6 451 204  88 0 0 1 Person2 SingleGaze single  O2
+15 324 227 409 303  89 0 0 1 Object1        NaN    NaN NaN
+16 446 233 528 314  89 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  89 0 0 1 Person1 SingleGaze single  O1
+ 5 302   6 451 204  89 0 0 1 Person2 SingleGaze single  O2
+15 328 227 413 303  90 0 0 1 Object1        NaN    NaN NaN
+16 446 234 527 315  90 0 0 0 Object2        NaN    NaN NaN
+ 4  19   0 246 242  90 0 0 1 Person1 SingleGaze single  O1
+ 5 302   6 451 204  90 0 0 1 Person2 SingleGaze single  O2
+15 333 228 418 304  91 0 0 1 Object1        NaN    NaN NaN
+16 446 233 526 314  91 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  91 0 0 1 Person1 SingleGaze single  O1
+ 5 302   6 451 204  91 0 0 1 Person2 SingleGaze single  O2
+15 338 228 423 304  92 0 0 1 Object1        NaN    NaN NaN
+16 446 233 526 313  92 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  92 0 0 1 Person1 SingleGaze single  O1
+ 5 302   7 451 205  92 0 0 1 Person2 SingleGaze single  O2
+15 342 228 427 304  93 0 0 1 Object1        NaN    NaN NaN
+16 446 232 526 312  93 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  93 0 0 1 Person1 SingleGaze single  O1
+ 5 301   7 450 205  93 0 0 1 Person2 SingleGaze single  O2
+15 347 229 432 305  94 0 0 1 Object1        NaN    NaN NaN
+16 447 232 526 312  94 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  94 0 0 1 Person1 SingleGaze single  O1
+ 5 301   7 450 205  94 0 0 1 Person2 SingleGaze single  O2
+15 351 229 436 305  95 0 0 1 Object1        NaN    NaN NaN
+16 447 232 526 311  95 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  95 0 0 1 Person1 SingleGaze single  O1
+ 5 301   7 450 205  95 0 0 1 Person2 SingleGaze single  O2
+15 356 229 441 305  96 0 0 1 Object1        NaN    NaN NaN
+16 447 231 526 310  96 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  96 0 0 1 Person1 SingleGaze single  O1
+ 5 301   7 450 205  96 0 0 1 Person2 SingleGaze single  O2
+15 361 230 446 306  97 0 0 0 Object1        NaN    NaN NaN
+16 448 231 526 310  97 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  97 0 0 1 Person1 SingleGaze single  O1
+ 5 300   8 449 206  97 0 0 1 Person2 SingleGaze single  O2
+15 367 229 452 305  98 0 0 1 Object1        NaN    NaN NaN
+16 448 231 525 309  98 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  98 0 0 1 Person1 SingleGaze single  O1
+ 5 300   8 449 206  98 0 0 1 Person2 SingleGaze single  O2
+15 374 228 459 304  99 0 0 1 Object1        NaN    NaN NaN
+16 448 230 525 308  99 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242  99 0 0 1 Person1 SingleGaze single  O1
+ 5 300   8 449 206  99 0 0 1 Person2 SingleGaze single  O2
+15 381 227 466 303 100 0 0 1 Object1        NaN    NaN NaN
+16 448 230 525 308 100 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 100 0 0 1 Person1 SingleGaze single  O1
+ 5 300   8 449 206 100 0 0 1 Person2 SingleGaze single  O2
+15 388 226 473 302 101 0 0 0 Object1        NaN    NaN NaN
+16 449 229 525 307 101 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 101 0 0 1 Person1 SingleGaze single  O1
+ 5 300   8 449 206 101 0 0 1 Person2 SingleGaze single  O2
+15 388 226 470 300 102 0 0 1 Object1        NaN    NaN NaN
+16 449 229 525 306 102 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 102 0 0 1 Person1 SingleGaze single  O1
+ 5 299   9 448 207 102 0 0 1 Person2 SingleGaze single  O2
+15 388 226 467 298 103 0 0 1 Object1        NaN    NaN NaN
+16 449 229 525 306 103 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 103 0 0 1 Person1 SingleGaze single  O1
+ 5 299   9 448 207 103 0 0 1 Person2 SingleGaze single  O2
+15 388 226 464 296 104 0 0 1 Object1        NaN    NaN NaN
+16 450 228 525 305 104 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 104 0 0 1 Person1 SingleGaze single  O1
+ 5 299   9 448 207 104 0 0 1 Person2 SingleGaze single  O2
+15 388 226 461 294 105 0 0 1 Object1        NaN    NaN NaN
+16 450 228 524 304 105 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 105 0 0 1 Person1 SingleGaze single  O1
+ 5 299   9 448 207 105 0 0 1 Person2 SingleGaze single  O2
+15 389 227 459 293 106 0 0 0 Object1        NaN    NaN NaN
+16 450 228 524 304 106 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 106 0 0 1 Person1 SingleGaze single  O1
+ 5 299  10 448 208 106 0 0 0 Person2 SingleGaze single  O2
+15 388 226 458 292 107 0 0 1 Object1        NaN    NaN NaN
+16 450 227 524 303 107 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 107 0 0 1 Person1 SingleGaze single  O1
+ 5 299  10 448 208 107 0 0 1 Person2 SingleGaze single  O2
+15 387 226 457 292 108 0 0 1 Object1        NaN    NaN NaN
+16 451 227 524 302 108 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 108 0 0 1 Person1 SingleGaze single  O1
+ 5 299  11 448 209 108 0 0 1 Person2 SingleGaze single  O2
+15 387 225 457 291 109 0 0 1 Object1        NaN    NaN NaN
+16 451 226 524 301 109 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 109 0 0 1 Person1 SingleGaze single  O1
+ 5 299  11 448 209 109 0 0 1 Person2 SingleGaze single  O2
+15 386 225 456 291 110 0 0 1 Object1        NaN    NaN NaN
+16 451 226 524 301 110 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 110 0 0 1 Person1 SingleGaze single  O1
+ 5 299  12 448 210 110 0 0 1 Person2 SingleGaze single  O2
+15 385 224 455 290 111 0 0 1 Object1        NaN    NaN NaN
+16 452 226 524 300 111 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 111 0 0 1 Person1 SingleGaze single  O1
+ 5 299  12 448 210 111 0 0 1 Person2 SingleGaze single  O2
+15 385 224 455 290 112 0 0 1 Object1        NaN    NaN NaN
+16 452 225 523 299 112 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 112 0 0 1 Person1 SingleGaze single  O1
+ 5 299  13 448 211 112 0 0 1 Person2 SingleGaze single  O2
+15 384 224 454 290 113 0 0 1 Object1        NaN    NaN NaN
+16 452 225 523 299 113 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 113 0 0 1 Person1 SingleGaze single  O1
+ 5 299  13 448 211 113 0 0 1 Person2 SingleGaze single  O2
+15 383 223 453 289 114 0 0 1 Object1        NaN    NaN NaN
+16 452 225 523 298 114 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 114 0 0 1 Person1 SingleGaze single  O1
+ 5 299  14 448 212 114 0 0 1 Person2 SingleGaze single  O2
+15 383 223 453 289 115 0 0 1 Object1        NaN    NaN NaN
+16 453 224 523 297 115 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 115 0 0 1 Person1 SingleGaze single  O1
+ 5 300  14 449 212 115 0 0 1 Person2 SingleGaze single  O2
+15 382 222 452 288 116 0 0 1 Object1        NaN    NaN NaN
+16 453 224 523 297 116 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 116 0 0 1 Person1 SingleGaze single  O1
+ 5 300  15 449 213 116 0 0 1 Person2 SingleGaze single  O2
+15 382 222 452 288 117 0 0 1 Object1        NaN    NaN NaN
+16 453 223 523 296 117 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 117 0 0 1 Person1 SingleGaze single  O1
+ 5 300  15 449 213 117 0 0 1 Person2 SingleGaze single  O2
+15 381 221 451 287 118 0 0 1 Object1        NaN    NaN NaN
+16 454 223 523 295 118 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 118 0 0 1 Person1 SingleGaze single  O1
+ 5 300  16 449 214 118 0 0 1 Person2 SingleGaze single  O2
+15 380 221 450 287 119 0 0 1 Object1        NaN    NaN NaN
+16 454 223 522 295 119 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 119 0 0 1 Person1 SingleGaze single  O1
+ 5 300  16 449 214 119 0 0 1 Person2 SingleGaze single  O2
+15 380 221 450 287 120 0 0 1 Object1        NaN    NaN NaN
+16 454 222 522 294 120 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 120 0 0 1 Person1 SingleGaze single  O1
+ 5 300  17 449 215 120 0 0 1 Person2 SingleGaze single  O2
+15 379 220 449 286 121 0 0 1 Object1        NaN    NaN NaN
+16 454 222 522 293 121 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 121 0 0 1 Person1 SingleGaze single  O1
+ 5 300  17 449 215 121 0 0 1 Person2 SingleGaze single  O2
+15 378 220 448 286 122 0 0 1 Object1        NaN    NaN NaN
+16 455 222 522 293 122 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 122 0 0 1 Person1 SingleGaze single  O1
+ 5 300  18 449 216 122 0 0 1 Person2 SingleGaze single  O2
+15 378 219 448 285 123 0 0 1 Object1        NaN    NaN NaN
+16 455 221 522 292 123 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 123 0 0 1 Person1 SingleGaze single  O1
+ 5 300  18 449 216 123 0 0 1 Person2 SingleGaze single  O2
+15 377 219 447 285 124 0 0 1 Object1        NaN    NaN NaN
+16 455 221 522 291 124 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 124 0 0 1 Person1 SingleGaze single  O1
+ 5 301  19 450 217 124 0 0 0 Person2 SingleGaze single  O2
+15 377 219 447 285 125 0 0 0 Object1        NaN    NaN NaN
+16 456 221 522 291 125 0 0 0 Object2        NaN    NaN NaN
+ 4  19   0 246 242 125 0 0 1 Person1 SingleGaze single  O1
+ 5 301  19 450 217 125 0 0 1 Person2 SingleGaze single  O2
+15 373 218 443 284 126 0 0 1 Object1        NaN    NaN NaN
+16 456 220 521 289 126 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 126 0 0 1 Person1 SingleGaze single  O1
+ 5 301  19 450 217 126 0 0 1 Person2 SingleGaze single  O2
+15 370 217 440 283 127 0 0 1 Object1        NaN    NaN NaN
+16 456 219 521 288 127 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 127 0 0 1 Person1 SingleGaze single  O1
+ 5 301  19 450 217 127 0 0 1 Person2 SingleGaze single  O2
+15 367 217 437 283 128 0 0 1 Object1        NaN    NaN NaN
+16 457 218 521 287 128 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 128 0 0 1 Person1 SingleGaze single  O1
+ 5 301  19 450 217 128 0 0 1 Person2 SingleGaze single  O2
+15 364 216 434 282 129 0 0 1 Object1        NaN    NaN NaN
+16 457 217 521 286 129 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 129 0 0 1 Person1 SingleGaze single  O1
+ 5 301  19 450 217 129 0 0 1 Person2 SingleGaze single  O2
+15 361 215 431 281 130 0 0 1 Object1        NaN    NaN NaN
+16 457 216 521 285 130 0 0 1 Object2        NaN    NaN NaN
+ 4  19   0 246 242 130 0 0 1 Person1 SingleGaze single  O1
+ 5 301  19 450 217 130 0 0 1 Person2 SingleGaze single  O2
+17 408 307 506 359 132 0 0 0 Object1        NaN    NaN NaN
+ 6 162   0 387 244 132 0 0 0 Person1 SingleGaze single  O1
+17 406 306 504 358 133 0 0 1 Object1        NaN    NaN NaN
+ 6 161   0 386 244 133 0 0 1 Person1 SingleGaze single  O1
+17 404 305 502 358 134 0 0 1 Object1        NaN    NaN NaN
+ 6 161   0 386 244 134 0 0 1 Person1 SingleGaze single  O1
+17 403 304 501 358 135 0 0 1 Object1        NaN    NaN NaN
+ 6 161   0 386 244 135 0 0 1 Person1 SingleGaze single  O1
+17 401 303 499 357 136 0 0 1 Object1        NaN    NaN NaN
+ 6 160   0 385 244 136 0 0 1 Person1 SingleGaze single  O1
+17 400 303 498 357 137 0 0 1 Object1        NaN    NaN NaN
+ 6 160   0 385 244 137 0 0 1 Person1 SingleGaze single  O1
+17 398 302 496 357 138 0 0 1 Object1        NaN    NaN NaN
+ 6 160   0 385 244 138 0 0 1 Person1 SingleGaze single  O1
+17 397 301 495 357 139 0 0 1 Object1        NaN    NaN NaN
+ 6 159   0 384 244 139 0 0 1 Person1 SingleGaze single  O1
+17 395 300 493 356 140 0 0 1 Object1        NaN    NaN NaN
+ 6 159   0 384 244 140 0 0 1 Person1 SingleGaze single  O1
+17 393 299 491 356 141 0 0 1 Object1        NaN    NaN NaN
+ 6 159   0 384 244 141 0 0 1 Person1 SingleGaze single  O1
+17 392 299 490 356 142 0 0 1 Object1        NaN    NaN NaN
+ 6 159   0 384 244 142 0 0 0 Person1 SingleGaze single  O1
+17 390 298 488 356 143 0 0 1 Object1        NaN    NaN NaN
+ 6 156   0 381 243 143 0 0 1 Person1 SingleGaze single  O1
+17 389 297 487 355 144 0 0 1 Object1        NaN    NaN NaN
+ 6 153   0 378 243 144 0 0 1 Person1 SingleGaze single  O1
+17 387 296 485 355 145 0 0 1 Object1        NaN    NaN NaN
+ 6 151   0 376 243 145 0 0 1 Person1 SingleGaze single  O1
+17 386 296 484 355 146 0 0 1 Object1        NaN    NaN NaN
+ 6 148   0 373 243 146 0 0 1 Person1 SingleGaze single  O1
+17 384 295 482 355 147 0 0 1 Object1        NaN    NaN NaN
+ 6 145   0 370 243 147 0 0 1 Person1 SingleGaze single  O1
+17 382 294 480 354 148 0 0 1 Object1        NaN    NaN NaN
+ 6 143   0 368 243 148 0 0 1 Person1 SingleGaze single  O1
+17 381 293 479 354 149 0 0 1 Object1        NaN    NaN NaN
+ 6 140   0 365 243 149 0 0 1 Person1 SingleGaze single  O1
+17 379 292 477 354 150 0 0 1 Object1        NaN    NaN NaN
+ 6 137   0 362 243 150 0 0 1 Person1 SingleGaze single  O1
+17 378 292 476 354 151 0 0 1 Object1        NaN    NaN NaN
+ 6 135   0 360 243 151 0 0 1 Person1 SingleGaze single  O1
+17 376 291 474 353 152 0 0 1 Object1        NaN    NaN NaN
+ 6 132   0 357 243 152 0 0 1 Person1 SingleGaze single  O1
+17 375 290 473 353 153 0 0 1 Object1        NaN    NaN NaN
+ 6 130   0 355 243 153 0 0 0 Person1 SingleGaze single  O1
+17 373 289 471 353 154 0 0 1 Object1        NaN    NaN NaN
+ 6 136   0 361 242 154 0 0 1 Person1 SingleGaze single  O1
+17 372 289 470 353 155 0 0 0 Object1        NaN    NaN NaN
+ 6 142   0 367 242 155 0 0 1 Person1 SingleGaze single  O1
+17 368 288 466 352 156 0 0 1 Object1        NaN    NaN NaN
+ 6 148   0 373 241 156 0 0 1 Person1 SingleGaze single  O1
+17 364 287 462 352 157 0 0 1 Object1        NaN    NaN NaN
+ 6 154   0 379 241 157 0 0 0 Person1 SingleGaze single  O1
+17 360 286 458 352 158 0 0 1 Object1        NaN    NaN NaN
+ 6 148   0 373 241 158 0 0 1 Person1 SingleGaze single  O1
+17 356 286 454 352 159 0 0 1 Object1        NaN    NaN NaN
+ 6 143   0 368 241 159 0 0 1 Person1 SingleGaze single  O1
+17 352 285 450 352 160 0 0 1 Object1        NaN    NaN NaN
+ 6 137   0 362 241 160 0 0 1 Person1 SingleGaze single  O1
+17 348 284 446 352 161 0 0 1 Object1        NaN    NaN NaN
+ 6 132   0 357 241 161 0 0 1 Person1 SingleGaze single  O1
+17 344 283 442 352 162 0 0 1 Object1        NaN    NaN NaN
+ 6 126   0 351 241 162 0 0 1 Person1 SingleGaze single  O1
+17 340 283 438 352 163 0 0 1 Object1        NaN    NaN NaN
+ 6 121   0 346 241 163 0 0 1 Person1 SingleGaze single  O1
+17 336 282 434 352 164 0 0 1 Object1        NaN    NaN NaN
+ 6 115   0 340 241 164 0 0 1 Person1 SingleGaze single  O1
+17 333 281 431 352 165 0 0 1 Object1        NaN    NaN NaN
+ 6 110   0 335 241 165 0 0 1 Person1 SingleGaze single  O1
+17 329 280 427 351 166 0 0 1 Object1        NaN    NaN NaN
+ 6 104   0 329 241 166 0 0 1 Person1 SingleGaze single  O1
+17 325 280 423 351 167 0 0 1 Object1        NaN    NaN NaN
+ 6  99   0 324 241 167 0 0 1 Person1 SingleGaze single  O1
+17 321 279 419 351 168 0 0 1 Object1        NaN    NaN NaN
+ 6  93   0 318 241 168 0 0 1 Person1 SingleGaze single  O1
+17 317 278 415 351 169 0 0 1 Object1        NaN    NaN NaN
+18 545 116 630 205 169 0 0 0 Object2        NaN    NaN NaN
+ 6  88   0 313 242 169 0 0 0 Person1 SingleGaze single  O1
+17 313 277 411 351 170 0 0 1 Object1        NaN    NaN NaN
+18 538 116 623 205 170 0 0 1 Object2        NaN    NaN NaN
+ 6  79   0 304 235 170 0 0 1 Person1 SingleGaze single  O1
+17 309 277 407 351 171 0 0 1 Object1        NaN    NaN NaN
+18 532 116 617 205 171 0 0 1 Object2        NaN    NaN NaN
+ 6  71   0 296 228 171 0 0 1 Person1 SingleGaze single  O1
+17 305 276 403 351 172 0 0 1 Object1        NaN    NaN NaN
+18 525 116 610 205 172 0 0 1 Object2        NaN    NaN NaN
+ 6  63   0 288 221 172 0 0 1 Person1 SingleGaze single  O1
+17 301 275 399 351 173 0 0 1 Object1        NaN    NaN NaN
+18 519 116 604 205 173 0 0 1 Object2        NaN    NaN NaN
+ 6  55   0 280 214 173 0 0 0 Person1 SingleGaze single  O1
+17 297 274 395 351 174 0 0 1 Object1        NaN    NaN NaN
+18 512 116 597 205 174 0 0 1 Object2        NaN    NaN NaN
+ 6  49   0 274 214 174 0 0 1 Person1 SingleGaze single  O1
+17 294 274 392 351 175 0 0 0 Object1        NaN    NaN NaN
+18 506 116 591 205 175 0 0 1 Object2        NaN    NaN NaN
+ 6  43   0 268 214 175 0 0 1 Person1 SingleGaze single  O1
+17 289 271 388 351 176 0 0 1 Object1        NaN    NaN NaN
+18 499 116 584 205 176 0 0 1 Object2        NaN    NaN NaN
+ 6  37   0 262 214 176 0 0 1 Person1 SingleGaze single  O1
+17 284 268 384 351 177 0 0 1 Object1        NaN    NaN NaN
+18 493 116 578 205 177 0 0 1 Object2        NaN    NaN NaN
+ 6  31   0 256 214 177 0 0 1 Person1 SingleGaze single  O1
+17 279 266 380 351 178 0 0 1 Object1        NaN    NaN NaN
+18 487 116 572 205 178 0 0 0 Object2        NaN    NaN NaN
+ 6  26   0 251 214 178 0 0 1 Person1 SingleGaze single  O1
+17 274 263 376 351 179 0 0 1 Object1        NaN    NaN NaN
+18 481 113 568 204 179 0 0 1 Object2        NaN    NaN NaN
+ 6  20   0 245 214 179 0 0 1 Person1 SingleGaze single  O1
+17 269 260 372 351 180 0 0 1 Object1        NaN    NaN NaN
+18 475 111 564 204 180 0 0 1 Object2        NaN    NaN NaN
+ 6  14   0 239 214 180 0 0 1 Person1 SingleGaze single  O1
+17 264 258 368 352 181 0 0 1 Object1        NaN    NaN NaN
+18 469 108 560 203 181 0 0 1 Object2        NaN    NaN NaN
+ 6   8   0 233 214 181 0 0 1 Person1 SingleGaze single  O1
+17 259 255 364 352 182 0 0 1 Object1        NaN    NaN NaN
+18 463 106 557 203 182 0 0 1 Object2        NaN    NaN NaN
+ 6   3   0 228 214 182 0 0 0 Person1 SingleGaze single  O1
+17 254 252 360 352 183 0 0 1 Object1        NaN    NaN NaN
+18 457 103 553 202 183 0 0 1 Object2        NaN    NaN NaN
+ 6   2   0 224 210 183 0 0 1 Person1 SingleGaze single  O1
+17 249 250 356 352 184 0 0 1 Object1        NaN    NaN NaN
+18 451 101 549 202 184 0 0 1 Object2        NaN    NaN NaN
+ 6   2   0 220 207 184 0 0 1 Person1 SingleGaze single  O1
+17 244 247 352 352 185 0 0 1 Object1        NaN    NaN NaN
+18 445  98 545 201 185 0 0 1 Object2        NaN    NaN NaN
+ 6   1   0 216 204 185 0 0 1 Person1 SingleGaze single  O1
+17 239 244 348 352 186 0 0 1 Object1        NaN    NaN NaN
+18 439  96 542 201 186 0 0 0 Object2        NaN    NaN NaN
+ 6   1   0 212 201 186 0 0 1 Person1 SingleGaze single  O1
+17 235 242 345 353 187 0 0 0 Object1        NaN    NaN NaN
+18 436  92 539 197 187 0 0 1 Object2        NaN    NaN NaN
+ 6   1   0 208 197 187 0 0 1 Person1 SingleGaze single  O1
+17 233 237 343 348 188 0 0 1 Object1        NaN    NaN NaN
+18 433  89 536 194 188 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 204 194 188 0 0 1 Person1 SingleGaze single  O1
+17 232 233 342 344 189 0 0 1 Object1        NaN    NaN NaN
+18 431  85 534 190 189 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 200 191 189 0 0 1 Person1 SingleGaze single  O1
+17 231 229 341 340 190 0 0 1 Object1        NaN    NaN NaN
+18 428  82 531 187 190 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 197 188 190 0 0 0 Person1 SingleGaze single  O1
+17 230 224 340 335 191 0 0 1 Object1        NaN    NaN NaN
+18 425  78 528 183 191 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 194 186 191 0 0 1 Person1 SingleGaze single  O1
+17 229 220 339 331 192 0 0 1 Object1        NaN    NaN NaN
+18 423  75 526 180 192 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 191 185 192 0 0 1 Person1 SingleGaze single  O1
+17 228 216 338 327 193 0 0 1 Object1        NaN    NaN NaN
+18 420  71 523 176 193 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 188 184 193 0 0 1 Person1 SingleGaze single  O1
+17 227 212 337 323 194 0 0 1 Object1        NaN    NaN NaN
+18 418  68 521 173 194 0 0 0 Object2        NaN    NaN NaN
+ 6   0   0 185 183 194 0 0 1 Person1 SingleGaze single  O1
+17 226 207 336 318 195 0 0 1 Object1        NaN    NaN NaN
+18 415  67 518 172 195 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 182 182 195 0 0 1 Person1 SingleGaze single  O1
+17 225 203 335 314 196 0 0 1 Object1        NaN    NaN NaN
+18 412  66 515 171 196 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 179 181 196 0 0 1 Person1 SingleGaze single  O1
+17 224 199 334 310 197 0 0 1 Object1        NaN    NaN NaN
+18 410  66 513 171 197 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 176 180 197 0 0 1 Person1 SingleGaze single  O1
+17 223 194 333 305 198 0 0 1 Object1        NaN    NaN NaN
+18 407  65 510 170 198 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 173 179 198 0 0 1 Person1 SingleGaze single  O1
+17 222 190 332 301 199 0 0 1 Object1        NaN    NaN NaN
+18 404  65 507 170 199 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 170 178 199 0 0 1 Person1 SingleGaze single  O1
+17 221 186 331 297 200 0 0 1 Object1        NaN    NaN NaN
+18 402  64 505 169 200 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 167 177 200 0 0 1 Person1 SingleGaze single  O1
+17 220 182 330 293 201 0 0 0 Object1        NaN    NaN NaN
+18 399  63 502 168 201 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 164 176 201 0 0 1 Person1 SingleGaze single  O1
+17 215 184 325 295 202 0 0 1 Object1        NaN    NaN NaN
+18 396  63 499 168 202 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 161 175 202 0 0 1 Person1 SingleGaze single  O1
+17 211 186 321 297 203 0 0 1 Object1        NaN    NaN NaN
+18 394  62 497 167 203 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 158 174 203 0 0 1 Person1 SingleGaze single  O1
+17 206 188 316 299 204 0 0 1 Object1        NaN    NaN NaN
+18 391  62 494 167 204 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 155 173 204 0 0 1 Person1 SingleGaze single  O1
+17 202 190 312 301 205 0 0 1 Object1        NaN    NaN NaN
+18 388  61 491 166 205 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 152 172 205 0 0 1 Person1 SingleGaze single  O1
+17 198 192 308 303 206 0 0 1 Object1        NaN    NaN NaN
+18 386  61 489 166 206 0 0 0 Object2        NaN    NaN NaN
+ 6   0   0 149 171 206 0 0 1 Person1 SingleGaze single  O1
+17 193 194 303 305 207 0 0 1 Object1        NaN    NaN NaN
+18 384  60 487 165 207 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 147 170 207 0 0 0 Person1 SingleGaze single  O1
+17 189 196 299 307 208 0 0 1 Object1        NaN    NaN NaN
+18 382  60 485 165 208 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 144 170 208 0 0 1 Person1 SingleGaze single  O1
+17 185 199 295 310 209 0 0 0 Object1        NaN    NaN NaN
+18 380  60 483 165 209 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 142 170 209 0 0 1 Person1 SingleGaze single  O1
+17 183 199 293 310 210 0 0 1 Object1        NaN    NaN NaN
+18 378  60 481 165 210 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 140 170 210 0 0 1 Person1 SingleGaze single  O1
+17 181 200 291 311 211 0 0 1 Object1        NaN    NaN NaN
+18 377  60 480 165 211 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 138 170 211 0 0 1 Person1 SingleGaze single  O1
+17 179 200 289 311 212 0 0 1 Object1        NaN    NaN NaN
+18 375  60 478 165 212 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 136 170 212 0 0 1 Person1 SingleGaze single  O1
+17 177 201 287 312 213 0 0 1 Object1        NaN    NaN NaN
+18 373  59 476 164 213 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 133 170 213 0 0 1 Person1 SingleGaze single  O1
+17 175 201 285 312 214 0 0 1 Object1        NaN    NaN NaN
+18 371  59 474 164 214 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 131 170 214 0 0 1 Person1 SingleGaze single  O1
+17 173 202 283 313 215 0 0 1 Object1        NaN    NaN NaN
+18 369  59 472 164 215 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 129 170 215 0 0 1 Person1 SingleGaze single  O1
+17 171 202 281 313 216 0 0 1 Object1        NaN    NaN NaN
+18 368  59 471 164 216 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 127 170 216 0 0 1 Person1 SingleGaze single  O1
+17 169 203 279 314 217 0 0 1 Object1        NaN    NaN NaN
+18 366  59 469 164 217 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 125 170 217 0 0 1 Person1 SingleGaze single  O1
+17 167 203 277 314 218 0 0 1 Object1        NaN    NaN NaN
+18 364  59 467 164 218 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 122 170 218 0 0 1 Person1 SingleGaze single  O1
+17 165 204 275 315 219 0 0 1 Object1        NaN    NaN NaN
+18 362  59 465 164 219 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 120 170 219 0 0 1 Person1 SingleGaze single  O1
+17 163 204 273 315 220 0 0 1 Object1        NaN    NaN NaN
+18 360  58 463 163 220 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 118 170 220 0 0 1 Person1 SingleGaze single  O1
+17 161 205 271 316 221 0 0 1 Object1        NaN    NaN NaN
+18 359  58 462 163 221 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 116 170 221 0 0 1 Person1 SingleGaze single  O1
+17 160 206 270 317 222 0 0 0 Object1        NaN    NaN NaN
+18 357  58 460 163 222 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 114 170 222 0 0 1 Person1 SingleGaze single  O1
+17 157 203 267 314 223 0 0 1 Object1        NaN    NaN NaN
+18 355  58 458 163 223 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 112 170 223 0 0 0 Person1 SingleGaze single  O1
+17 155 200 265 311 224 0 0 1 Object1        NaN    NaN NaN
+18 353  58 456 163 224 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 111 170 224 0 0 1 Person1 SingleGaze single  O1
+17 153 197 263 308 225 0 0 1 Object1        NaN    NaN NaN
+18 351  58 454 163 225 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 110 170 225 0 0 1 Person1 SingleGaze single  O1
+17 150 195 260 306 226 0 0 1 Object1        NaN    NaN NaN
+18 350  58 453 163 226 0 0 0 Object2        NaN    NaN NaN
+ 6   0   0 109 170 226 0 0 1 Person1 SingleGaze single  O1
+17 148 192 258 303 227 0 0 1 Object1        NaN    NaN NaN
+18 348  59 451 164 227 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 108 170 227 0 0 1 Person1 SingleGaze single  O1
+17 146 189 256 300 228 0 0 1 Object1        NaN    NaN NaN
+18 346  60 449 165 228 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 107 170 228 0 0 1 Person1 SingleGaze single  O1
+17 144 187 254 298 229 0 0 0 Object1        NaN    NaN NaN
+18 344  62 447 167 229 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 107 170 229 0 0 0 Person1 SingleGaze single  O1
+17 139 187 249 298 230 0 0 1 Object1        NaN    NaN NaN
+18 342  63 445 168 230 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 106 170 230 0 0 1 Person1 SingleGaze single  O1
+17 134 188 244 299 231 0 0 1 Object1        NaN    NaN NaN
+18 340  65 443 170 231 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 105 170 231 0 0 1 Person1 SingleGaze single  O1
+17 129 189 239 300 232 0 0 1 Object1        NaN    NaN NaN
+18 338  66 441 171 232 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 104 170 232 0 0 1 Person1 SingleGaze single  O1
+17 125 190 235 301 233 0 0 1 Object1        NaN    NaN NaN
+18 337  68 440 173 233 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 103 170 233 0 0 1 Person1 SingleGaze single  O1
+17 120 191 230 302 234 0 0 1 Object1        NaN    NaN NaN
+18 335  69 438 174 234 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 102 170 234 0 0 1 Person1 SingleGaze single  O1
+17 115 191 225 302 235 0 0 1 Object1        NaN    NaN NaN
+18 333  70 436 175 235 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 101 170 235 0 0 1 Person1 SingleGaze single  O1
+17 110 192 220 303 236 0 0 1 Object1        NaN    NaN NaN
+18 331  72 434 177 236 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0 100 170 236 0 0 1 Person1 SingleGaze single  O1
+17 106 193 216 304 237 0 0 1 Object1        NaN    NaN NaN
+18 329  73 432 178 237 0 0 1 Object2        NaN    NaN NaN
+ 6   0   0  99 170 237 0 0 1 Person1 SingleGaze single  O1
+17 101 194 211 305 238 0 0 1 Object1        NaN    NaN NaN
+18 327  75 430 180 238 0 0 1 Object2        NaN    NaN NaN
+17  96 195 206 306 239 0 0 1 Object1        NaN    NaN NaN
+18 325  76 428 181 239 0 0 1 Object2        NaN    NaN NaN
+17  92 196 202 307 240 0 0 0 Object1        NaN    NaN NaN
+18 324  78 427 183 240 0 0 0 Object2        NaN    NaN NaN
+17  88 200 198 309 241 0 0 1 Object1        NaN    NaN NaN
+18 318  80 421 185 241 0 0 1 Object2        NaN    NaN NaN
+17  85 205 195 312 242 0 0 1 Object1        NaN    NaN NaN
+18 313  82 416 187 242 0 0 1 Object2        NaN    NaN NaN
+17  81 209 191 314 243 0 0 1 Object1        NaN    NaN NaN
+18 308  85 411 190 243 0 0 1 Object2        NaN    NaN NaN
+17  78 214 188 317 244 0 0 1 Object1        NaN    NaN NaN
+18 303  87 406 192 244 0 0 1 Object2        NaN    NaN NaN
+17  74 218 184 319 245 0 0 1 Object1        NaN    NaN NaN
+18 298  89 401 194 245 0 0 1 Object2        NaN    NaN NaN
+17  71 223 181 322 246 0 0 1 Object1        NaN    NaN NaN
+18 293  92 396 197 246 0 0 1 Object2        NaN    NaN NaN
+17  67 227 177 324 247 0 0 1 Object1        NaN    NaN NaN
+18 287  94 390 199 247 0 0 1 Object2        NaN    NaN NaN
+17  64 232 174 327 248 0 0 1 Object1        NaN    NaN NaN
+18 282  96 385 201 248 0 0 1 Object2        NaN    NaN NaN
+ 7 442   1 639 133 248 0 0 0 Person2 SingleGaze single  O2
+17  60 236 170 329 249 0 0 1 Object1        NaN    NaN NaN
+18 277  99 380 204 249 0 0 1 Object2        NaN    NaN NaN
+ 7 438   0 635 136 249 0 0 1 Person2 SingleGaze single  O2
+17  57 241 167 332 250 0 0 1 Object1        NaN    NaN NaN
+18 272 101 375 206 250 0 0 1 Object2        NaN    NaN NaN
+ 7 434   0 631 139 250 0 0 1 Person2 SingleGaze single  O2
+17  54 245 164 335 251 0 0 1 Object1        NaN    NaN NaN
+18 267 103 370 208 251 0 0 1 Object2        NaN    NaN NaN
+ 7 430   0 627 142 251 0 0 1 Person2 SingleGaze single  O2
+17  50 250 160 337 252 0 0 1 Object1        NaN    NaN NaN
+18 262 106 365 211 252 0 0 0 Object2        NaN    NaN NaN
+ 7 426   0 623 145 252 0 0 1 Person2 SingleGaze single  O2
+17  47 254 157 340 253 0 0 1 Object1        NaN    NaN NaN
+18 257 108 360 213 253 0 0 1 Object2        NaN    NaN NaN
+ 7 422   0 619 148 253 0 0 1 Person2 SingleGaze single  O2
+17  43 259 153 342 254 0 0 1 Object1        NaN    NaN NaN
+18 252 110 355 215 254 0 0 1 Object2        NaN    NaN NaN
+ 7 419   0 616 151 254 0 0 1 Person2 SingleGaze single  O2
+17  40 263 150 345 255 0 0 1 Object1        NaN    NaN NaN
+18 248 113 351 218 255 0 0 1 Object2        NaN    NaN NaN
+ 7 415   0 612 154 255 0 0 1 Person2 SingleGaze single  O2
+17  36 268 146 347 256 0 0 1 Object1        NaN    NaN NaN
+18 243 115 346 220 256 0 0 1 Object2        NaN    NaN NaN
+ 7 411   0 608 157 256 0 0 1 Person2 SingleGaze single  O2
+17  33 272 143 350 257 0 0 1 Object1        NaN    NaN NaN
+18 238 118 341 223 257 0 0 1 Object2        NaN    NaN NaN
+ 7 407   0 604 160 257 0 0 1 Person2 SingleGaze single  O2
+17  29 277 139 352 258 0 0 1 Object1        NaN    NaN NaN
+18 234 120 337 225 258 0 0 1 Object2        NaN    NaN NaN
+ 7 403   0 600 163 258 0 0 1 Person2 SingleGaze single  O2
+17  26 281 136 355 259 0 0 1 Object1        NaN    NaN NaN
+18 229 123 332 228 259 0 0 1 Object2        NaN    NaN NaN
+ 7 400   0 597 167 259 0 0 0 Person2 SingleGaze single  O2
+17  23 286 133 358 260 0 0 0 Object1        NaN    NaN NaN
+18 224 125 327 230 260 0 0 1 Object2        NaN    NaN NaN
+ 7 396   0 593 168 260 0 0 1 Person2 SingleGaze single  O2
+17  22 288 132 358 261 0 0 1 Object1        NaN    NaN NaN
+18 220 128 323 233 261 0 0 1 Object2        NaN    NaN NaN
+ 7 392   0 589 170 261 0 0 1 Person2 SingleGaze single  O2
+17  21 290 131 358 262 0 0 1 Object1        NaN    NaN NaN
+18 215 130 318 235 262 0 0 1 Object2        NaN    NaN NaN
+ 7 389   0 586 172 262 0 0 1 Person2 SingleGaze single  O2
+17  20 292 130 358 263 0 0 0 Object1        NaN    NaN NaN
+18 211 133 314 238 263 0 0 0 Object2        NaN    NaN NaN
+ 7 385   0 582 174 263 0 0 1 Person2 SingleGaze single  O2
+17  18 291 128 357 264 0 0 1 Object1        NaN    NaN NaN
+18 208 135 311 240 264 0 0 1 Object2        NaN    NaN NaN
+ 7 381   0 578 176 264 0 0 1 Person2 SingleGaze single  O2
+17  17 291 126 357 265 0 0 1 Object1        NaN    NaN NaN
+18 206 137 309 242 265 0 0 1 Object2        NaN    NaN NaN
+ 7 378   0 575 178 265 0 0 1 Person2 SingleGaze single  O2
+17  15 291 125 357 266 0 0 1 Object1        NaN    NaN NaN
+18 204 139 307 244 266 0 0 1 Object2        NaN    NaN NaN
+ 7 374   0 571 180 266 0 0 1 Person2 SingleGaze single  O2
+17  14 291 123 357 267 0 0 1 Object1        NaN    NaN NaN
+18 201 141 304 246 267 0 0 1 Object2        NaN    NaN NaN
+ 7 370   0 567 182 267 0 0 1 Person2 SingleGaze single  O2
+18 199 143 302 248 268 0 0 1 Object2        NaN    NaN NaN
+ 7 367   0 564 184 268 0 0 1 Person2 SingleGaze single  O2
+18 197 145 300 250 269 0 0 1 Object2        NaN    NaN NaN
+ 7 363   0 560 186 269 0 0 1 Person2 SingleGaze single  O2
+18 194 147 297 252 270 0 0 1 Object2        NaN    NaN NaN
+ 7 359   0 556 188 270 0 0 1 Person2 SingleGaze single  O2
+18 192 149 295 254 271 0 0 1 Object2        NaN    NaN NaN
+ 7 356   0 553 190 271 0 0 0 Person2 SingleGaze single  O2
+18 190 151 293 256 272 0 0 1 Object2        NaN    NaN NaN
+ 7 355   0 552 192 272 0 0 1 Person2 SingleGaze single  O2
+18 187 153 290 258 273 0 0 1 Object2        NaN    NaN NaN
+ 7 354   0 551 194 273 0 0 1 Person2 SingleGaze single  O2
+18 185 155 288 260 274 0 0 1 Object2        NaN    NaN NaN
+ 7 353   0 550 196 274 0 0 1 Person2 SingleGaze single  O2
+18 183 157 286 262 275 0 0 0 Object2        NaN    NaN NaN
+ 7 353   0 550 198 275 0 0 1 Person2 SingleGaze single  O2
+18 181 160 284 265 276 0 0 1 Object2        NaN    NaN NaN
+ 7 352   0 549 200 276 0 0 1 Person2 SingleGaze single  O2
+18 180 163 283 268 277 0 0 1 Object2        NaN    NaN NaN
+ 7 351   0 548 202 277 0 0 1 Person2 SingleGaze single  O2
+18 179 167 282 272 278 0 0 1 Object2        NaN    NaN NaN
+ 7 350   0 547 204 278 0 0 1 Person2 SingleGaze single  O2
+18 178 170 281 275 279 0 0 1 Object2        NaN    NaN NaN
+ 7 350   0 547 206 279 0 0 1 Person2 SingleGaze single  O2
+18 177 174 280 279 280 0 0 1 Object2        NaN    NaN NaN
+ 7 349   0 546 208 280 0 0 1 Person2 SingleGaze single  O2
+18 176 177 279 282 281 0 0 1 Object2        NaN    NaN NaN
+ 7 348   0 545 210 281 0 0 1 Person2 SingleGaze single  O2
+18 175 181 278 286 282 0 0 1 Object2        NaN    NaN NaN
+ 7 348   0 545 212 282 0 0 1 Person2 SingleGaze single  O2
+18 174 184 277 289 283 0 0 1 Object2        NaN    NaN NaN
+ 7 347   0 544 214 283 0 0 1 Person2 SingleGaze single  O2
+18 173 188 276 293 284 0 0 1 Object2        NaN    NaN NaN
+ 7 346   0 543 216 284 0 0 1 Person2 SingleGaze single  O2
+18 171 191 274 296 285 0 0 1 Object2        NaN    NaN NaN
+ 7 345   0 542 218 285 0 0 1 Person2 SingleGaze single  O2
+18 170 194 273 299 286 0 0 1 Object2        NaN    NaN NaN
+ 7 345   0 542 220 286 0 0 1 Person2 SingleGaze single  O2
+18 169 198 272 303 287 0 0 1 Object2        NaN    NaN NaN
+ 7 344   0 541 222 287 0 0 1 Person2 SingleGaze single  O2
+18 168 201 271 306 288 0 0 1 Object2        NaN    NaN NaN
+ 7 343   0 540 224 288 0 0 1 Person2 SingleGaze single  O2
+18 167 205 270 310 289 0 0 1 Object2        NaN    NaN NaN
+ 7 342   0 539 226 289 0 0 1 Person2 SingleGaze single  O2
+18 166 208 269 313 290 0 0 1 Object2        NaN    NaN NaN
+ 7 342   0 539 228 290 0 0 1 Person2 SingleGaze single  O2
+18 165 212 268 317 291 0 0 1 Object2        NaN    NaN NaN
+ 7 341   0 538 230 291 0 0 1 Person2 SingleGaze single  O2
+18 164 215 267 320 292 0 0 1 Object2        NaN    NaN NaN
+ 7 340   0 537 232 292 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 293 0 0 0 Object2        NaN    NaN NaN
+ 7 340   0 537 234 293 0 0 0 Person2 SingleGaze single  O2
+18 163 219 266 324 294 0 0 1 Object2        NaN    NaN NaN
+ 7 340   0 537 234 294 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 295 0 0 1 Object2        NaN    NaN NaN
+ 7 340   0 537 234 295 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 296 0 0 1 Object2        NaN    NaN NaN
+ 7 341   0 538 234 296 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 297 0 0 1 Object2        NaN    NaN NaN
+ 7 341   0 538 234 297 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 298 0 0 1 Object2        NaN    NaN NaN
+ 7 342   0 539 234 298 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 299 0 0 1 Object2        NaN    NaN NaN
+ 7 342   0 539 234 299 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 300 0 0 1 Object2        NaN    NaN NaN
+ 7 342   0 539 234 300 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 301 0 0 1 Object2        NaN    NaN NaN
+ 7 343   0 540 234 301 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 302 0 0 1 Object2        NaN    NaN NaN
+ 7 343   0 540 234 302 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 303 0 0 1 Object2        NaN    NaN NaN
+ 7 344   0 541 234 303 0 0 1 Person2 SingleGaze single  O2
+18 163 219 266 324 304 0 0 1 Object2        NaN    NaN NaN
+ 7 344   0 541 234 304 0 0 1 Person2 SingleGaze single  O2
+19 416 269 562 356 306 0 0 0 Object1        NaN    NaN NaN
+ 8 111   0 408 261 306 0 0 0 Person1 SingleGaze single  O1
+19 416 268 562 356 307 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 307 0 0 1 Person1 SingleGaze single  O1
+19 416 267 562 356 308 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 308 0 0 1 Person1 SingleGaze single  O1
+19 416 267 562 356 309 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 309 0 0 1 Person1 SingleGaze single  O1
+19 416 266 562 356 310 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 310 0 0 1 Person1 SingleGaze single  O1
+19 416 266 562 356 311 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 311 0 0 1 Person1 SingleGaze single  O1
+19 416 265 562 356 312 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 312 0 0 1 Person1 SingleGaze single  O1
+19 416 265 562 356 313 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 313 0 0 1 Person1 SingleGaze single  O1
+19 416 264 562 356 314 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 314 0 0 1 Person1 SingleGaze single  O1
+19 416 264 562 356 315 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 315 0 0 1 Person1 SingleGaze single  O1
+19 416 263 562 356 316 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 316 0 0 1 Person1 SingleGaze single  O1
+19 416 263 562 356 317 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 317 0 0 1 Person1 SingleGaze single  O1
+19 416 262 562 356 318 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 318 0 0 1 Person1 SingleGaze single  O1
+19 416 262 562 356 319 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 319 0 0 1 Person1 SingleGaze single  O1
+19 416 261 562 356 320 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 320 0 0 1 Person1 SingleGaze single  O1
+19 416 261 562 356 321 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 321 0 0 1 Person1 SingleGaze single  O1
+19 416 260 562 356 322 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 322 0 0 1 Person1 SingleGaze single  O1
+19 416 260 562 356 323 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 323 0 0 1 Person1 SingleGaze single  O1
+19 416 259 562 356 324 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 324 0 0 1 Person1 SingleGaze single  O1
+19 416 259 562 356 325 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 325 0 0 1 Person1 SingleGaze single  O1
+19 416 258 562 356 326 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 326 0 0 1 Person1 SingleGaze single  O1
+19 416 258 562 356 327 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 327 0 0 1 Person1 SingleGaze single  O1
+19 416 257 562 356 328 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 328 0 0 1 Person1 SingleGaze single  O1
+19 416 257 562 356 329 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 329 0 0 1 Person1 SingleGaze single  O1
+19 416 256 562 356 330 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 330 0 0 1 Person1 SingleGaze single  O1
+19 416 256 562 356 331 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 331 0 0 1 Person1 SingleGaze single  O1
+19 416 255 562 356 332 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 332 0 0 1 Person1 SingleGaze single  O1
+19 416 255 562 356 333 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 333 0 0 1 Person1 SingleGaze single  O1
+19 416 254 562 356 334 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 334 0 0 1 Person1 SingleGaze single  O1
+19 416 254 562 356 335 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 335 0 0 1 Person1 SingleGaze single  O1
+19 416 253 562 356 336 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 336 0 0 1 Person1 SingleGaze single  O1
+19 416 253 562 356 337 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 337 0 0 1 Person1 SingleGaze single  O1
+19 416 252 562 356 338 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 338 0 0 1 Person1 SingleGaze single  O1
+19 416 252 562 356 339 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 339 0 0 1 Person1 SingleGaze single  O1
+19 416 251 562 356 340 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 340 0 0 1 Person1 SingleGaze single  O1
+19 416 251 562 356 341 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 341 0 0 1 Person1 SingleGaze single  O1
+19 416 250 562 356 342 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 342 0 0 1 Person1 SingleGaze single  O1
+19 416 250 562 356 343 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 343 0 0 1 Person1 SingleGaze single  O1
+19 416 249 562 356 344 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 344 0 0 1 Person1 SingleGaze single  O1
+19 416 249 562 356 345 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 345 0 0 1 Person1 SingleGaze single  O1
+19 416 248 562 356 346 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 346 0 0 1 Person1 SingleGaze single  O1
+19 416 248 562 356 347 0 0 0 Object1        NaN    NaN NaN
+ 8 111   0 408 261 347 0 0 1 Person1 SingleGaze single  O1
+19 414 248 560 356 348 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 348 0 0 1 Person1 SingleGaze single  O1
+19 412 249 558 356 349 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 349 0 0 1 Person1 SingleGaze single  O1
+19 410 250 556 357 350 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 350 0 0 1 Person1 SingleGaze single  O1
+19 408 250 554 357 351 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 351 0 0 1 Person1 SingleGaze single  O1
+19 406 251 552 357 352 0 0 1 Object1        NaN    NaN NaN
+ 8 111   0 408 261 352 0 0 1 Person1 SingleGaze single  O1
+20 192 175 239 225 354 0 0 0 Object1        NaN    NaN NaN
+21 341 208 395 262 354 0 0 0 Object2        NaN    NaN NaN
+ 9 110  70 203 199 354 0 0 0 Person1 SingleGaze single  O1
+10 417  39 513 167 354 0 0 0 Person2 SingleGaze  share  O2
+23 271  25 329 105 354 0 0 0 Person3   JointAtt  share  O2
+24 207  74 267 159 354 0 0 0 Person4   JointAtt  share  O2
+25 394   7 464 105 354 0 0 0 Person5   JointAtt  share  O2
+20 192 175 239 225 355 0 0 1 Object1        NaN    NaN NaN
+21 341 207 395 261 355 0 0 1 Object2        NaN    NaN NaN
+ 9 110  70 203 199 355 0 0 1 Person1 SingleGaze single  O1
+10 417  38 513 166 355 0 0 1 Person2 SingleGaze  share  O2
+23 272  28 330 108 355 0 0 1 Person3   JointAtt  share  O2
+24 208  73 268 158 355 0 0 1 Person4   JointAtt  share  O2
+25 393   6 463 104 355 0 0 1 Person5   JointAtt  share  O2
+20 192 175 239 225 356 0 0 1 Object1        NaN    NaN NaN
+21 341 207 395 261 356 0 0 1 Object2        NaN    NaN NaN
+ 9 111  70 204 199 356 0 0 1 Person1 SingleGaze single  O1
+10 418  38 514 166 356 0 0 1 Person2 SingleGaze  share  O2
+23 273  31 331 111 356 0 0 1 Person3   JointAtt  share  O2
+24 210  72 270 157 356 0 0 1 Person4   JointAtt  share  O2
+25 393   6 463 104 356 0 0 1 Person5   JointAtt  share  O2
+20 193 176 240 226 357 0 0 1 Object1        NaN    NaN NaN
+21 342 207 396 261 357 0 0 1 Object2        NaN    NaN NaN
+ 9 111  70 204 199 357 0 0 1 Person1 SingleGaze single  O1
+10 418  38 514 166 357 0 0 1 Person2 SingleGaze  share  O2
+23 274  35 332 115 357 0 0 0 Person3   JointAtt  share  O2
+24 212  71 272 156 357 0 0 1 Person4   JointAtt single NaN
+25 392   6 462 104 357 0 0 1 Person5   JointAtt  share  O2
+20 193 176 240 226 358 0 0 1 Object1        NaN    NaN NaN
+21 342 207 396 261 358 0 0 1 Object2        NaN    NaN NaN
+ 9 112  70 205 199 358 0 0 1 Person1 SingleGaze single  O1
+10 419  38 515 166 358 0 0 1 Person2 SingleGaze  share  O2
+23 273  39 331 119 358 0 0 1 Person3   JointAtt  share  O2
+24 213  70 273 155 358 0 0 1 Person4   JointAtt single NaN
+25 392   5 462 103 358 0 0 1 Person5   JointAtt  share  O2
+20 194 177 241 227 359 0 0 1 Object1        NaN    NaN NaN
+21 342 206 396 260 359 0 0 1 Object2        NaN    NaN NaN
+ 9 113  70 206 199 359 0 0 1 Person1 SingleGaze single  O1
+10 419  38 515 166 359 0 0 1 Person2 SingleGaze  share  O2
+23 273  43 331 123 359 0 0 1 Person3   JointAtt  share  O2
+24 215  69 275 154 359 0 0 1 Person4   JointAtt single NaN
+25 392   5 462 103 359 0 0 1 Person5   JointAtt  share  O2
+20 194 177 241 227 360 0 0 1 Object1        NaN    NaN NaN
+21 343 206 397 260 360 0 0 1 Object2        NaN    NaN NaN
+ 9 113  70 206 199 360 0 0 1 Person1 SingleGaze single  O1
+10 420  38 516 166 360 0 0 1 Person2 SingleGaze  share  O2
+23 273  48 331 128 360 0 0 0 Person3   JointAtt  share  O2
+24 217  69 277 154 360 0 0 0 Person4   JointAtt single NaN
+25 391   5 461 103 360 0 0 1 Person5   JointAtt  share  O2
+20 195 177 242 227 361 0 0 1 Object1        NaN    NaN NaN
+21 343 206 397 260 361 0 0 1 Object2        NaN    NaN NaN
+ 9 114  71 207 200 361 0 0 1 Person1 SingleGaze single  O1
+10 420  37 516 165 361 0 0 1 Person2 SingleGaze  share  O2
+23 274  53 332 133 361 0 0 1 Person3   JointAtt  share  O2
+24 220  65 280 150 361 0 0 1 Person4   JointAtt single NaN
+25 391   4 461 102 361 0 0 1 Person5   JointAtt  share  O2
+20 195 178 242 228 362 0 0 1 Object1        NaN    NaN NaN
+21 344 206 398 260 362 0 0 1 Object2        NaN    NaN NaN
+ 9 115  71 208 200 362 0 0 1 Person1 SingleGaze single  O1
+10 421  37 517 165 362 0 0 1 Person2 SingleGaze  share  O2
+23 276  58 334 138 362 0 0 1 Person3   JointAtt  share  O2
+24 223  61 283 146 362 0 0 1 Person4   JointAtt single NaN
+25 390   4 460 102 362 0 0 1 Person5   JointAtt  share  O2
+20 196 178 243 228 363 0 0 1 Object1        NaN    NaN NaN
+21 344 205 398 259 363 0 0 1 Object2        NaN    NaN NaN
+ 9 115  71 208 200 363 0 0 1 Person1 SingleGaze single  O1
+10 421  37 517 165 363 0 0 1 Person2 SingleGaze  share  O2
+23 278  63 336 143 363 0 0 0 Person3   JointAtt  share  O2
+24 226  58 286 143 363 0 0 0 Person4   JointAtt single  P3
+25 390   4 460 102 363 0 0 1 Person5   JointAtt  share  O2
+20 196 179 243 229 364 0 0 1 Object1        NaN    NaN NaN
+21 344 205 398 259 364 0 0 1 Object2        NaN    NaN NaN
+ 9 116  71 209 200 364 0 0 1 Person1 SingleGaze single  O1
+10 422  37 518 165 364 0 0 1 Person2 SingleGaze  share  O2
+23 278  66 336 146 364 0 0 1 Person3   JointAtt  share  O2
+24 222  56 286 141 364 0 0 1 Person4   JointAtt single  P3
+25 390   3 460 101 364 0 0 1 Person5   JointAtt  share  O2
+20 197 179 244 229 365 0 0 1 Object1        NaN    NaN NaN
+21 345 205 399 259 365 0 0 1 Object2        NaN    NaN NaN
+ 9 116  71 209 200 365 0 0 1 Person1 SingleGaze single  O1
+10 422  37 518 165 365 0 0 1 Person2 SingleGaze  share  O2
+23 278  69 336 149 365 0 0 1 Person3   JointAtt  share  O2
+24 219  55 286 140 365 0 0 1 Person4   JointAtt single  P3
+25 389   3 459 101 365 0 0 1 Person5   JointAtt  share  O2
+20 197 179 244 229 366 0 0 1 Object1        NaN    NaN NaN
+21 345 205 399 259 366 0 0 1 Object2        NaN    NaN NaN
+ 9 117  71 210 200 366 0 0 1 Person1 SingleGaze single  O1
+10 423  37 519 165 366 0 0 1 Person2 SingleGaze  share  O2
+23 279  72 337 152 366 0 0 0 Person3   JointAtt  share  O2
+24 215  54 286 139 366 0 0 1 Person4   JointAtt single  P3
+25 389   3 459 101 366 0 0 1 Person5   JointAtt single NaN
+20 198 180 245 230 367 0 0 1 Object1        NaN    NaN NaN
+21 345 204 399 258 367 0 0 1 Object2        NaN    NaN NaN
+ 9 118  72 211 201 367 0 0 1 Person1 SingleGaze single  O1
+10 423  37 519 165 367 0 0 1 Person2 SingleGaze  share  O2
+23 279  72 337 152 367 0 0 1 Person3   JointAtt  share  O2
+24 212  53 286 138 367 0 0 0 Person4   JointAtt single  P3
+25 388   2 458 100 367 0 0 1 Person5   JointAtt single NaN
+20 198 180 245 230 368 0 0 1 Object1        NaN    NaN NaN
+21 346 204 400 258 368 0 0 1 Object2        NaN    NaN NaN
+ 9 118  72 211 201 368 0 0 1 Person1 SingleGaze single  O1
+10 424  36 520 164 368 0 0 1 Person2 SingleGaze  share  O2
+23 279  73 337 153 368 0 0 1 Person3   JointAtt  share  O2
+24 214  54 288 139 368 0 0 1 Person4   JointAtt single  P3
+25 388   2 458 100 368 0 0 1 Person5   JointAtt single NaN
+20 199 181 246 231 369 0 0 0 Object1        NaN    NaN NaN
+21 346 204 400 258 369 0 0 1 Object2        NaN    NaN NaN
+ 9 119  72 212 201 369 0 0 1 Person1 SingleGaze single  O1
+10 424  36 520 164 369 0 0 1 Person2 SingleGaze  share  O2
+23 279  74 337 154 369 0 0 1 Person3   JointAtt  share  O2
+24 217  55 291 140 369 0 0 1 Person4   JointAtt  share  P3
+25 388   2 458 100 369 0 0 0 Person5   JointAtt  share  P3
+20 199 181 246 231 370 0 0 1 Object1        NaN    NaN NaN
+21 347 204 401 258 370 0 0 0 Object2        NaN    NaN NaN
+ 9 120  72 213 201 370 0 0 1 Person1 SingleGaze single  O1
+10 425  36 521 164 370 0 0 1 Person2 SingleGaze  share  O2
+23 279  75 337 155 370 0 0 0 Person3   JointAtt  share  O2
+24 220  56 294 141 370 0 0 1 Person4   JointAtt  share  P3
+25 390   1 460  99 370 0 0 1 Person5   JointAtt  share  P3
+20 199 182 246 232 371 0 0 1 Object1        NaN    NaN NaN
+21 346 204 400 258 371 0 0 1 Object2        NaN    NaN NaN
+ 9 120  72 213 201 371 0 0 1 Person1 SingleGaze single  O1
+10 425  36 521 164 371 0 0 1 Person2 SingleGaze  share  O2
+23 279  76 337 156 371 0 0 1 Person3   JointAtt  share  O2
+24 223  57 297 142 371 0 0 1 Person4   JointAtt  share  P3
+25 393   1 463  99 371 0 0 1 Person5   JointAtt  share  P3
+20 199 183 246 233 372 0 0 1 Object1        NaN    NaN NaN
+21 346 204 400 258 372 0 0 1 Object2        NaN    NaN NaN
+ 9 121  72 214 201 372 0 0 1 Person1 SingleGaze single  O1
+10 426  36 522 164 372 0 0 1 Person2 SingleGaze  share  O2
+23 280  77 338 157 372 0 0 1 Person3   JointAtt  share  O2
+24 226  58 300 143 372 0 0 1 Person4   JointAtt  share  P3
+25 396   1 466  99 372 0 0 1 Person5   JointAtt  share  P3
+20 200 184 247 234 373 0 0 1 Object1        NaN    NaN NaN
+21 346 204 400 258 373 0 0 1 Object2        NaN    NaN NaN
+ 9 122  73 215 202 373 0 0 0 Person1 SingleGaze single  O1
+10 426  36 522 164 373 0 0 1 Person2 SingleGaze  share  O2
+23 281  79 339 159 373 0 0 0 Person3   JointAtt  share  O2
+24 229  59 303 144 373 0 0 1 Person4   JointAtt  share  P3
+25 399   0 469  98 373 0 0 1 Person5   JointAtt  share  P3
+20 200 185 247 235 374 0 0 1 Object1        NaN    NaN NaN
+21 345 204 399 258 374 0 0 1 Object2        NaN    NaN NaN
+ 9 122  73 215 202 374 0 0 1 Person1 SingleGaze single  O1
+10 427  36 523 164 374 0 0 0 Person2 SingleGaze  share  O2
+23 281  77 339 157 374 0 0 1 Person3   JointAtt  share  O2
+24 232  60 306 145 374 0 0 1 Person4   JointAtt  share  P3
+25 402   0 472  98 374 0 0 1 Person5   JointAtt  share  P3
+20 200 186 247 236 375 0 0 1 Object1        NaN    NaN NaN
+21 345 204 399 258 375 0 0 1 Object2        NaN    NaN NaN
+ 9 122  73 215 202 375 0 0 1 Person1 SingleGaze single  O1
+10 426  36 522 164 375 0 0 1 Person2 SingleGaze  share  O2
+23 281  76 339 156 375 0 0 1 Person3   JointAtt  share  O2
+24 235  61 309 146 375 0 0 0 Person4   JointAtt  share  P3
+25 405   0 475  98 375 0 0 1 Person5   JointAtt  share  P3
+20 201 187 248 237 376 0 0 1 Object1        NaN    NaN NaN
+21 345 204 399 258 376 0 0 1 Object2        NaN    NaN NaN
+ 9 123  73 216 202 376 0 0 1 Person1 SingleGaze single  O1
+10 426  36 522 164 376 0 0 1 Person2 SingleGaze single  P1
+23 281  74 339 154 376 0 0 1 Person3   JointAtt single  O2
+24 235  60 309 145 376 0 0 1 Person4   JointAtt single  P3
+25 408   0 478  98 376 0 0 0 Person5   JointAtt single NaN
+20 201 188 248 238 377 0 0 1 Object1        NaN    NaN NaN
+21 344 204 398 258 377 0 0 1 Object2        NaN    NaN NaN
+ 9 123  73 216 202 377 0 0 1 Person1 SingleGaze single  O1
+10 425  37 521 165 377 0 0 1 Person2 SingleGaze single  P1
+23 281  73 339 153 377 0 0 1 Person3   JointAtt  share  O2
+24 235  60 309 145 377 0 0 1 Person4   JointAtt single  P3
+25 408   0 478  98 377 0 0 1 Person5   JointAtt  share  O2
+20 201 189 248 239 378 0 0 1 Object1        NaN    NaN NaN
+21 344 204 398 258 378 0 0 1 Object2        NaN    NaN NaN
+ 9 124  73 217 202 378 0 0 1 Person1 SingleGaze single  O1
+10 425  37 521 165 378 0 0 1 Person2 SingleGaze single  P1
+23 281  71 339 151 378 0 0 1 Person3   JointAtt  share  O2
+24 235  60 309 145 378 0 0 1 Person4   JointAtt single  P3
+25 408   0 478  98 378 0 0 1 Person5   JointAtt  share  O2
+20 202 189 249 239 379 0 0 1 Object1        NaN    NaN NaN
+21 344 204 398 258 379 0 0 1 Object2        NaN    NaN NaN
+ 9 124  73 217 202 379 0 0 1 Person1 SingleGaze single  O1
+10 425  38 521 166 379 0 0 1 Person2 SingleGaze single  P1
+23 281  70 339 150 379 0 0 1 Person3   JointAtt  share  O2
+24 235  60 309 145 379 0 0 1 Person4   JointAtt single  P3
+25 408   0 478  98 379 0 0 1 Person5   JointAtt  share  O2
+20 202 190 249 240 380 0 0 1 Object1        NaN    NaN NaN
+21 344 204 398 258 380 0 0 1 Object2        NaN    NaN NaN
+ 9 125  73 218 202 380 0 0 1 Person1 SingleGaze single  O1
+10 424  38 520 166 380 0 0 1 Person2 SingleGaze single  P1
+23 281  69 339 149 380 0 0 0 Person3   JointAtt  share  O2
+24 235  60 309 145 380 0 0 1 Person4   JointAtt single  P3
+25 408   1 478  99 380 0 0 1 Person5   JointAtt  share  O2
+20 202 191 249 241 381 0 0 1 Object1        NaN    NaN NaN
+21 343 204 397 258 381 0 0 1 Object2        NaN    NaN NaN
+ 9 125  73 218 202 381 0 0 1 Person1 SingleGaze single  O1
+10 424  39 520 167 381 0 0 1 Person2 SingleGaze single  P1
+23 280  60 338 140 381 0 0 1 Person3   JointAtt  share  O2
+24 235  60 309 145 381 0 0 1 Person4   JointAtt single  P3
+25 408   1 478  99 381 0 0 1 Person5   JointAtt  share  O2
+20 203 192 250 242 382 0 0 1 Object1        NaN    NaN NaN
+21 343 204 397 258 382 0 0 1 Object2        NaN    NaN NaN
+ 9 126  73 219 202 382 0 0 1 Person1 SingleGaze single  O1
+10 423  39 519 167 382 0 0 1 Person2 SingleGaze single  P1
+23 280  52 338 132 382 0 0 1 Person3   JointAtt  share  O2
+24 235  60 309 145 382 0 0 1 Person4   JointAtt single  P3
+25 409   1 479  99 382 0 0 1 Person5   JointAtt  share  O2
+20 203 193 250 243 383 0 0 1 Object1        NaN    NaN NaN
+21 343 204 397 258 383 0 0 1 Object2        NaN    NaN NaN
+ 9 126  73 219 202 383 0 0 1 Person1 SingleGaze single  O1
+10 423  40 519 168 383 0 0 1 Person2 SingleGaze  share  O2
+23 280  44 338 124 383 0 0 0 Person3   JointAtt  share  O2
+24 235  60 309 145 383 0 0 1 Person4   JointAtt single  P3
+25 409   1 479  99 383 0 0 1 Person5   JointAtt  share  O2
+20 203 194 250 244 384 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 384 0 0 1 Object2        NaN    NaN NaN
+ 9 126  73 219 202 384 0 0 1 Person1 SingleGaze single  O1
+10 423  40 519 168 384 0 0 1 Person2 SingleGaze  share  O2
+23 279  38 337 118 384 0 0 1 Person3   JointAtt  share  O2
+24 235  60 309 145 384 0 0 1 Person4   JointAtt single NaN
+25 409   2 479 100 384 0 0 1 Person5   JointAtt  share  O2
+20 204 195 251 245 385 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 385 0 0 1 Object2        NaN    NaN NaN
+ 9 127  73 220 202 385 0 0 1 Person1 SingleGaze single  O1
+10 422  41 518 169 385 0 0 1 Person2 SingleGaze  share  O2
+23 279  32 337 112 385 0 0 1 Person3   JointAtt  share  O2
+24 235  60 309 145 385 0 0 1 Person4   JointAtt single NaN
+25 409   2 479 100 385 0 0 1 Person5   JointAtt  share  O2
+20 204 196 251 246 386 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 386 0 0 1 Object2        NaN    NaN NaN
+ 9 127  73 220 202 386 0 0 1 Person1 SingleGaze single  O1
+10 422  41 518 169 386 0 0 1 Person2 SingleGaze  share  O2
+23 279  26 337 106 386 0 0 0 Person3   JointAtt  share  O2
+24 235  60 309 145 386 0 0 1 Person4   JointAtt single NaN
+25 409   2 479 100 386 0 0 1 Person5   JointAtt  share  O2
+20 204 197 251 247 387 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 387 0 0 0 Object2        NaN    NaN NaN
+ 9 128  73 221 202 387 0 0 1 Person1 SingleGaze  share  O1
+10 422  42 518 170 387 0 0 0 Person2 SingleGaze  share  O2
+23 278  22 336 102 387 0 0 1 Person3   JointAtt  share  O1
+24 235  60 309 145 387 0 0 1 Person4   JointAtt  share  O1
+25 410   2 480 100 387 0 0 1 Person5   JointAtt  share  O2
+20 205 198 252 248 388 0 0 0 Object1        NaN    NaN NaN
+21 342 204 396 258 388 0 0 1 Object2        NaN    NaN NaN
+ 9 128  73 221 202 388 0 0 1 Person1 SingleGaze  share  O1
+10 421  42 517 170 388 0 0 1 Person2 SingleGaze  share  O2
+23 277  19 335  99 388 0 0 1 Person3   JointAtt  share  O1
+24 235  60 309 145 388 0 0 1 Person4   JointAtt  share  O1
+25 410   3 480 101 388 0 0 1 Person5   JointAtt  share  O2
+20 205 198 252 248 389 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 389 0 0 1 Object2        NaN    NaN NaN
+ 9 129  73 222 202 389 0 0 1 Person1 SingleGaze  share  O1
+10 421  42 517 170 389 0 0 1 Person2 SingleGaze  share  O2
+23 276  16 334  96 389 0 0 0 Person3   JointAtt  share  O1
+24 235  60 309 145 389 0 0 0 Person4   JointAtt  share  O1
+25 410   3 480 101 389 0 0 1 Person5   JointAtt  share  O2
+20 205 198 252 248 390 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 390 0 0 1 Object2        NaN    NaN NaN
+ 9 129  73 222 202 390 0 0 1 Person1 SingleGaze  share  O1
+10 420  42 516 170 390 0 0 1 Person2 SingleGaze  share  O2
+23 275  13 333  93 390 0 0 1 Person3   JointAtt  share  O1
+24 236  59 310 144 390 0 0 1 Person4   JointAtt  share  O1
+25 410   3 480 101 390 0 0 1 Person5   JointAtt  share  O2
+20 205 198 252 248 391 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 391 0 0 1 Object2        NaN    NaN NaN
+ 9 130  73 223 202 391 0 0 1 Person1 SingleGaze  share  O1
+10 420  42 516 170 391 0 0 1 Person2 SingleGaze  share  O2
+23 274  11 332  91 391 0 0 1 Person3   JointAtt  share  O1
+24 238  59 312 144 391 0 0 1 Person4   JointAtt  share  O1
+25 410   3 480 101 391 0 0 1 Person5   JointAtt  share  O2
+20 205 198 252 248 392 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 392 0 0 1 Object2        NaN    NaN NaN
+ 9 130  73 223 202 392 0 0 1 Person1 SingleGaze  share  O1
+10 420  42 516 170 392 0 0 1 Person2 SingleGaze  share  O2
+23 273   9 331  89 392 0 0 0 Person3   JointAtt  share  O1
+24 239  59 313 144 392 0 0 1 Person4   JointAtt  share  O1
+25 411   4 481 102 392 0 0 0 Person5   JointAtt  share  O2
+20 206 199 253 249 393 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 393 0 0 1 Object2        NaN    NaN NaN
+ 9 131  73 224 202 393 0 0 0 Person1 SingleGaze  share  O1
+10 419  42 515 170 393 0 0 1 Person2 SingleGaze  share  O2
+23 271   8 329  88 393 0 0 1 Person3   JointAtt  share  O1
+24 241  59 315 144 393 0 0 1 Person4   JointAtt  share  O1
+25 406   8 476 106 393 0 0 1 Person5   JointAtt  share  O2
+20 206 199 253 249 394 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 394 0 0 1 Object2        NaN    NaN NaN
+ 9 131  73 224 202 394 0 0 1 Person1 SingleGaze  share  O1
+10 419  42 515 170 394 0 0 1 Person2 SingleGaze  share  O2
+23 270   7 328  87 394 0 0 1 Person3   JointAtt  share  O1
+24 243  59 317 144 394 0 0 1 Person4   JointAtt  share  O1
+25 401  13 471 111 394 0 0 1 Person5   JointAtt  share  O2
+20 206 199 253 249 395 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 395 0 0 1 Object2        NaN    NaN NaN
+ 9 131  73 224 202 395 0 0 1 Person1 SingleGaze  share  O1
+10 418  42 514 170 395 0 0 1 Person2 SingleGaze  share  O2
+23 268   7 326  87 395 0 0 1 Person3   JointAtt  share  O1
+24 244  59 318 144 395 0 0 1 Person4   JointAtt  share  O1
+25 396  17 466 115 395 0 0 1 Person5   JointAtt  share  O2
+20 206 199 253 249 396 0 0 1 Object1        NaN    NaN NaN
+21 342 204 396 258 396 0 0 1 Object2        NaN    NaN NaN
+ 9 131  73 224 202 396 0 0 1 Person1 SingleGaze single  O1
+10 418  42 514 170 396 0 0 1 Person2 SingleGaze  share  O2
+23 267   6 325  86 396 0 0 1 Person3   JointAtt follow  O1
+24 246  59 320 144 396 0 0 1 Person4   JointAtt  refer  O1
+25 391  22 461 120 396 0 0 1 Person5   JointAtt  share  O2
