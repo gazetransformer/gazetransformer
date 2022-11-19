@@ -48,25 +48,45 @@ Note that the displayed solid rectangles represent all the predicted human-targe
 Correctly classified atomic-level labels are in green, while incorrectly classified labels are in red and above their corresponding ground truth labels (also in red).
 
 Event-level prediction:
+
 232: Prediction: Non-communication, GT: Joint Attention
+
 233: Prediction: Non-communication, GT: Joint Attention
+
 62: Mutual
+
 64: Joint Attention
+
 71: Joint Attention
+
 74: Prediction: Mutual, GT: Gaze Aversion
+
 75: Prediction: Single, GT: Gaze Aversion
+
 76: Mutual
+
 77: Mutual
+
 78: Non-communication
+
 79: Mutual
+
 80: Mutual
+
 81: Prediction: Mutual, GT: Gaze Aversion
+
 82: Prediction: Mutual, GT: Gaze Aversion
+
 84: Non-communication
+
 85: Prediction: Gaze Following, GT:  Non-communication
+
 89: Non-communication
+
 91: Mutual 
+
 93: Prediction: Gaze Aversion, GT: Joint Attention
+
 97: Joint Attention
 
 
