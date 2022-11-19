@@ -28,16 +28,24 @@ We aim to simultaneously predict head and object locations and infer their corre
 
 Unlike previous end-to-end models that can only infer attended targets or handle Mutual gaze relationships, our GazeTransformer can predict Single, Share and Mutual atomic-level behaviours.
 
-See an example output below. **NOTE: that it might take a while to load the file, so please wait.**
+See an example output below. **Please note that loading the files might take a while, so kindly wait.**
 
 ![Alt Text](sample_output/64.gif)
 
 Sample results of our model can be found in the [sample_output](sample_output) folder.
 
-The dotted rectangles represent ground truth human and object locations, while solid rectangles represent model predictions.
+The red dotted rectangles represent ground truth human and object locations, while solid rectangles represent model predictions. 
 
-Correctly classified atomic-level labels are in green, while incorrectly classified labels are in red and above their corresponding ground truth labels.
+Note that the displayed solid rectangles represent all the predicted human-target interaction (HTI) instances, hence you may see overlapping rectangles around a human head or object. For example, a scene with two people (Person A and Person B) looking at each other may result in 2 predicted HTI pairs represented by 4 predicted bounding boxes in total):
 
+1. **Human:** Person A (rectangle 1),
+    **Target:** Person B (rectangle 2),
+    **Interaction:** Looking (directed arrow)
+2. **Human:** Person B (rectangle 3),
+   **Target:** Person A (rectangle 4),
+   **Interaction:** Looking (directed arrow)
+
+Correctly classified atomic-level labels are in green, while incorrectly classified labels are in red and above their corresponding ground truth labels (also in red).
 <!--
 **gazetransformer/gazetransformer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
